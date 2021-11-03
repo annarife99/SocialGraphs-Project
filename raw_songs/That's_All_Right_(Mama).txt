@@ -1,1 +1,0 @@
-{"batchcomplete":"","query":{"normalized":[{"from":"That's_All_Right_(Mama)","to":"That's All Right (Mama)"}],"pages":{"-1":{"ns":0,"title":"That's All Right (Mama)","missing":""}}}}

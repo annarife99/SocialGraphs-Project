@@ -1,1 +1,0 @@
-{"batchcomplete":"","query":{"normalized":[{"from":"Looking_Glass","to":"Looking Glass"}],"pages":{"-1":{"ns":0,"title":"Looking Glass","missing":""}}}}
