@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Taking_a_Trip_to_Carolina","to":"Taking a Trip to Carolina"}],"pages":{"-1":{"ns":0,"title":"Taking a Trip to Carolina","missing":""}}}}
