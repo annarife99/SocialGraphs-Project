@@ -441,7 +441,7 @@ I wanna hold your hand.</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-52c770e2d3cc9c7dc8525ea9433ce23e53ef07b461619e3403f59e0e68f703d6">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-bffc755892edf21dc460c6d42292ccbf29f87c92a6e19db99da6e32a82f14696">
   
     
       

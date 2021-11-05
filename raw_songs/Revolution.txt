@@ -378,7 +378,7 @@
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-3cf5b21d7206236992d2b1bec9bef136186e6bd869eaa047f93eeff1cc8e65ea">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-38525ea064339a0c4ad2e3c55fdcb8e9d1e3ea807d8f9cc73703704c04cfd3a4">
   
     
       
@@ -386,9 +386,9 @@
           <div class="views-row"><div class="views-field views-field-nothing grid-inner-wrapper first-grid-item"><span class="field-content"><div class="related-content">
 <div class="text">
 <div class="pre-title">Music video</div> 
-<div class="title"><a href="/ticket-ride-0" hreflang="en">Ticket To Ride </a></div> 
+<div class="title"><a href="/i-want-hold-your-hand-0" hreflang="en">I Want To Hold Your Hand </a></div> 
 </div>
-<div class="image"><a href="https://www.thebeatles.com/ticket-ride-0"><article class="media media--type-image media--view-mode-thumbnail">
+<div class="image"><a href="https://www.thebeatles.com/i-want-hold-your-hand-0"><article class="media media--type-image media--view-mode-thumbnail">
   
       
   <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
@@ -397,7 +397,7 @@
                   
               
               
-                  <img src="/sites/default/files/styles/responsive_thumbnail_mobile/public/2021-06/ticket%20to%20ride.jpg?itok=h9Zrzx4S" alt="ticket to ride" typeof="Image" />
+                  <img src="/sites/default/files/styles/responsive_thumbnail_mobile/public/2021-06/I%20Want%20To%20Hold%20Your%20Hand%20on%20Ed%20Sullivan2.jpg?itok=BD9Azl2F" alt="I Want To Hold Your Hand on Ed Sullivan" typeof="Image" />
 
   
 
@@ -409,9 +409,9 @@
     <div class="views-row"><div class="views-field views-field-nothing grid-inner-wrapper col-6-last"><span class="field-content"><div class="related-content">
 <div class="text">
 <div class="pre-title">Music video</div> 
-<div class="title"><a href="/twist-shout" hreflang="en">Twist &amp; Shout </a></div> 
+<div class="title"><a href="/hard-days-night-2" hreflang="en">A Hard Day&#039;s Night</a></div> 
 </div>
-<div class="image"><a href="https://www.thebeatles.com/twist-shout"><article class="media media--type-image media--view-mode-thumbnail">
+<div class="image"><a href="https://www.thebeatles.com/hard-days-night-2"><article class="media media--type-image media--view-mode-thumbnail">
   
       
   <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
@@ -420,7 +420,7 @@
                   
               
               
-                  <img src="/sites/default/files/styles/responsive_thumbnail_mobile/public/2021-06/twist%20and%20shout.jpg?itok=GRad8Rhf" alt="twist and shout" typeof="Image" />
+                  <img src="/sites/default/files/styles/responsive_thumbnail_mobile/public/2021-06/hard%20days%20night.jpg?itok=UgwL0jYl" alt="hard days night" typeof="Image" />
 
   
 

@@ -477,7 +477,7 @@ My baby don't care, my baby don't care.</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-fa833b59c9fe3b3b92f13ef6d7e1b3f84a14d467f4c25e53905b282850e7ebc9">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-14875798bf586c8132d22137ab66993b830af2f9f1fb99744f41efac01e24408">
   
     
       
