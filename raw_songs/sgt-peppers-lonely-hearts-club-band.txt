@@ -458,7 +458,7 @@ And Sergeant Pepper's Lonely Hearts Club Band, yeah.</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-28116eb610353c9cb5b6e614e1d9ded48c935d9eb770c6f57ffe66c37f6f8dea">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b2f340b075a68435318fdb667d62f6e785e831ae926e0a8e82d8074f05122eb9">
   
     
       

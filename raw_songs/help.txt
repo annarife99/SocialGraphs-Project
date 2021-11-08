@@ -5,8 +5,11 @@
     <meta charset="utf-8" />
 <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-3819040-9", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false});</script>
 <style id="gutenberg-palette">:root .has-black-color{color:#222222}:root .has-black-background-color{background-color:#222222}:root .has-white-color{color:#FFFFFF}:root .has-white-background-color{background-color:#FFFFFF}:root .has-green-color{color:#579A18}:root .has-green-background-color{background-color:#579A18}:root .has-light-grey-color{color:#9B9B9B}:root .has-light-grey-background-color{background-color:#9B9B9B}:root .has-mid-grey-color{color:#535353}:root .has-mid-grey-background-color{background-color:#535353}:root .has-red-color{color:#F02208}:root .has-red-background-color{background-color:#F02208}</style>
-<link rel="canonical" href="https://www.thebeatles.com/help" />
-<meta name="description" content="Image" />
+<link rel="canonical" href="https://www.thebeatles.com/help-1" />
+<meta name="description" content="&lt;!-- wp:bootstrap/row --&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;!-- wp:bootstrap/column {&quot;sizeMd&quot;:3,&quot;className&quot;:&quot;left-content&quot;} --&gt;
+&lt;div class=&quot;col-md-3 left-content&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:bootstrap/column --&gt;" />
 <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
 <meta name="HandheldFriendly" content="true" />
@@ -14,10 +17,10 @@
 <script>window.euCookieComplianceLoadScripts = function(category) {var scriptTag = document.createElement("script");scriptTag.src = "https:\/\/www.googletagmanager.com\/gtag\/js";document.body.appendChild(scriptTag);var scriptTag = document.createElement("script");scriptTag.src = "\/modules\/contrib\/google_analytics\/js\/google_analytics.js";document.body.appendChild(scriptTag);}</script>
 <style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #599c18} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
 <link rel="shortcut icon" href="/themes/custom/thebeatles_bs4/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="revision" href="https://www.thebeatles.com/help" />
+<link rel="revision" href="https://www.thebeatles.com/help-1" />
 
     <title>Help! | The Beatles</title>
-    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_krmpyfTEk1OTaVMmpTCFW74Aw8hd2ZH9VUARZvAVv3Q.css" />
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_sC0zB88g3CMTpqyZevgQxg9DFpjhSjuQMr3N54K6N1k.css" />
 <link rel="stylesheet" media="all" href="/sites/default/files/css/css_abJiovx3BKiy0C6pDpLuqCEJiym9bAw7bbcsFK03Vz4.css" />
 <link rel="stylesheet" media="all" href="//use.typekit.net/joo1mwm.css" />
 
@@ -35,7 +38,7 @@
           Sorry, you need to enable JavaScript to visit this website.
         </div>
         </noscript></head>
-  <body class="path-node page-node-type-film    bg-">
+  <body class="path-node page-node-type-song    bg-">
         <a href="#main-content" class="visually-hidden focusable skip-link">
       Skip to main content
     </a>
@@ -233,21 +236,21 @@
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/help&title=Help!" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/help-1&title=Help!" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook" />
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=Help!+https://www.thebeatles.com/help" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=Help!+https://www.thebeatles.com/help-1" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter" />
             </svg>
         </a>
     
     <!-- WhatsApp share button -->
-            <a href="https://wa.me/?text=https://www.thebeatles.com/help" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://wa.me/?text=https://www.thebeatles.com/help-1" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#whatsapp" />
             </svg>
@@ -272,7 +275,7 @@
     <!-- Evernote share button -->
     
     <!-- Email share button -->
-            <a href="mailto:?subject=Help!&body=https://www.thebeatles.com/help" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
+            <a href="mailto:?subject=Help!&body=https://www.thebeatles.com/help-1" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#email" />
             </svg>
@@ -294,7 +297,7 @@
   
     
       
-<article role="article" about="/help" class="node node--type-film node--promoted node--view-mode-full">
+<article role="article" about="/help-1" class="node node--type-song node--promoted node--view-mode-full">
 
   
     
@@ -302,287 +305,185 @@
   
   <div class="node__content">
     
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
-<div class="row no-gutters">
-  <div class="wp-block-beatles-headerblock header-block col image-behind">
-          <div class="">
-        <div class="row no-gutters">
-
-<div class="col-md-12">                                <div class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/BK-HEL-0131.jpg?itok=OW2LmBxH" width="1273" height="1300" alt="the Beatles in Help!" typeof="foaf:Image" class="image-style-max-1300x1300" />
+<div class="row">
+<div class="col-md-3 left-content"></div>
 
 
-</div>
-          </div>
 
-  </article>
-</div>
-                    
-
-
-<div class="wp-block-beatles-pagetitle pagetitle-block page-title-infront">
+<div class="col-md-6 middle-content border-left border-right">
+<div class="wp-block-beatles-pagetitle pagetitle-block">
       <div class="">
       <div class="row no-gutters">
         <div class="col">
-          <p class="pre-title">Film</p>
+          <p class="pre-title">Song</p>
           <h1>Help!</h1>
-          <p class="subtitle">Released 29th July 1965</p>
+          <p class="subtitle"><span class="font-heavy">Release date:</span> 19 July 1965</p>
         </div>
       </div>
     </div>
   </div>
 </div>
 
-</div>
-      </div>
-      </div>
+
+
+<div class="col-md-3 right-content"></div>
 </div>
 
 
 
 <div class="row">
 <div class="col-md-3 left-content">
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
 <div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"The storyline to <em>Help!</em> was written around me and the theme of the ring, and of course, Kaili. I had the central part. I think it helped that I'd been enthusiastic about the first film."</p>
+    <p></p>
     <footer>
-      Ringo
-    </footer>
-  </blockquote>
-</div>
-
-
-
-<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"While we'd really tried to get involved and learn the script for <em>A Hard Day's Night</em>, by the time <em>Help!</em> came along we were taking it as a bit of a joke. I'm not sure anyone ever knew the script, I think we used to learn it on the way to the set."</p>
-    <footer>
-      Paul
-    </footer>
-  </blockquote>
-</div>
-
-
-
-<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"Nowadays when people make movies, everybody's got to be insured and you're not supposed to do this, that and the other in case you get injured and hold up the budget of the movie. And yet they took us to Austria, took us up a mountain, gave us our boots (that nobody even laced up), gave us our skis, said, 'Turn over, take one. Action!' - and gave us a push."</p>
-    <footer>
-      George
-    </footer>
-  </blockquote>
-</div>
-
-
-
-<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"All the best stuff is on the cutting-room floor, with us breaking up and falling about all over the place, lying on the floor, incapable of saying a word."</p>
-    <footer>
-      John
-    </footer>
-  </blockquote>
-</div>
-</div>
-
-
-
-<div class="col-md-6 middle-content border-left border-right">
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-                                <div class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-remote-video media--view-mode-default">
-  
       
-            <div class="embed-responsive embed-responsive-16by9 field field--name-field-media-oembed-video field--type-string field--label-hidden field__item"><iframe src="/media/oembed?url=https%3A//www.youtube.com/watch%3Fv%3DZn99sY-PdtU%26ab_channel%3DTheBeatles&amp;max_width=0&amp;max_height=0&amp;hash=SWnU28dRdoUOI1nyz9AbYo_ZR7KKowWXu4JQJIrLwTk" frameborder="0" allowtransparency width="200" height="150" class="media-oembed-content embed-responsive-item" title="Help! - DVD Trailer 2007" rel="0"></iframe>
+    </footer>
+  </blockquote>
 </div>
-      
-  </article>
 </div>
-                    
 
 
+
+<div class="col-md-6 middle-content border-left border-right"><p>Help! I need somebody,<br />
+Help! Not just anybody,<br />
+Help! You know I need someone,<br />
+Help!</p>
+<p>When I was younger, so much younger than today,<br />
+I never needed anybody's help in any way,<br />
+But now these days are gone and I'm not so self assured,<br />
+Now I find I've changed my mind, I've opened up the doors.</p>
+<p>Help me if you can, I'm feeling down,<br />
+And I do appreciate you being 'round,<br />
+Help me get my feet back on the ground,<br />
+Won't you please, please help me?</p>
+<p>And now my life has changed in oh so many ways,<br />
+My independence seems to vanish in the haze,<br />
+But ev'ry now and then I feel so insecure,<br />
+I know that I just need you like I've never done before.</p>
+<p>Help me if you can, I'm feeling down,<br />
+And I do appreciate you being 'round,<br />
+Help me get my feet back on the ground,<br />
+Won't you please, please help me?</p>
+<p>When I was younger, so much younger than today,<br />
+I never needed anybody's help in any way,<br />
+But now these days are gone and I'm not so self assured,<br />
+Now I find I've changed my mind, I've opened up the doors.</p>
+<p>Help me if you can, I'm feeling down,<br />
+And I do appreciate you being 'round,<br />
+Help me get my feet back on the ground,<br />
+Won't you please, please help me?</p>
+<p>Help me, help me Ooh.</p>
+
+<figure class="wp-block-table table-expander table table-imported"><table><tr><th>"Help!"</th>
+</tr><tr><td></td>
+</tr><tr><th>Single by The Beatles</th>
+</tr><tr><th>from the album Help!</th>
+</tr><tr><th scope="row">B-side</th>
+<td>"I'm Down"</td>
+</tr><tr><th scope="row">Released</th>
+<td>19 July 1965 (US)<br />
+23 July 1965 (UK)</td>
+</tr><tr><th scope="row">Format</th>
+<td>7"</td>
+</tr><tr><th scope="row">Recorded</th>
+<td>13 April 1965,<br />EMI Studios, London</td>
+</tr><tr><th scope="row">Genre</th>
+<td>Folk rock</td>
+</tr><tr><th scope="row">Length</th>
+<td>2:18</td>
+</tr><tr><th scope="row">Label</th>
+<td>Parlophone, Capitol Records</td>
+</tr><tr><th scope="row">Writer(s)</th>
+<td>Lennon-McCartney</td>
+</tr><tr><th scope="row">Producer</th>
+<td>George Martin</td>
+</tr><tr><th scope="row">Certification</th>
+<td>Gold (RIAA)</td>
+</tr><tr><th>The Beatles singles chronology</th>
+</tr><tr><td>
+<figure class="wp-block-table table-expander table table-imported"><table><tr><td>"Ticket to Ride"<br />
+(1965)</td>
+<td>"Help!"<br />
+(1965)</td>
+<td>"Yesterday"<br />
+(US-1965)<br />
+--<br />
+"Day Tripper" / "We Can Work It Out"<br />
+(UK-1965)</td>
+</tr></table></figure></td>
+</tr><tr><td>
 <p></p>
+<figure class="wp-block-table table-expander table table-imported"><table><tr><th></th>
+</tr><tr><th scope="col">Help! track listing</th>
+</tr><tr><td></td>
+</tr><tr><td>
+<figure class="wp-block-table table-expander table table-imported"><table><tr><th>14 tracks</th>
+</tr><tr><td>
+<dl><dt>Side one</dt>
+</dl><ol><li>"Help!"</li>
+<li>"The Night Before"</li>
+<li>"You've Got to Hide Your Love Away"</li>
+<li>"I Need You"</li>
+<li>"Another Girl"</li>
+<li>"You're Going to Lose That Girl"</li>
+<li>"Ticket to Ride"</li>
+</ol><dl><dt>Side two</dt>
+</dl><ol><li>"Act Naturally"</li>
+<li>"It's Only Love"</li>
+<li>"You Like Me Too Much"</li>
+<li>"Tell Me What You See"</li>
+<li>"I've Just Seen a Face"</li>
+<li>"Yesterday"</li>
+<li>"Dizzy Miss Lizzy"</li>
+</ol></td>
+</tr></table></figure></td>
+</tr></table></figure></td>
+</tr></table></figure><p>"Help!" is a song by the Beatles that served as the title song for both the 1965 film and its soundtrack album. It was also released as a single, and was number one for three weeks in both the United States and the United Kingdom.</p>
+<p>"Help!" was written primarily by John Lennon, but credited to Lennon-McCartney. During an interview with Playboy in 1984, Paul McCartney stated that the title was "out of desperation". In 2004, "Help!" was ranked number 29 on Rolling Stone's list of "The 500 Greatest Songs of All Time".
+</p>
 
 
 
-<p>"“Help” was written at the end of 1964. We were determined not to produce an upmarket, colour version of “A Hard Day’s Night”, which was a fictionalised documentary on Beatles lives. We chose, instead, to do a Pop Art fantasy within which we could play around with the state of Britain in 1965 and Harold Wilson’s white-hot, modern society. Just pre-“Haight-Ashbury”, pre-Vietnam, petrol wars, and the 1968 May riots, there was still a bed in England an exuberant residue of good humour. We had the pill and, as yet, relatively few parking meters. If the film seems innocent, we all can plead guilty – the songs were great and filming them was sheer pleasure. </p>
 
 
 
-<p>In 1966, after my three years working with the Beatles, I had felt myself being close to the centre of the universe. I remembered saying at the time “Whatever happens to me for the rest of my life, if I’m hit by a bus the Evening Standard billboard will read, ‘Beatles director in death drama.’” </p>
+©1965 Sony/ATV Music Publishing LLC.  All rights reserved.  Used by permission.</div>
 
 
 
-<p>Richard Lester, August 2007</p>
-</div>
-
-
-
-<div class="col-md-3 right-content">
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-<div class="block block-views block-views-blockrelated-content-block-1">
+<div class="col-md-3 right-content"><div class="views-element-container block block-views block-views-blockrelated-content-block-1">
+  
+      <h2>Related Articles</h2>
+    
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-bb852e5dd86de373672c0dea33ca356e70b5148ea72b8c027bc993f64904e361">
   
     
       
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-nothing grid-inner-wrapper first-grid-item"><span class="field-content"><div class="related-content">
+<div class="text">
+<div class="pre-title">Song</div> 
+<div class="title"><a href="/i-got-find-my-baby" hreflang="en">I Got To Find My Baby</a></div> 
+</div>
+<div class="image"><a href="https://www.thebeatles.com/i-got-find-my-baby"></a></div>
+</div></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing grid-inner-wrapper col-6-last"><span class="field-content"><div class="related-content">
+<div class="text">
+<div class="pre-title">Song</div> 
+<div class="title"><a href="/ill-be-my-way" hreflang="en">I&#039;ll Be On My Way</a></div> 
+</div>
+<div class="image"><a href="https://www.thebeatles.com/ill-be-my-way"></a></div>
+</div></span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
   </div>
 </div>
 </div>
 
-
-
-<div class="row no-gutters single-column-row">
-<div class="col-md-12 full-width-content">
-<div class="beatles-slideshow-container">
-  <div class="beatles-slideshow-wrapper">
-    <div class="beatles-slideshow row">
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-07/Help_F_H_BK-HEL-0184.jpg?itok=sSduTkXh" width="1000" height="1000" alt="the Beatles in Help!" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-07/BCD-024.jpg?itok=QOI-iXtB" width="1300" height="869" alt="The Beatles in the snow in a scene from Help!" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-07/BC-004.jpg?itok=1vrokXxv" width="1300" height="859" alt="The Beatles underwater in a scene from Help!" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-07/F_H_BFI_A_7.jpg?itok=0J4hKBCX" width="1000" height="663" alt="The Beatles filming &quot;Help!&quot;" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-</div>
-    <a class="carousel-control-prev" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-</div>
-
-</div>
-</div>
-
-
-
-<div class="row align-items-center">
-<div class="col-md-3 left-content">
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-</div>
-
-
-
-<div class="col-md-6 middle-content border-left border-right">
-<figure class="wp-block-table table-expander table"><table><tbody><tr><td>John Lennon</td><td>John</td></tr><tr><td>Paul McCartney</td><td>Paul</td></tr><tr><td>George Harrison</td><td>George</td></tr><tr><td>Ringo Starr</td><td>Ringo</td></tr><tr><td>Leo McKern</td><td>Clang</td></tr><tr><td>Eleanor Bron</td><td>Ahme</td></tr><tr><td>Victor Spinetti</td><td>Foot</td></tr><tr><td>Roy Kinnear</td><td>Algernon</td></tr><tr><td>Patrick Cargill</td><td>Superintendent</td></tr><tr><td>John Bluthal</td><td>Bhuta</td></tr><tr><td>Peter Copley</td><td>Jeweller</td></tr><tr><td>Alfie Bass</td><td>Doorman</td></tr><tr><td>Warren Mitchell</td><td>Abdul</td></tr><tr><td>Bruce Lacey</td><td>Lawnmower</td></tr><tr><td>Mal Evans</td><td>Cross Channel swimmer</td></tr><tr><td>Dandy Nichols</td><td>Woman in street 1</td></tr><tr><td>Gretchen Franklin</td><td>Woman in street 2</td></tr><tr><td>Richard Lester</td><td>Director</td></tr><tr><td>Walter Shenson</td><td>Producer</td></tr><tr><td>Marc Behm and Charles Wood</td><td>Screenplay</td></tr><tr><td>Marc Behm</td><td>Story </td></tr><tr><td>John Pellatt</td><td>Production Manager</td></tr><tr><td>David Watkin</td><td>Director of Photography</td></tr><tr><td>John Victor Smith</td><td>Film Editor</td></tr><tr><td>Raymond Simm</td><td>Art Director</td></tr><tr><td>Robert Freeman</td><td>Colour Consultant and Titles</td></tr><tr><td>Ken Thorne</td><td>Musical Director</td></tr><tr><td>Julie Harris</td><td>Costume Designer</td></tr><tr><td>Cliff Richardson</td><td>Special Effects</td></tr><tr><td>Clive Reed</td><td>Assistant Director</td></tr><tr><td>Jack Atchelor</td><td>Camera Operator</td></tr><tr><td>Paul Wilson</td><td>Camera Operator</td></tr><tr><td>H.L.Bird</td><td>Sound Recordist</td></tr><tr><td>Stephen Dalby</td><td>Sound Recordist</td></tr><tr><td>Rita Davison</td><td>Continuity</td></tr><tr><td>Freddie Williamson</td><td>Make Up</td></tr><tr><td>Betty Glasow</td><td>Hairdresser</td></tr><tr><td>Arthur Newman</td><td>Wardrobe</td></tr><tr><td>Bill Blunden</td><td>Sound Editor</td></tr><tr><td>Don Challis</td><td>Sound Editor</td></tr><tr><td>Barry Vince</td><td>Music Editor</td></tr><tr><td>John Lennon and Paul McCartney<br>and by George Harrison</td><td>Songs by</td></tr><tr><td>The Beatles </td><td>Performed by</td></tr><tr><td>George Martin</td><td>Produced by</td></tr></tbody></table></figure>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p></p>
-
-
-    
-
-
-<p></p>
-</div>
-
-
-
-<div class="col-md-3 right-content">
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-</div>
-</div>
-</div>
-      
   </div>
 
 </article>
@@ -783,21 +684,21 @@
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/help&title=Help!" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/help-1&title=Help!" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook" />
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=Help!+https://www.thebeatles.com/help" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=Help!+https://www.thebeatles.com/help-1" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter" />
             </svg>
         </a>
     
     <!-- WhatsApp share button -->
-            <a href="https://wa.me/?text=https://www.thebeatles.com/help" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://wa.me/?text=https://www.thebeatles.com/help-1" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#whatsapp" />
             </svg>
@@ -822,7 +723,7 @@
     <!-- Evernote share button -->
     
     <!-- Email share button -->
-            <a href="mailto:?subject=Help!&body=https://www.thebeatles.com/help" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
+            <a href="mailto:?subject=Help!&body=https://www.thebeatles.com/help-1" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#email" />
             </svg>
@@ -846,7 +747,7 @@
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2366","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,beatles_blockquote\/block-view,beatles_body_colour\/block-view,beatles_bootstrap\/block-view,beatles_drupalblock\/block-view,beatles_headerblock\/block-view,beatles_heading\/block-view,beatles_media\/block-view,beatles_pagetitle\/block-view,beatles_relatedcontent\/block-view,beatles_slideshow\/block-view,beatles_spotify\/block-view,beatles_table\/block-view,beatles_timeline\/block-view,better_social_sharing_buttons\/styling,bootstrap4\/bootstrap4-js-latest,bootstrap4\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_default,fontawesome\/fontawesome.webfonts.shim,google_analytics\/google_analytics,gutenberg\/blocks-view,gutenberg_bs_blocks\/block-view,gutenberg_bs_blocks\/container-block-view,media\/oembed.formatter,system\/base,thebeatles_bs4\/global-styling,thebeatles_bs4\/typekit","theme":"thebeatles_bs4","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-three-bounce\u0022\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce1\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce2\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce3\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":false,"throbberPosition":"body"},"google_analytics":{"account":"UA-3819040-9","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"user":{"uid":0,"permissionsHash":"451f327decd8128bb7802badc5befce7a9cb9e542f81cc5734fbaab6999c1aec"}}</script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2898","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,beatles_blockquote\/block-view,beatles_body_colour\/block-view,beatles_bootstrap\/block-view,beatles_drupalblock\/block-view,beatles_headerblock\/block-view,beatles_heading\/block-view,beatles_media\/block-view,beatles_pagetitle\/block-view,beatles_relatedcontent\/block-view,beatles_slideshow\/block-view,beatles_spotify\/block-view,beatles_table\/block-view,beatles_timeline\/block-view,better_social_sharing_buttons\/styling,bootstrap4\/bootstrap4-js-latest,bootstrap4\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_default,fontawesome\/fontawesome.webfonts.shim,google_analytics\/google_analytics,gutenberg\/blocks-view,gutenberg_bs_blocks\/block-view,gutenberg_bs_blocks\/container-block-view,system\/base,thebeatles_bs4\/global-styling,thebeatles_bs4\/typekit,views\/views.module","theme":"thebeatles_bs4","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-three-bounce\u0022\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce1\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce2\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce3\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":false,"throbberPosition":"body"},"google_analytics":{"account":"UA-3819040-9","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"user":{"uid":0,"permissionsHash":"451f327decd8128bb7802badc5befce7a9cb9e542f81cc5734fbaab6999c1aec"}}</script>
 <script src="/sites/default/files/js/js_Lf9cmWxDeZGJgFUIhxDo-nabU7t--oVsBpHWBfIDEb4.js"></script>
 <script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?v=1.9" defer></script>
 

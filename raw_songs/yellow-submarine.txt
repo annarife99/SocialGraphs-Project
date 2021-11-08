@@ -5,10 +5,11 @@
     <meta charset="utf-8" />
 <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-3819040-9", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false});</script>
 <style id="gutenberg-palette">:root .has-black-color{color:#222222}:root .has-black-background-color{background-color:#222222}:root .has-white-color{color:#FFFFFF}:root .has-white-background-color{background-color:#FFFFFF}:root .has-green-color{color:#579A18}:root .has-green-background-color{background-color:#579A18}:root .has-light-grey-color{color:#9B9B9B}:root .has-light-grey-background-color{background-color:#9B9B9B}:root .has-mid-grey-color{color:#535353}:root .has-mid-grey-background-color{background-color:#535353}:root .has-red-color{color:#F02208}:root .has-red-background-color{background-color:#F02208}</style>
-<link rel="canonical" href="https://www.thebeatles.com/yellow-submarine" />
-<meta name="description" content="Album
-          Yellow Submarine
-          Release date: 17 January 1969" />
+<link rel="canonical" href="https://www.thebeatles.com/yellow-submarine-0" />
+<meta name="description" content="&lt;!-- wp:bootstrap/row --&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;!-- wp:bootstrap/column {&quot;sizeMd&quot;:3,&quot;className&quot;:&quot;left-content&quot;} --&gt;
+&lt;div class=&quot;col-md-3 left-content&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:bootstrap/column --&gt;" />
 <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
 <meta name="HandheldFriendly" content="true" />
@@ -16,10 +17,10 @@
 <script>window.euCookieComplianceLoadScripts = function(category) {var scriptTag = document.createElement("script");scriptTag.src = "https:\/\/www.googletagmanager.com\/gtag\/js";document.body.appendChild(scriptTag);var scriptTag = document.createElement("script");scriptTag.src = "\/modules\/contrib\/google_analytics\/js\/google_analytics.js";document.body.appendChild(scriptTag);}</script>
 <style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #599c18} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
 <link rel="shortcut icon" href="/themes/custom/thebeatles_bs4/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="revision" href="https://www.thebeatles.com/yellow-submarine" />
+<link rel="revision" href="https://www.thebeatles.com/yellow-submarine-0" />
 
     <title>Yellow Submarine | The Beatles</title>
-    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_krmpyfTEk1OTaVMmpTCFW74Aw8hd2ZH9VUARZvAVv3Q.css" />
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_sC0zB88g3CMTpqyZevgQxg9DFpjhSjuQMr3N54K6N1k.css" />
 <link rel="stylesheet" media="all" href="/sites/default/files/css/css_abJiovx3BKiy0C6pDpLuqCEJiym9bAw7bbcsFK03Vz4.css" />
 <link rel="stylesheet" media="all" href="//use.typekit.net/joo1mwm.css" />
 
@@ -37,7 +38,7 @@
           Sorry, you need to enable JavaScript to visit this website.
         </div>
         </noscript></head>
-  <body class="path-node page-node-type-album    bg-">
+  <body class="path-node page-node-type-song    bg-">
         <a href="#main-content" class="visually-hidden focusable skip-link">
       Skip to main content
     </a>
@@ -235,21 +236,21 @@
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/yellow-submarine&title=Yellow Submarine" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/yellow-submarine-0&title=Yellow Submarine" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook" />
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=Yellow Submarine+https://www.thebeatles.com/yellow-submarine" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=Yellow Submarine+https://www.thebeatles.com/yellow-submarine-0" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter" />
             </svg>
         </a>
     
     <!-- WhatsApp share button -->
-            <a href="https://wa.me/?text=https://www.thebeatles.com/yellow-submarine" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://wa.me/?text=https://www.thebeatles.com/yellow-submarine-0" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#whatsapp" />
             </svg>
@@ -274,7 +275,7 @@
     <!-- Evernote share button -->
     
     <!-- Email share button -->
-            <a href="mailto:?subject=Yellow Submarine&body=https://www.thebeatles.com/yellow-submarine" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
+            <a href="mailto:?subject=Yellow Submarine&body=https://www.thebeatles.com/yellow-submarine-0" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#email" />
             </svg>
@@ -296,7 +297,7 @@
   
     
       
-<article role="article" about="/yellow-submarine" class="node node--type-album node--promoted node--view-mode-full">
+<article role="article" about="/yellow-submarine-0" class="node node--type-song node--promoted node--view-mode-full">
 
   
     
@@ -304,20 +305,19 @@
   
   <div class="node__content">
     
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
 <div class="row">
 <div class="col-md-3 left-content"></div>
 
 
 
-<div class="col-md-6 no-border">
+<div class="col-md-6 middle-content border-left border-right">
 <div class="wp-block-beatles-pagetitle pagetitle-block">
       <div class="">
       <div class="row no-gutters">
         <div class="col">
-          <p class="pre-title">Album</p>
+          <p class="pre-title">Song</p>
           <h1>Yellow Submarine</h1>
-          <p class="subtitle"><span class="font-heavy">Release date:</span> 17 January 1969</p>
+          <p class="subtitle"><span class="font-heavy">Release date:</span> 05 August 1966</p>
         </div>
       </div>
     </div>
@@ -334,49 +334,9 @@
 <div class="row">
 <div class="col-md-3 left-content">
 <div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"I love cartoons - I love the Disney stuff. So, you know, the first thing when we heard people were going to do a cartoon I just thought, 'Yeah, this could be the greatest Disney cartoon ever' - I mean, with our music. But they were going more Pepper direction, so we said, 'Well why don't you just take a lot of songs we've got already?"</p>
+    <p></p>
     <footer>
-      PAUL
-    </footer>
-  </blockquote>
-</div>
-
-
-
-<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"It was a perfect song because it was so simple. It was a great excuse to go right in the middle of that whole culture that was happening and give them a theme tune."</p>
-    <footer>
-      GEORGE
-    </footer>
-  </blockquote>
-</div>
-
-
-
-<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"I want you to get out of your seats and swim.</p>
-    <footer>
-      JOHN<br>
-    </footer>
-  </blockquote>
-</div>
-
-
-
-<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"One of the things that I like about John's song writing style is its quirkiness, and I think Hey Bulldog is very surreal. And obviously, I like the moment when we're in there and I'm harmonising with him and I start being a dog, you know, and then he sort of says, 'You got any more?', and like - 'Woooooow!'"</p>
-    <footer>
-      PAUL
-    </footer>
-  </blockquote>
-</div>
-
-
-
-<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"The animation was tailored to the music and the feelings that were about. We had a bunch of songs that we were working on that hadn't been heard before the film.</p>
-    <footer>
-      GEORGE
+      
     </footer>
   </blockquote>
 </div>
@@ -384,275 +344,159 @@
 
 
 
-<div class="col-md-6 middle-content border-left border-right">                                <figure class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-image media--view-mode-default">
+<div class="col-md-6 middle-content border-left border-right"><p>In the town where I was born,<br />
+Lived a man who sailed the sea.<br />
+And he told us of his life,<br />
+In the land of submarines.</p>
+<p>So we sailed on to the sun,<br />
+Till we found the sea of green,<br />
+And we lived beneath the waves,<br />
+In our yellow submarine.</p>
+<p>We all live in a yellow submarine,<br />
+Yellow submarine, yellow submarine,<br />
+We all live in a yellow submarine,<br />
+Yellow submarine, yellow submarine,</p>
+<p>And our friends are all aboard,<br />
+Many more of them live next door,<br />
+And the band begins to play.</p>
+<p>We all live in a yellow submarine,<br />
+Yellow submarine, yellow submarine,<br />
+We all live in a yellow submarine,<br />
+Yellow submarine, yellow submarine,</p>
+<p>As we live a life of ease,<br />
+Ev'ryone of us has all we need,<br />
+Sky of blue and sea of green,<br />
+In our yellow submarine.</p>
+<p>We all live in a yellow submarine,<br />
+Yellow submarine, yellow submarine,<br />
+We all live in a yellow submarine,<br />
+Yellow submarine, yellow submarine.</p>
+
+<figure class="wp-block-table table-expander table table-imported"><table><tr><th>"Yellow Submarine"</th>
+</tr><tr><td></td>
+</tr><tr><th>Single by The Beatles</th>
+</tr><tr><th>from the album Revolver</th>
+</tr><tr><th scope="row">A-side</th>
+<td>"Eleanor Rigby"</td>
+</tr><tr><th scope="row">Released</th>
+<td>5 August 1966</td>
+</tr><tr><th scope="row">Format</th>
+<td>7"</td>
+</tr><tr><th scope="row">Recorded</th>
+<td>26 May and 1 June 1966,<br />EMI Studios, London</td>
+</tr><tr><th scope="row">Genre</th>
+<td>Psychedelic rock</td>
+</tr><tr><th scope="row">Length</th>
+<td>2:38</td>
+</tr><tr><th scope="row">Label</th>
+<td>Parlophone</td>
+</tr><tr><th scope="row">Writer(s)</th>
+<td>Lennon-McCartney</td>
+</tr><tr><th scope="row">Producer</th>
+<td>George Martin</td>
+</tr><tr><th scope="row">Certification</th>
+<td>Gold (RIAA)</td>
+</tr><tr><th>The Beatles singles chronology</th>
+</tr><tr><td>
+<figure class="wp-block-table table-expander table table-imported"><table><tr><td>"Paperback Writer"<br />
+(1966)</td>
+<td>"Eleanor Rigby" / "Yellow Submarine"<br />
+(1966)</td>
+<td>"Strawberry Fields Forever" / "Penny Lane"<br />
+(1967)</td>
+</tr></table></figure></td>
+</tr><tr><td>
+<figure class="wp-block-table table-expander table table-imported"><table><tr><th scope="col">Revolver track listing</th>
+</tr><tr><td></td>
+</tr><tr><td>
+<figure class="wp-block-table table-expander table table-imported"><table><tr><th>14 tracks</th>
+</tr><tr><td>
+<dl><dt>Side one</dt>
+</dl><ol><li>"Taxman"</li>
+<li>"Eleanor Rigby"</li>
+<li>"I'm Only Sleeping"</li>
+<li>"Love You To"</li>
+<li>"Here, There and Everywhere"</li>
+<li>"Yellow Submarine"</li>
+<li>"She Said She Said"</li>
+</ol><dl><dt>Side two</dt>
+</dl><ol><li>"Good Day Sunshine"</li>
+<li>"And Your Bird Can Sing"</li>
+<li>"For No One"</li>
+<li>"Doctor Robert"</li>
+<li>"I Want to Tell You"</li>
+<li>"Got to Get You into My Life"</li>
+<li>"Tomorrow Never Knows"</li>
+</ol></td>
+</tr></table></figure></td>
+</tr><tr><th scope="col">Yellow Submarine track listing</th>
+</tr><tr><td></td>
+</tr><tr><td>
+<figure class="wp-block-table table-expander table table-imported"><table><tr><th>13 tracks</th>
+</tr><tr><td>
+<dl><dt>Side one</dt>
+</dl><ol><li>"Yellow Submarine"</li>
+<li>"Only a Northern Song"</li>
+<li>"All Together Now"</li>
+<li>"Hey Bulldog"</li>
+<li>"It's All Too Much"</li>
+<li>"All You Need Is Love"</li>
+</ol><dl><dt>Side two</dt>
+</dl><ol><li>"Pepperland"</li>
+<li>"Sea of Time"</li>
+<li>"Sea of Holes"</li>
+<li>"Sea of Monsters"</li>
+<li>"March of the Meanies"</li>
+<li>"Pepperland Laid Waste"</li>
+<li>"Yellow Submarine in Pepperland"</li>
+</ol></td>
+</tr></table></figure></td>
+</tr></table></figure></td>
+</tr></table></figure><p>"Yellow Submarine" is a 1966 song by the Beatles, written by Paul McCartney (credited to Lennon-McCartney), with lead vocals by Ringo Starr. It was included on the Revolver album and issued as a single, coupled with "Eleanor Rigby". The single went to number 1 on every major British chart, remained at number 1 for four weeks and charted for 13 weeks. It won an Ivor Novello Award "for the highest certified sales of any single issued in the UK in 1966".</p>
+<p>It became the title song of the 1968 animated United Artists film, also called Yellow Submarine, and the soundtrack album to the film, released as part of the Beatles' music catalogue. Although intended as a nonsense song for children, "Yellow Submarine" received various social and political interpretations at the time.
+</p>
+
+
+
+
+
+©1966 Sony/ATV Music Publishing LLC.  All rights reserved.  Used by permission.</div>
+
+
+
+<div class="col-md-3 right-content"><div class="views-element-container block block-views block-views-blockrelated-content-block-1">
   
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/Yellow%20Sub.jpg?itok=FqFRoKES" width="1300" height="1300" alt="Yellow Submarine album cover" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-<figcaption><br></figcaption>
-            </figure>
-                    
-
-
-<figure class="wp-block-embed-spotify wp-block-embed is-type-rich spotify-embed wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe width="100%" height="380" title="Spotify Embed: Yellow Submarine (Remastered)" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/album/1gKZ5A1ndFqbcrWtW85cCy?si=3PVrBxbFTqmexPsbobuRWg"></iframe>
-</div></figure>
-
-
-
-<div class="wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link has-green-background-color has-background" href="https://thebeatles.lnk.to/Yellow-Submarine-Stream" target="_blank" rel="noreferrer noopener">STREAM</a></div>
-
-
-
-<div class="wp-block-button"><a class="wp-block-button__link has-green-background-color has-background" href="https://thebeatles.lnk.to/Yellow-Submarine-Buy" target="_blank" rel="noreferrer noopener">BUY THE ALBUM</a></div>
-</div>
-
-
-
-<p>Released in Britain on 17th January, 1969 (and a few days earlier in the US), Yellow Submarine was the soundtrack to an animated feature film which had received its UK premiere some six months earlier.</p>
-
-
-                                <div class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/SUB_SUB_009%20drew%20_0.jpg?itok=7bEWU7kY" width="1000" height="666" alt="The Yellow Submarine" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</div>
-                    
-
-
-<p>The original LP release contained the Beatles tracks on side one with a newly recorded orchestral score composed and arranged by George Martin occupying side two of the disc. Of the Beatles tracks, four were brand new songs.</p>
-
-
-
-<p>The album was never intended as a high profile Beatles release, indeed it was issued when The Beatles was still no. 1. Despite that the album still managed a no. 3 position in Britain and climbed one place higher in the US.</p>
-
-
-                                <figure class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/roll_2.0132.tif%20copy.jpg?itok=_f8o-V57" width="1300" height="1000" alt="The Sea of Science" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-<figcaption><br></figcaption>
-            </figure>
-                    
-
-                                <figure class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/SUB_SCG_M042.jpg?itok=3zJJYdtJ" width="1300" height="927" alt="Whales meet the Submarine" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-<figcaption><br></figcaption>
-            </figure>
-                    
-
-                                <div class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-remote-video media--view-mode-default">
-  
-      
-            <div class="embed-responsive embed-responsive-16by9 field field--name-field-media-oembed-video field--type-string field--label-hidden field__item"><iframe src="/media/oembed?url=https%3A//youtu.be/VNcou01nOWU&amp;max_width=0&amp;max_height=0&amp;hash=OqJac6W6LAEZCFrxDFIT6iyE7Y3lLsbeDT1mENexA-c" frameborder="0" allowtransparency width="200" height="150" class="media-oembed-content embed-responsive-item" title="The Making of Yellow Submarine" rel="0"></iframe>
-</div>
-      
-  </article>
-</div>
-                    </div>
-
-
-
-<div class="col-md-3 right-content"><div class="block block-views block-views-blockrelated-content-block-1">
+      <h2>Related Articles</h2>
+    
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-1f36104a0ec583f63858911f379a582aa609c6885e2abfe11ce6554866c3a8de">
   
     
       
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-nothing grid-inner-wrapper first-grid-item"><span class="field-content"><div class="related-content">
+<div class="text">
+<div class="pre-title">Song</div> 
+<div class="title"><a href="/i-got-find-my-baby" hreflang="en">I Got To Find My Baby</a></div> 
+</div>
+<div class="image"><a href="https://www.thebeatles.com/i-got-find-my-baby"></a></div>
+</div></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing grid-inner-wrapper col-6-last"><span class="field-content"><div class="related-content">
+<div class="text">
+<div class="pre-title">Song</div> 
+<div class="title"><a href="/ill-be-my-way" hreflang="en">I&#039;ll Be On My Way</a></div> 
+</div>
+<div class="image"><a href="https://www.thebeatles.com/ill-be-my-way"></a></div>
+</div></span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
   </div>
 </div>
 </div>
 
-
-
-<div class="row no-gutters single-column-row">
-<div class="col-sm-12 full-width-content">    
-
-
-<div class="beatles-slideshow-container">
-  <div class="beatles-slideshow-wrapper">
-    <div class="beatles-slideshow row">
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/T-048-20.jpg?itok=liOCW6HP" width="1000" height="669" alt="John at Abbey Road " typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/T-051-04.jpg?itok=0ZhMgAz7" width="1000" height="666" alt="Paul at Abbey Road " typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/T-048-14.jpg?itok=cs7rFcWg" width="1000" height="664" alt="Ringo at Abbey Road " typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/T-051-14_crop2.jpg?itok=HET-47TT" width="1000" height="736" alt="George at Abbey Road studios " typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-</div>
-    <a class="carousel-control-prev" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-</div>
-
-</div>
-</div>
-
-
-
-<div class="row">
-<div class="col-md-3 left-content"></div>
-
-
-
-<div class="col-md-6 middle-content border-left border-right">
-<p></p>
-
-
-
-<p></p>
-</div>
-
-
-
-<div class="col-md-3 right-content"></div>
-</div>
-
-
-
-<div class="row no-gutters single-column-row">
-<div class="col-sm-12 full-width-content">    </div>
-</div>
-
-
-
-<div class="row">
-<div class="col-md-3 left-content"></div>
-
-
-
-<div class="col-md-6 middle-content border-left border-right">
-<p></p>
-</div>
-
-
-
-<div class="col-md-3 right-content"></div>
-</div>
-</div>
-      
   </div>
 
 </article>
@@ -853,21 +697,21 @@
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/yellow-submarine&title=Yellow Submarine" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/yellow-submarine-0&title=Yellow Submarine" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook" />
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=Yellow Submarine+https://www.thebeatles.com/yellow-submarine" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=Yellow Submarine+https://www.thebeatles.com/yellow-submarine-0" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter" />
             </svg>
         </a>
     
     <!-- WhatsApp share button -->
-            <a href="https://wa.me/?text=https://www.thebeatles.com/yellow-submarine" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://wa.me/?text=https://www.thebeatles.com/yellow-submarine-0" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#whatsapp" />
             </svg>
@@ -892,7 +736,7 @@
     <!-- Evernote share button -->
     
     <!-- Email share button -->
-            <a href="mailto:?subject=Yellow Submarine&body=https://www.thebeatles.com/yellow-submarine" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
+            <a href="mailto:?subject=Yellow Submarine&body=https://www.thebeatles.com/yellow-submarine-0" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#email" />
             </svg>
@@ -916,7 +760,7 @@
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2380","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,beatles_blockquote\/block-view,beatles_body_colour\/block-view,beatles_bootstrap\/block-view,beatles_drupalblock\/block-view,beatles_headerblock\/block-view,beatles_heading\/block-view,beatles_media\/block-view,beatles_pagetitle\/block-view,beatles_relatedcontent\/block-view,beatles_slideshow\/block-view,beatles_spotify\/block-view,beatles_table\/block-view,beatles_timeline\/block-view,better_social_sharing_buttons\/styling,bootstrap4\/bootstrap4-js-latest,bootstrap4\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_default,fontawesome\/fontawesome.webfonts.shim,google_analytics\/google_analytics,gutenberg\/blocks-view,gutenberg_bs_blocks\/block-view,gutenberg_bs_blocks\/container-block-view,media\/oembed.formatter,system\/base,thebeatles_bs4\/global-styling,thebeatles_bs4\/typekit","theme":"thebeatles_bs4","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-three-bounce\u0022\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce1\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce2\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce3\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":false,"throbberPosition":"body"},"google_analytics":{"account":"UA-3819040-9","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"user":{"uid":0,"permissionsHash":"451f327decd8128bb7802badc5befce7a9cb9e542f81cc5734fbaab6999c1aec"}}</script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2761","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,beatles_blockquote\/block-view,beatles_body_colour\/block-view,beatles_bootstrap\/block-view,beatles_drupalblock\/block-view,beatles_headerblock\/block-view,beatles_heading\/block-view,beatles_media\/block-view,beatles_pagetitle\/block-view,beatles_relatedcontent\/block-view,beatles_slideshow\/block-view,beatles_spotify\/block-view,beatles_table\/block-view,beatles_timeline\/block-view,better_social_sharing_buttons\/styling,bootstrap4\/bootstrap4-js-latest,bootstrap4\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_default,fontawesome\/fontawesome.webfonts.shim,google_analytics\/google_analytics,gutenberg\/blocks-view,gutenberg_bs_blocks\/block-view,gutenberg_bs_blocks\/container-block-view,system\/base,thebeatles_bs4\/global-styling,thebeatles_bs4\/typekit,views\/views.module","theme":"thebeatles_bs4","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-three-bounce\u0022\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce1\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce2\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce3\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":false,"throbberPosition":"body"},"google_analytics":{"account":"UA-3819040-9","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"user":{"uid":0,"permissionsHash":"451f327decd8128bb7802badc5befce7a9cb9e542f81cc5734fbaab6999c1aec"}}</script>
 <script src="/sites/default/files/js/js_Lf9cmWxDeZGJgFUIhxDo-nabU7t--oVsBpHWBfIDEb4.js"></script>
 <script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?v=1.9" defer></script>
 

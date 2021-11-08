@@ -5,10 +5,11 @@
     <meta charset="utf-8" />
 <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-3819040-9", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false});</script>
 <style id="gutenberg-palette">:root .has-black-color{color:#222222}:root .has-black-background-color{background-color:#222222}:root .has-white-color{color:#FFFFFF}:root .has-white-background-color{background-color:#FFFFFF}:root .has-green-color{color:#579A18}:root .has-green-background-color{background-color:#579A18}:root .has-light-grey-color{color:#9B9B9B}:root .has-light-grey-background-color{background-color:#9B9B9B}:root .has-mid-grey-color{color:#535353}:root .has-mid-grey-background-color{background-color:#535353}:root .has-red-color{color:#F02208}:root .has-red-background-color{background-color:#F02208}</style>
-<link rel="canonical" href="https://www.thebeatles.com/please-please-me" />
-<meta name="description" content="Album
-          Please Please Me
-          Release date: 22 March 1963" />
+<link rel="canonical" href="https://www.thebeatles.com/please-please-me-0" />
+<meta name="description" content="&lt;!-- wp:bootstrap/row --&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;!-- wp:bootstrap/column {&quot;sizeMd&quot;:3,&quot;className&quot;:&quot;left-content&quot;} --&gt;
+&lt;div class=&quot;col-md-3 left-content&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:bootstrap/column --&gt;" />
 <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
 <meta name="HandheldFriendly" content="true" />
@@ -16,10 +17,10 @@
 <script>window.euCookieComplianceLoadScripts = function(category) {var scriptTag = document.createElement("script");scriptTag.src = "https:\/\/www.googletagmanager.com\/gtag\/js";document.body.appendChild(scriptTag);var scriptTag = document.createElement("script");scriptTag.src = "\/modules\/contrib\/google_analytics\/js\/google_analytics.js";document.body.appendChild(scriptTag);}</script>
 <style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #599c18} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
 <link rel="shortcut icon" href="/themes/custom/thebeatles_bs4/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="revision" href="https://www.thebeatles.com/please-please-me" />
+<link rel="revision" href="https://www.thebeatles.com/please-please-me-0" />
 
     <title>Please Please Me | The Beatles</title>
-    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_krmpyfTEk1OTaVMmpTCFW74Aw8hd2ZH9VUARZvAVv3Q.css" />
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_sC0zB88g3CMTpqyZevgQxg9DFpjhSjuQMr3N54K6N1k.css" />
 <link rel="stylesheet" media="all" href="/sites/default/files/css/css_abJiovx3BKiy0C6pDpLuqCEJiym9bAw7bbcsFK03Vz4.css" />
 <link rel="stylesheet" media="all" href="//use.typekit.net/joo1mwm.css" />
 
@@ -37,7 +38,7 @@
           Sorry, you need to enable JavaScript to visit this website.
         </div>
         </noscript></head>
-  <body class="path-node page-node-type-album    bg-">
+  <body class="path-node page-node-type-song    bg-">
         <a href="#main-content" class="visually-hidden focusable skip-link">
       Skip to main content
     </a>
@@ -235,21 +236,21 @@
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/please-please-me&title=Please Please Me" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/please-please-me-0&title=Please Please Me" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook" />
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=Please Please Me+https://www.thebeatles.com/please-please-me" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=Please Please Me+https://www.thebeatles.com/please-please-me-0" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter" />
             </svg>
         </a>
     
     <!-- WhatsApp share button -->
-            <a href="https://wa.me/?text=https://www.thebeatles.com/please-please-me" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://wa.me/?text=https://www.thebeatles.com/please-please-me-0" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#whatsapp" />
             </svg>
@@ -274,7 +275,7 @@
     <!-- Evernote share button -->
     
     <!-- Email share button -->
-            <a href="mailto:?subject=Please Please Me&body=https://www.thebeatles.com/please-please-me" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
+            <a href="mailto:?subject=Please Please Me&body=https://www.thebeatles.com/please-please-me-0" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#email" />
             </svg>
@@ -296,7 +297,7 @@
   
     
       
-<article role="article" about="/please-please-me" class="node node--type-album node--promoted node--view-mode-full">
+<article role="article" about="/please-please-me-0" class="node node--type-song node--promoted node--view-mode-full">
 
   
     
@@ -304,20 +305,19 @@
   
   <div class="node__content">
     
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
 <div class="row">
 <div class="col-md-3 left-content"></div>
 
 
 
-<div class="col-md-6 no-border">
+<div class="col-md-6 middle-content border-left border-right">
 <div class="wp-block-beatles-pagetitle pagetitle-block">
       <div class="">
       <div class="row no-gutters">
         <div class="col">
-          <p class="pre-title">Album</p>
+          <p class="pre-title">Song</p>
           <h1>Please Please Me</h1>
-          <p class="subtitle"><span class="font-heavy">Release date:</span> 22 March 1963</p>
+          <p class="subtitle"><span class="font-heavy">Release date:</span> 11 January 1963</p>
         </div>
       </div>
     </div>
@@ -334,39 +334,9 @@
 <div class="row">
 <div class="col-md-3 left-content">
 <div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"The first album was recorded in one long twelve hour session, which the last song to be done was a song called Twist and Shout, which nearly killed me."</p>
+    <p></p>
     <footer>
-      JOHN
-    </footer>
-  </blockquote>
-</div>
-
-
-
-<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"We'd all said, 'Well what about this? What about this?', cos basically this album was just what we did live in the clubs."</p>
-    <footer>
-      GEORGE
-    </footer>
-  </blockquote>
-</div>
-
-
-
-<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"Oh god this is it, a piece of plastic. And this piece of plastic was like gold, you know. You'd sell your soul. You would sell your soul to get on that little record."</p>
-    <footer>
-      RINGO
-    </footer>
-  </blockquote>
-</div>
-
-
-
-<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p>"John had to save Twist and Shout until the last, and he was sucking Zoobs all day - those little throat tablets. And he finally had to do Twist and Shout knowing he had to do it last because it would just rip his throat apart to do it. It was great. You can still hear that on the record."</p>
-    <footer>
-      PAUL
+      
     </footer>
   </blockquote>
 </div>
@@ -374,305 +344,110 @@
 
 
 
-<div class="col-md-6 middle-content border-left border-right">                                <figure class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-image media--view-mode-default">
+<div class="col-md-6 middle-content border-left border-right"><p>Last night I said these words to my girl <br />
+I know you never even try girl <br />
+Come on, come on, come on, come on, <br />
+Please please me oh yeah like I please you. </p>
+<p>You don't need me to show the way love <br />
+Why do I always have to say love <br />
+Come on, come on, come on, come on, <br />
+Please please me oh yeah like I please you. </p>
+<p>I don't want to sound complaining <br />
+But you know there's always rain in my heart. <br />
+I do all the pleasing with you <br />
+It's so hard to reason with you. <br />
+Oh yeah why do you make me blue. </p>
+<p>Last night I said these words to my girl, <br />
+I know you never even try girl, <br />
+Come on, come on, come on, come on, <br />
+Please please me oh yeah like I please you - oh yeah, like I please you.</p>
+
+<figure class="wp-block-table table-expander table table-imported"><table><tbody><tr><th>"Please Please Me"</th>
+</tr><tr><td><a href="http://en.wikipedia.org/wiki/File:Please_Please_Me_45.jpg"></a><br />
+			"Please Please Me" 45<br />
+			(1963 UK issue)</td>
+</tr><tr><th><a href="http://en.wikipedia.org/wiki/Single_(music)" title="Single (music)">Single</a> by <a href="http://en.wikipedia.org/wiki/The_Beatles" title="The Beatles">The Beatles</a></th>
+</tr><tr><th>from the album <a href="http://en.wikipedia.org/wiki/Please_Please_Me" title="Please Please Me">Please Please Me</a></th>
+</tr><tr><th scope="row"><a href="http://en.wikipedia.org/wiki/A-side_and_B-side" title="A-side and B-side">B-side</a></th>
+<td>"<a href="http://en.wikipedia.org/wiki/Ask_Me_Why" title="Ask Me Why">Ask Me Why</a>"</td>
+</tr><tr><th scope="row">Released</th>
+<td>11 January 1963</td>
+</tr><tr><th scope="row">Format</th>
+<td><a href="http://en.wikipedia.org/wiki/Gramophone_record" title="Gramophone record">7"</a></td>
+</tr><tr><th scope="row">Recorded</th>
+<td>26 November 1962<br /><a href="http://en.wikipedia.org/wiki/Abbey_Road_Studios" title="Abbey Road Studios">EMI Studios</a>, London</td>
+</tr><tr><th scope="row"><a href="http://en.wikipedia.org/wiki/Music_genre" title="Music genre">Genre</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Rock_music" title="Rock music">Rock</a>, <a href="http://en.wikipedia.org/wiki/Beat_music" title="Beat music">beat</a></td>
+</tr><tr><th scope="row">Length</th>
+<td>2:00</td>
+</tr><tr><th scope="row"><a href="http://en.wikipedia.org/wiki/Record_label" title="Record label">Label</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Parlophone" title="Parlophone">Parlophone</a></td>
+</tr><tr><th scope="row"><a href="http://en.wikipedia.org/wiki/Songwriter" title="Songwriter">Writer(s)</a></th>
+<td><a href="http://en.wikipedia.org/wiki/Lennon%E2%80%93McCartney" title="Lennon-McCartney">Lennon-McCartney</a></td>
+</tr><tr><th scope="row"><a href="http://en.wikipedia.org/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="http://en.wikipedia.org/wiki/George_Martin" title="George Martin">George Martin</a></td>
+</tr><tr><th><a href="http://en.wikipedia.org/wiki/The_Beatles" title="The Beatles">The Beatles</a> singles chronology</th>
+</tr><tr><td>
+<figure class="wp-block-table table-expander table table-imported"><table><tbody><tr><td>"<a href="http://en.wikipedia.org/wiki/Love_Me_Do" title="Love Me Do">Love Me Do</a>"<br />
+						(1962)</td>
+<td>"Please Please Me"<br />
+						(1963)</td>
+<td>"<a href="http://en.wikipedia.org/wiki/From_Me_to_You" title="From Me to You">From Me to You</a>"<br />
+						(1963)</td>
+</tr></tbody></table></figure></td>
+</tr><tr><td>
+<p> </p>
+<figure class="wp-block-table table-expander table table-imported"><table><tbody><tr><th></th>
+</tr><tr><th scope="col"><a href="http://en.wikipedia.org/wiki/Please_Please_Me" title="Please Please Me">Please Please Me</a> track listing</th>
+</tr><tr><td> </td>
+</tr><tr><td>
+<figure class="wp-block-table table-expander table table-imported"><table><tbody><tr><th>[<a href="http://en.wikipedia.org/wiki/Please_Please_Me_(song)#">show</a>]14 tracks</th>
+</tr></tbody></table></figure></td>
+</tr><tr><th>Alternative covers</th>
+</tr><tr><td><a href="http://en.wikipedia.org/wiki/File:Beattles.jpg" title="Vee-Jay 498 (Original US 45 with band name misspelled)"></a>
+Vee-Jay 498 (Original US 45 with band name misspelled)
+</td>
+</tr></tbody></table></figure></td>
+</tr></tbody></table></figure>
+
+
+</div>
+
+
+
+<div class="col-md-3 right-content"><div class="views-element-container block block-views block-views-blockrelated-content-block-1">
   
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/Please%20Please%20Me.jpg?itok=35QM9ey0" width="1000" height="1000" alt="Please Please Me" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-<figcaption><br></figcaption>
-            </figure>
-                    
-
-
-<figure class="wp-block-embed-spotify wp-block-embed is-type-rich spotify-embed wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe width="100%" height="380" title="Spotify Embed: Please Please Me (Remastered)" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/album/3KzAvEXcqJKBF97HrXwlgf?si=-omeIa5BTzOvtsk3-PFNtw"></iframe>
-</div></figure>
-
-
-
-<div class="wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link has-white-color has-green-background-color has-text-color has-background" href=" https://thebeatles.lnk.to/Please-Please-Me-Stream" target="_blank" rel="noreferrer noopener">STREAM</a></div>
-
-
-
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-green-background-color has-text-color has-background" href="https://thebeatles.lnk.to/Please-Please-Me-Buy" target="_blank" rel="noreferrer noopener">BUY THE ALBUM</a></div>
-</div>
-
-
-
-<p>The Beatles' Please Please Me album was rush-released by Parlophone on 22nd March, 1963 to capitalise on the enormous success of the title track which had been the group's second single and their first no. 1 in the majority of UK charts.</p>
-
-
-
-<p>Ten of the album's fourteen tracks were recorded in just one day - 11th February, 1963. These included a mixture of stage favourites and "Lennon-McCartney originals". The four remaining songs had been committed to tape in 1962 having formed the B-side of their debut release and both sides of their second single. A slightly later recording of 'Love Me Do' to that previously released, was selected for the album. This version would also appear on a subsequent EP and later still on an American # 1 single in 1964.</p>
-
-
-
-<p>The iconic front cover shot was taken at the then headquarters of EMI Limited at 20 Manchester Square in London's West End in early 1963 by Angus McBean. EMI remained in the building until 1995 before moving to West London taking the famous balcony railing with them.</p>
-
-
-
-<p>Given that the UK album chart in those days tended to be dominated by more 'adult' tastes such as film soundtracks and easy listening vocalists, it was a surprise when Please Please Me hit the top of the chart in May 1963 and remained there for thirty weeks before being replaced by With The Beatles.</p>
-
-
-
-<p>Please Please Me didn't receive an official US release until 1987 but "Introducing The Beatles" issued early in 1964 on the Vee-Jay label and "The Early Beatles" released by Capitol Records the following year later did contain many of the songs from the British release.</p>
-
-
-                                <div class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-remote-video media--view-mode-default">
-  
-      
-            <div class="embed-responsive embed-responsive-16by9 field field--name-field-media-oembed-video field--type-string field--label-hidden field__item"><iframe src="/media/oembed?url=https%3A//youtu.be/Dt7znOx90Fk&amp;max_width=0&amp;max_height=0&amp;hash=Z6jaA_i5l6AlNslNmjdDxuL_8UFCr5EHrDXtPk0FxqY" frameborder="0" allowtransparency width="200" height="150" class="media-oembed-content embed-responsive-item" title="The Making Of Please Please Me" rel="0"></iframe>
-</div>
-      
-  </article>
-</div>
-                    </div>
-
-
-
-<div class="col-md-3 right-content"><div class="block block-views block-views-blockrelated-content-block-1">
+      <h2>Related Articles</h2>
+    
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-df02cdb73b2052d89eaf7353f25e59a29c4d5413f50114351cf43de7f8dbd42c">
   
     
       
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-nothing grid-inner-wrapper first-grid-item"><span class="field-content"><div class="related-content">
+<div class="text">
+<div class="pre-title">Song</div> 
+<div class="title"><a href="/i-got-find-my-baby" hreflang="en">I Got To Find My Baby</a></div> 
+</div>
+<div class="image"><a href="https://www.thebeatles.com/i-got-find-my-baby"></a></div>
+</div></span></div></div>
+    <div class="views-row"><div class="views-field views-field-nothing grid-inner-wrapper col-6-last"><span class="field-content"><div class="related-content">
+<div class="text">
+<div class="pre-title">Song</div> 
+<div class="title"><a href="/ill-be-my-way" hreflang="en">I&#039;ll Be On My Way</a></div> 
+</div>
+<div class="image"><a href="https://www.thebeatles.com/ill-be-my-way"></a></div>
+</div></span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
   </div>
 </div>
 </div>
 
-
-
-<div class="row no-gutters single-column-row">
-<div class="col-sm-12 full-width-content"></div>
-</div>
-
-
-
-<div class="row">
-<div class="col-md-3 left-content"></div>
-
-
-
-<div class="col-md-6 middle-content border-left border-right">
-<p></p>
-
-
-                                <div class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/NME_PPM.jpeg?itok=FeeA0YBs" width="1300" height="757" alt="NME Please Please Me" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</div>
-                    
-
-
-<p></p>
-
-
-
-<blockquote class="wp-block-quote"><p><em>"The Beatles opened a copy of the&nbsp;NME&nbsp;and gazed proudly at the charts when 'Please Please Me' hit the top recently. It was a big moment for the talented boys from Liverpool, worth waiting a long time for.<br>Things are beginning to move for the Beatles, the r-and-b styled British group. The&nbsp;disc&nbsp;'Please Please Me' follows closely on the heels of their first hit 'Love Me Do' written by group members John Lennon and Paul McCartney.<br>It looks like a bright future for the Beatles, but knowing them I don't think they'll let it go to their heads.</em>" </p><cite>NME March 8th 1963</cite></blockquote>
-
-
-
-<p></p>
-</div>
-
-
-
-<div class="col-md-3 right-content"></div>
-</div>
-
-
-
-<div class="row no-gutters single-column-row">
-<div class="col-sm-12 full-width-content">    
-
-
-<div class="beatles-slideshow-container">
-  <div class="beatles-slideshow-wrapper">
-    <div class="beatles-slideshow row">
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-08/DH-0006-06v2.jpg?itok=18lXjBq7" width="1300" height="1300" alt="The Beatles recording Please Please Me" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-08/DH-0004-04v2.jpg?itok=XsTJCSOb" width="1300" height="1300" alt="The Beatles recording Please Please Me" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-08/DH-0004-03v2_0.jpg?itok=t-Z3Y7DQ" width="1300" height="1300" alt="The Beatles recording Please Please Me" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-08/DH-0004-02v2_0.jpg?itok=_AdTrXK7" width="1300" height="1300" alt="Ringo recording Please Please Me" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-08/DH-0003-20v2.jpg?itok=ZrDC7wKE" width="1300" height="1300" alt="Paul and John recording Please Please Me" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-
-<div class="col slide">
-  <figure>
-    <div class="styled-text-block">
-      <figcaption>
-        <p class="pre-title"></p>
-        <h2></h2>
-      </figcaption>
-    </div><article class="media media--type-image media--view-mode-default">
-  
-      
-  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <div class="field__label visually-hidden">Image</div>
-              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-08/DH-0002-09v2.jpg?itok=dernnnUu" width="1300" height="1300" alt="The Beatles recording Please Please Me" typeof="foaf:Image" class="image-style-max-1300x1300" />
-
-
-</div>
-          </div>
-
-  </article>
-</figure>
-</div>
-
-</div>
-    <a class="carousel-control-prev" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-</div>
-
-</div>
-</div>
-
-
-
-<div class="row">
-<div class="col-md-3 left-content"></div>
-
-
-
-<div class="col-md-6 middle-content border-left border-right">
-<p></p>
-</div>
-
-
-
-<div class="col-md-3 right-content"></div>
-</div>
-</div>
-      
   </div>
 
 </article>
@@ -873,21 +648,21 @@
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/please-please-me&title=Please Please Me" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/please-please-me-0&title=Please Please Me" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook" />
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=Please Please Me+https://www.thebeatles.com/please-please-me" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=Please Please Me+https://www.thebeatles.com/please-please-me-0" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter" />
             </svg>
         </a>
     
     <!-- WhatsApp share button -->
-            <a href="https://wa.me/?text=https://www.thebeatles.com/please-please-me" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://wa.me/?text=https://www.thebeatles.com/please-please-me-0" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#whatsapp" />
             </svg>
@@ -912,7 +687,7 @@
     <!-- Evernote share button -->
     
     <!-- Email share button -->
-            <a href="mailto:?subject=Please Please Me&body=https://www.thebeatles.com/please-please-me" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
+            <a href="mailto:?subject=Please Please Me&body=https://www.thebeatles.com/please-please-me-0" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#email" />
             </svg>
@@ -936,7 +711,7 @@
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2371","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,beatles_blockquote\/block-view,beatles_body_colour\/block-view,beatles_bootstrap\/block-view,beatles_drupalblock\/block-view,beatles_headerblock\/block-view,beatles_heading\/block-view,beatles_media\/block-view,beatles_pagetitle\/block-view,beatles_relatedcontent\/block-view,beatles_slideshow\/block-view,beatles_spotify\/block-view,beatles_table\/block-view,beatles_timeline\/block-view,better_social_sharing_buttons\/styling,bootstrap4\/bootstrap4-js-latest,bootstrap4\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_default,fontawesome\/fontawesome.webfonts.shim,google_analytics\/google_analytics,gutenberg\/blocks-view,gutenberg_bs_blocks\/block-view,gutenberg_bs_blocks\/container-block-view,media\/oembed.formatter,system\/base,thebeatles_bs4\/global-styling,thebeatles_bs4\/typekit","theme":"thebeatles_bs4","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-three-bounce\u0022\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce1\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce2\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce3\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":false,"throbberPosition":"body"},"google_analytics":{"account":"UA-3819040-9","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"user":{"uid":0,"permissionsHash":"451f327decd8128bb7802badc5befce7a9cb9e542f81cc5734fbaab6999c1aec"}}</script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2706","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,beatles_blockquote\/block-view,beatles_body_colour\/block-view,beatles_bootstrap\/block-view,beatles_drupalblock\/block-view,beatles_headerblock\/block-view,beatles_heading\/block-view,beatles_media\/block-view,beatles_pagetitle\/block-view,beatles_relatedcontent\/block-view,beatles_slideshow\/block-view,beatles_spotify\/block-view,beatles_table\/block-view,beatles_timeline\/block-view,better_social_sharing_buttons\/styling,bootstrap4\/bootstrap4-js-latest,bootstrap4\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_default,fontawesome\/fontawesome.webfonts.shim,google_analytics\/google_analytics,gutenberg\/blocks-view,gutenberg_bs_blocks\/block-view,gutenberg_bs_blocks\/container-block-view,system\/base,thebeatles_bs4\/global-styling,thebeatles_bs4\/typekit,views\/views.module","theme":"thebeatles_bs4","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-three-bounce\u0022\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce1\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce2\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce3\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":false,"throbberPosition":"body"},"google_analytics":{"account":"UA-3819040-9","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"user":{"uid":0,"permissionsHash":"451f327decd8128bb7802badc5befce7a9cb9e542f81cc5734fbaab6999c1aec"}}</script>
 <script src="/sites/default/files/js/js_Lf9cmWxDeZGJgFUIhxDo-nabU7t--oVsBpHWBfIDEb4.js"></script>
 <script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?v=1.9" defer></script>
 
