@@ -484,7 +484,7 @@ The Beatles' "Let It Be" from Let It Be
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-df9365f2f824ad4f44e77ea5b16c2fb0dedbfd4adeae665d0c1d19fe0f3c65c0">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-e7ed58e1bbd71238a0a7b9f248e83fcec3b251c07b4d7af075722f0b5a31c932">
   
     
       

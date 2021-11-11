@@ -426,7 +426,7 @@ Then you begin to make it better, better, better, better, better, better, oh!</p
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-dbfbee3e0bffe3df332f313a064b53ca43c672c78ea3b41605197d452a00cc8a">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0fb8fa19c5796b5c4b7c755c5827eeecccacb2735b5e06a70b048925bd4e4733">
   
     
       

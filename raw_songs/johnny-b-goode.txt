@@ -400,7 +400,7 @@ You can download the clip or download a player to play the clip in your browser.
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-1a357dd8eefc1e25d8d66a345c2f285cc43d9e47194c44b6400fad3e485add35">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-585c20fe53cedf1e3b5a44ace616340724aede770968050f4c46b6474af1f974">
   
     
       

@@ -422,7 +422,7 @@ I've got nothing to say but it's O.K. </p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-278af13f9e6c930ba40bbb88f3cc6c52826e84fd61113b8a7ed2d48031e5a68e">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-dbf5b6d3aa81dc4b00b2e5f9fad1a3ce35c288ca4e1047bac0fdd1d3f19fdb36">
   
     
       

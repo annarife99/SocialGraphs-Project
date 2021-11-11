@@ -444,7 +444,7 @@ To help with good Rocky's revival.</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8f048a800a0936d76bcd33a8793a10d1a02fa81e627674e90230b3519326e169">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-c38630beaf861f8da439858d859cc7fe10d0e328f4c75130833a583db86bb38f">
   
     
       

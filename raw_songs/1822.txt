@@ -355,7 +355,7 @@
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-860e264ab0513ccee81dbab82b18f5a9fd9c4de71371d072a364c25b40e6233e">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-c47cde0ae65841e4e4236e29021e73c20383d2ada1fda1c4aefb29c562132c20">
   
     
       

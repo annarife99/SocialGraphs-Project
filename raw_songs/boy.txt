@@ -397,7 +397,7 @@ This boy. This boy. This boy.</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-06bf959f9cbd4ddf3427e183285c096f518c37c949c21cfa58f76ad9e1422c21">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-5d40fbaabada088fe1aa9ebbcbbe12ae0af9fc584e7587799d75e7f5749e679b">
   
     
       

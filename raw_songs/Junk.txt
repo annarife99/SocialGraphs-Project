@@ -413,7 +413,7 @@ Says the junk in the yard.</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-a0800a8b04b1ba2298a8b62756e7e4ce58b480e3a00fe9f8014e9beb613b7a26">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-79e6edad7a93599e6e13e5c5f705a691c5786b1bd47c98987dcbe5638372c74a">
   
     
       

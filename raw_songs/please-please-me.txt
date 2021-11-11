@@ -419,7 +419,7 @@ Vee-Jay 498 (Original US 45 with band name misspelled)
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-df02cdb73b2052d89eaf7353f25e59a29c4d5413f50114351cf43de7f8dbd42c">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-649ad4f2b02fb4b01a89ab651ea1a1a7dee4f7d21f1e70a613c3f4c852ba66c0">
   
     
       

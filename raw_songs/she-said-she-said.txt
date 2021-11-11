@@ -416,7 +416,7 @@ I know what it's like to be dead.</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-14b16241928e1196a861320f56c674619365515e454fb0618e8d6445e8ffe40e">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-c7cef708479d076adb29f94957bbcecedcf7cf3fce5e9c6300132d6144213aec">
   
     
       

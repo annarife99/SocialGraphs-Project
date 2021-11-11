@@ -428,7 +428,7 @@ and 21 June 1966,<br />EMI Studios, London</td>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-56da584173878b66b0611ea15de7c6d7edb84679e730c26869acaaf8df5d54e7">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0ed8116745059d2874ba2c508d6e129d01df3704b7bbc58c657344600a45e910">
   
     
       

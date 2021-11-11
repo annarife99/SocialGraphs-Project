@@ -488,7 +488,7 @@ Oh, you can't do that.</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-54f5431ecec1b741e2d13d3889a1930bdf6cd4edbf9e6e1fca0d852c91eefd23">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-ccff07003177085e8859eaec2bfcef42ccf6a9c56c6e92eb8791fa628f2ae1e0">
   
     
       

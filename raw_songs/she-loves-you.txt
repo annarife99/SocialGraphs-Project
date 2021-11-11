@@ -447,7 +447,7 @@ First US release (Swan 4152)
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-6b1bac6d9aba7259ed4700a85fefaf4dff3d5c1990d23d11a95cec006def6f29">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-72c5ae6e74523b960001a7c992f52f3df7547b077b11d20ab8c2292115c50d75">
   
     
       
