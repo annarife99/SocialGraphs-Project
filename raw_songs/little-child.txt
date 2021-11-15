@@ -426,7 +426,11 @@ Baby take a chance with me.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-9858fab3b9d637da616015c1b2f500b57c042ccef6132201a939725bb6eb3405">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0f619404f2288ab151901e11b084279b178e6c6e03f344040f5e4546947fbe14">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

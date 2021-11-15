@@ -431,7 +431,11 @@ Yeah yeah yeah yeah</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-92e352eae8bbb582d353cb12ef7a400a604e8a5258e2346eb5cf9f4b4c8cc325">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0298c86840828b867338b21dbb194fcce6cf1f1570219afc817f630920c250af">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

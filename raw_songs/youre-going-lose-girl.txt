@@ -430,7 +430,11 @@ You're gonna lose that girl.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8b7873074cd1e3b097d42a717c5d3c192d8012981cd28b667e8a6eb5313763f4">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-bd2666703cbd30bb2881cdfe89d729b3daf8d90b8612996df5eff1706ec5fdf6">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

@@ -459,7 +459,11 @@ You're gonna say you love me too.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-9cbbf222521701a36daf873ff41c30df24dbe9f8e3654d9a98e591642d965dd1">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-71ef0580ec99e0ef47bf3babb6a23d6c70dc011ee7e7e997b592677267246a65">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

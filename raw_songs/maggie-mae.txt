@@ -392,7 +392,11 @@ That was my pay.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-617dc7a080dc23fe26650e9d0ed9e74341ca604657ede5dc9379fb93bce4b679">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-459533a92acc12e6c3b629ffe0b4085d812de6a42010ed960a69e5623c7738fb">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

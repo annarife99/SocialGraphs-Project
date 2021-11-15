@@ -471,7 +471,11 @@ We're going home.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-cdb60852e4855903ec56521db5d1b035e43b32ad291c819ea1aed0b77a8b8378">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-97eb72eb6a5fabb512e8c40a7a5b4b4be092bb016df6a300fd985bb905b6aa87">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

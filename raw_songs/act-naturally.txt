@@ -388,7 +388,11 @@ Voni Morrison</td>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-ab3b37ac6fe65ef418b05873f9602c3656095f7699cf96888571eaa10977f1e0">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-edfd8df47bbc67bb795fc60c0a220fccc9d663e20853e71767668d31090045de">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

@@ -417,7 +417,11 @@ All you've gotta do is call and I'll be there</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-7e335b137f1648866c988d3a5f60114566da88e6cc72bbc9ef639d41b8f8d654">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-ec4c708edce95d3f470dfc52e65d83d572b7b2e33c562ea8ff106572bdd26cdf">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

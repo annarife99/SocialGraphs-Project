@@ -427,7 +427,11 @@ I call your name</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-552718e08b575ce53558d7504f31d485f35dc096506246f6d55e5ffa603bbf29">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d0b0033b1dd516f2764b82a745f05d11ca1c1f7abd7f45ca0f681d8881fab732">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

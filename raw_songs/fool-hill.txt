@@ -429,7 +429,11 @@ See the world spinning 'round.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-71bc0d61210887f00bb8158287ccb9f9ded4efeae1887575349fee7a088c1029">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-7812d85895ba2b40e74e666179029c1bb3b82dfa7488d5eba332b7b61a118bd4">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

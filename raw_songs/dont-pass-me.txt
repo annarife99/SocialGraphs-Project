@@ -440,7 +440,11 @@ Don't pass me by, don't make me cry</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-50febadfdabf32f3e2c533dec3b4e89b6a9a8463ed102658f5ba87ac0e61be06">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-137498f7aa190db5debfe5d1136768d32b5f7dbaa8a07b084c0c5c6920f4dbd8">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

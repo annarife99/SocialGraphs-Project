@@ -425,7 +425,11 @@ A love that should have lasted years.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-fead5b9e55e25747a670fed683fe842c478da17aaaa9cd03d4dc7c4b2f069d6a">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-328155ed31fd8ac44e2622238c3272eaeaa0ea073a0e742e84a67be1ff3977cc">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

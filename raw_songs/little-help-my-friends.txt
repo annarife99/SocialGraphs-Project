@@ -430,7 +430,11 @@ With a little help from my friends. Ah.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-bbbf62d72f01137b120d3230d967add42162ac048bcd94a358e53cd56f7bf9bc">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-4e490c941859d53bbc3700c2c7b7c254467cd797fcf4446afc531c4a8dea1c62">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

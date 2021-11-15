@@ -418,7 +418,11 @@ Of the beginning. Of the beginning.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2c2dd011883d5184aa026e462dc574ee071d5bd3cadb166022903827289d7fe6">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-116a9ae3f5e7676efbe75834f2e0a44ba0af1cfd716eb8737c25f909dfbf1334">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

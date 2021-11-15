@@ -421,7 +421,11 @@ I'm a loser, and I'm not what I appear to be.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-67bc9613f4c0b5025c4073e4290d8efc3f00a25b7ed6a218911e39c756d48ee0">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-732ab1e697d0280bc16ea90733a1ac645be823458c9b2f908755557ec1e3eeb5">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

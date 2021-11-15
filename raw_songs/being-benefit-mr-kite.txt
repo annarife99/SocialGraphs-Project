@@ -418,7 +418,11 @@ And tonight Mister Kite is topping the bill.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b058de425a1ec4272b2139fead71d94adc333ba50255720254b36524875caeee">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-6123f31a5358375a7f2563240d097ce12e43f431cb0bf9b299025271c62b6e52">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

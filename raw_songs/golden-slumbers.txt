@@ -414,7 +414,11 @@ And I will sing a lullaby.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2887b2b36048f5f7b495c8c0587e2f42c8545f70b133288cf679807a74e1ddfe">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-f4ac218fdc8e3c31ac25f02f3b43d6d6f6df86b2133eed912e6e1443d34ba5b7">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

@@ -408,7 +408,11 @@ Can't you see?</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-bf0c94ba58a65032c1a6bcb857ab0054b3e0b29ee2cc5691283fc82e93afde47">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-3c6c8618208a0d0f070a7b8455ca854022c98893fc17a50091f215e430d2f71a">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

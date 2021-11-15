@@ -418,7 +418,11 @@ I love you</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-05b12da13b8cfbc3a2c5dfde01a7bb2a7454c891bc01d4210a1563d5eeff94e9">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b87832beecb6a30aab0623d4968d4953ff204db424ada19f109ef93a5a0018eb">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

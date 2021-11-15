@@ -447,7 +447,11 @@ Goo goo g' joob, goo goo g' goo g' goo goo g' joob joob</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-7c4f9d76fe0643a0466e586101085adeb59aebf6e3fc45d5402859c316e98ca5">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-a218c9fb417d833fe22f02a497dd8ee147c37fa0357b0fd9fcdf0e5da3e9bf40">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

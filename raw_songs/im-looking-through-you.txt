@@ -430,7 +430,11 @@ I'm looking through you, you're not the same.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-018b502aa321bc7fde95196edeaae0d264f72aba3299e71494a747cd7816c233">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-4e645d65eaa450bc54b637f7792631422178e69493fba7095827dd0d909d2e0e">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

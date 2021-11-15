@@ -425,7 +425,11 @@ Ev'rything has got to be just like you want it to, becaus</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-cca20eedbcba0d2662d7712849936c6b76f4a46fb339018670edd360cb7afbec">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0d2503485b2b864b49b7286bc9b19c9b1443648998ed212130ce06db667f81eb">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

@@ -403,7 +403,11 @@ Cover of the <a href="http://en.wikipedia.org/wiki/Twist_and_Shout_(EP)" title="
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-a84dccee4921dde1711f18fdcd29a1b8ef5be60637c6944da512845869bcb48a">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-50b9b73aed8943b4c018086334041e20f3997625743dd8e19a0dcc711b8397aa">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

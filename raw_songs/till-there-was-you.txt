@@ -392,7 +392,11 @@ Till there was you</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-a160de32d82d631b78d5bf6b0354e40ceea87499bc5ad4d99d8fa17addae99c0">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-ec4f5d21d2615d7568b4a2e1325c4e943c315c7217a084b558b38c5956ec0f9c">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

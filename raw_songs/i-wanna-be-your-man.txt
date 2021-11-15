@@ -406,7 +406,11 @@ I wanna be your man.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-3e61c10477045aa1ce56ec95ec331db1c623f81f671e6b33104cddabf0cc25fd">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8871ab0ac8ff9600ad44e05c7350937247065998402194b4f50014a4f20bd9fd">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

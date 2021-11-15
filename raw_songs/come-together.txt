@@ -454,7 +454,11 @@ Come together.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8c8e2ce76b165696a78c388cde317427eef71abde96207d2e527c8c1d32b64ec">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-4c9e6433bfe7a8b7dd8c06b22c8c0e73d98c364084219ba405428c0b37be8b10">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

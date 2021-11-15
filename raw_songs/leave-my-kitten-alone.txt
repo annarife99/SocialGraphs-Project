@@ -409,7 +409,11 @@ track 23)</td>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-89b979915a59ea6a9574c362158fbdbd0fd6a8b389e001a231aacada0d45db28">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-f23f882e28ee87de0b85e1b329c227dbf6b84ea2e9c8776f781ad4b9afe1e300">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

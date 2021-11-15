@@ -440,7 +440,11 @@ Martha my dear.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-1142e4332ae6a82621fe0314ce2516184159735b287a86e74745befa14213457">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-65b8f07785ae78c1a24767eebf0b510d3bc0ab5708bbbe127d8bea745847d38d">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

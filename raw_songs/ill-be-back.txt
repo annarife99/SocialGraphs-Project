@@ -417,7 +417,11 @@ You know I hate to leave you, oh ho, oh ho, oh,</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-9699cba31a5cb9e5cf17a5a440d0b39767178b5407661683e42f4c162be8d316">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0a3c95e8e9183ff45bd2f776a2a066cb77e2c07484bb58e5089b425354af9f2f">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

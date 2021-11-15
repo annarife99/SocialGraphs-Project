@@ -429,7 +429,11 @@ I, me, mine</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-7b718f86963fa38d167eb539def839a95b8d0da9578837ccf618a67918f522cd">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-9a6f21e08d92419fc542d9337f189df74847e4e9c2e1eeec1735734f6c7c049d">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

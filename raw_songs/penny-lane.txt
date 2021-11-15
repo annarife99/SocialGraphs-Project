@@ -345,6 +345,14 @@
 
 <div class="col-md-6 middle-content border-left border-right">                                <div class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-remote-video media--view-mode-default">
   
+<<<<<<< HEAD
+=======
+      <h2>Related Articles</h2>
+    
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-784d9650d3998a5641029122cfbb92abd69160a584171ed778793543433fadc2">
+  
+    
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
       
             <div class="embed-responsive embed-responsive-16by9 field field--name-field-media-oembed-video field--type-string field--label-hidden field__item"><iframe src="/media/oembed?url=https%3A//youtu.be/S-rB0pHI9fU&amp;max_width=0&amp;max_height=0&amp;hash=6fM5uNl81IPilNleNurx-yz-tpFgATjbStdpLvVNfgU" frameborder="0" allowtransparency width="200" height="113" class="media-oembed-content embed-responsive-item" title="The Beatles - Penny Lane" rel="0"></iframe>
 </div>

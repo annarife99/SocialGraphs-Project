@@ -400,7 +400,11 @@ You can download the clip or download a player to play the clip in your browser.
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8105107aa55baefbcf700b8082182b3202efa9e951044b41e26073d8a540220d">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-585c20fe53cedf1e3b5a44ace616340724aede770968050f4c46b6474af1f974">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

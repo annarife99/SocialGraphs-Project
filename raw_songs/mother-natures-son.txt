@@ -427,7 +427,11 @@ Mother Nature's son.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d08e1ef48309af79133be4587d07dc8d9ea88d4291f8c19a2b561b058aa90000">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8b8b4c8c523e0cbf47176ded67df16e6ae7a938cda24c5fab3f4ee5c8b1b62a4">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

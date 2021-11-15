@@ -453,7 +453,11 @@ So cry baby cry.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-9ff85a7a00867df206b98c7777313f700158e3087c6ecac0edfb13e7e6505950">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-7c52f83be8e2a393e7dbf59a95448b9f17f8f4a9aad93ec0374c6a00e077ce01">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

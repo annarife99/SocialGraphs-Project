@@ -422,7 +422,11 @@ Tuesday's on the phone to me, oh yeah.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-c18f7e0c92f10cb61453ce322e4d7b69a2c92f3fe1538c57615d53e63a50a792">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-be4d5bbea06c1fa8610276cc1f482589736eb02e491cd22aa77f57f7dade5439">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

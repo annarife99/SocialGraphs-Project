@@ -434,7 +434,11 @@ Clutching forks and knives to eat their bacon</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-810129969d53f3d3fc39e8b84ba7429a3e5e2c09fd2f1515dbe3a491f3ed9b13">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b345c12a7159d6d1b4d43b2a62cb9d32557fdeb5ed3b16c86379b2e6ec352052">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

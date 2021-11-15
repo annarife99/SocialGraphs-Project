@@ -445,7 +445,11 @@ Then we will remember things we said today.</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-a1b17aa46db66154d7d7f0190ae4360b3a262347ba8d9939d3607e0fee9e3ba1">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-537f920febfb5edb7cf7bcc3d1672eb701d7e8e8ebe2a98022c5c374cbfb0fa0">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

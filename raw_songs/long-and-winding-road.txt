@@ -429,7 +429,11 @@ Da da, da da ...</p>
   
       <h2>Related Articles</h2>
     
+<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-ae3b93d9eea5cbf4f4647547bad8079fa5db0c5b977eb8844735eb62a80fccee">
+=======
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-51e6eb602a6b498e1fe086d3572d37f0420f8557246abba4aff7126dec7e4673">
+>>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       
