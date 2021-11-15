@@ -394,7 +394,7 @@ But I sure got a long way to go</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-25590a28f170e9dc7eb82a8edb30e68becc5403b04cff0fcd3d45728fe1dce0d">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-9778c4c6f0c38bba5c0a3dc6b5d50b5598802397b5c6d75e4681b73abb1f4bf5">
   
     
       

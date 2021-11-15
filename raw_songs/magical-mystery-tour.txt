@@ -5,11 +5,10 @@
     <meta charset="utf-8" />
 <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-3819040-9", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false});</script>
 <style id="gutenberg-palette">:root .has-black-color{color:#222222}:root .has-black-background-color{background-color:#222222}:root .has-white-color{color:#FFFFFF}:root .has-white-background-color{background-color:#FFFFFF}:root .has-green-color{color:#579A18}:root .has-green-background-color{background-color:#579A18}:root .has-light-grey-color{color:#9B9B9B}:root .has-light-grey-background-color{background-color:#9B9B9B}:root .has-mid-grey-color{color:#535353}:root .has-mid-grey-background-color{background-color:#535353}:root .has-red-color{color:#F02208}:root .has-red-background-color{background-color:#F02208}</style>
-<link rel="canonical" href="https://www.thebeatles.com/magical-mystery-tour-0" />
-<meta name="description" content="&lt;!-- wp:bootstrap/row --&gt;
-&lt;div class=&quot;row&quot;&gt;&lt;!-- wp:bootstrap/column {&quot;sizeMd&quot;:3,&quot;className&quot;:&quot;left-content&quot;} --&gt;
-&lt;div class=&quot;col-md-3 left-content&quot;&gt;&lt;/div&gt;
-&lt;!-- /wp:bootstrap/column --&gt;" />
+<link rel="canonical" href="https://www.thebeatles.com/magical-mystery-tour" />
+<meta name="description" content="Album
+          Magical Mystery Tour
+          Release date: 27 November 1967" />
 <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
 <meta name="HandheldFriendly" content="true" />
@@ -17,10 +16,10 @@
 <script>window.euCookieComplianceLoadScripts = function(category) {var scriptTag = document.createElement("script");scriptTag.src = "https:\/\/www.googletagmanager.com\/gtag\/js";document.body.appendChild(scriptTag);var scriptTag = document.createElement("script");scriptTag.src = "\/modules\/contrib\/google_analytics\/js\/google_analytics.js";document.body.appendChild(scriptTag);}</script>
 <style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #599c18} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
 <link rel="shortcut icon" href="/themes/custom/thebeatles_bs4/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="revision" href="https://www.thebeatles.com/magical-mystery-tour-0" />
+<link rel="revision" href="https://www.thebeatles.com/magical-mystery-tour" />
 
     <title>Magical Mystery Tour | The Beatles</title>
-    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_sC0zB88g3CMTpqyZevgQxg9DFpjhSjuQMr3N54K6N1k.css" />
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_krmpyfTEk1OTaVMmpTCFW74Aw8hd2ZH9VUARZvAVv3Q.css" />
 <link rel="stylesheet" media="all" href="/sites/default/files/css/css_abJiovx3BKiy0C6pDpLuqCEJiym9bAw7bbcsFK03Vz4.css" />
 <link rel="stylesheet" media="all" href="//use.typekit.net/joo1mwm.css" />
 
@@ -38,7 +37,7 @@
           Sorry, you need to enable JavaScript to visit this website.
         </div>
         </noscript></head>
-  <body class="path-node page-node-type-song    bg-">
+  <body class="path-node page-node-type-album    bg-">
         <a href="#main-content" class="visually-hidden focusable skip-link">
       Skip to main content
     </a>
@@ -236,21 +235,21 @@
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/magical-mystery-tour-0&title=Magical Mystery Tour" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/magical-mystery-tour&title=Magical Mystery Tour" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook" />
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=Magical Mystery Tour+https://www.thebeatles.com/magical-mystery-tour-0" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=Magical Mystery Tour+https://www.thebeatles.com/magical-mystery-tour" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter" />
             </svg>
         </a>
     
     <!-- WhatsApp share button -->
-            <a href="https://wa.me/?text=https://www.thebeatles.com/magical-mystery-tour-0" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://wa.me/?text=https://www.thebeatles.com/magical-mystery-tour" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#whatsapp" />
             </svg>
@@ -275,7 +274,7 @@
     <!-- Evernote share button -->
     
     <!-- Email share button -->
-            <a href="mailto:?subject=Magical Mystery Tour&body=https://www.thebeatles.com/magical-mystery-tour-0" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
+            <a href="mailto:?subject=Magical Mystery Tour&body=https://www.thebeatles.com/magical-mystery-tour" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#email" />
             </svg>
@@ -297,7 +296,7 @@
   
     
       
-<article role="article" about="/magical-mystery-tour-0" class="node node--type-song node--promoted node--view-mode-full">
+<article role="article" about="/magical-mystery-tour" class="node node--type-album node--promoted node--view-mode-full">
 
   
     
@@ -305,17 +304,18 @@
   
   <div class="node__content">
     
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
 <div class="row">
 <div class="col-md-3 left-content"></div>
 
 
 
-<div class="col-md-6 middle-content border-left border-right">
+<div class="col-md-6 no-border">
 <div class="wp-block-beatles-pagetitle pagetitle-block">
       <div class="">
       <div class="row no-gutters">
         <div class="col">
-          <p class="pre-title">Song</p>
+          <p class="pre-title">Album</p>
           <h1>Magical Mystery Tour</h1>
           <p class="subtitle"><span class="font-heavy">Release date:</span> 27 November 1967</p>
         </div>
@@ -334,9 +334,49 @@
 <div class="row">
 <div class="col-md-3 left-content">
 <div  class="wp-block-beatles-blockquote blockquote"><blockquote>
-    <p></p>
+    <p>"It was like we were in another phase of our career you know we'd done all the live stuff and that was marvellous, now we were into being more artists. We got more freedom to be artists."</p>
     <footer>
-      
+      PAUL
+    </footer>
+  </blockquote>
+</div>
+
+
+
+<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
+    <p>"If you think it was good, keep it, if you don't, scrap it."<br></p>
+    <footer>
+      JOHN
+    </footer>
+  </blockquote>
+</div>
+
+
+
+<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
+    <p>"You have success with something that might have seemed like a far out idea, people had said wow this is great and so when we'd come back again George would be really quite keen to try, what other ideas have you got?"<br></p>
+    <footer>
+      GEORGE
+    </footer>
+  </blockquote>
+</div>
+
+
+
+<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
+    <p>"And now we are going to play a track from Magical Mystery Tour which is one of my favourite albums because it was so weird I Am The Walrus, one of my favourite tracks because I did it of course but also cos it's one of those that has enough little bitties going to keep you interested even a hundred years later."<br></p>
+    <footer>
+      JOHN
+    </footer>
+  </blockquote>
+</div>
+
+
+
+<div  class="wp-block-beatles-blockquote blockquote"><blockquote>
+    <p>"The Beatles songs had started to sound more individual from Revolver onwards or even before then."<br></p>
+    <footer>
+      GEORGE MARTIN
     </footer>
   </blockquote>
 </div>
@@ -344,120 +384,352 @@
 
 
 
-<div class="col-md-6 middle-content border-left border-right"><p> </p>
-<p>(Spoken lyric)<br />
-Roll up, roll up for the Magical Mystery Tour. Step right this way!</p>
-<p>Roll up, roll up for the mystery tour.<br />
-Roll up, roll up for the mystery tour.</p>
-<p>Roll up, and that's an invitation,<br />
-Roll up for the mystery tour.<br />
-Roll up, to make a reservation,<br />
-Roll up for the mystery tour.</p>
-<p>The Magical Mystery Tour is waiting to take you away,<br />
-Waiting to take you away.</p>
-<p>Roll up, roll up for the mystery tour.<br />
-Roll up, roll up for the mystery tour.</p>
-<p>Roll up, we've got ev'rything you need<br />
-Roll up for the mystery tour.<br />
-Roll up, satisfaction guaranteed,<br />
-Roll up for the mystery tour.</p>
-<p>The Magical Mystery Tour is hoping to take you away,<br />
-Hoping to take you away.</p>
-<p>The mystery trip.</p>
-<p>The Magical Mystery Tour.<br />
-Roll up, roll up for the mystery tour.</p>
-<p>Roll up, and that's an invitation,<br />
-Roll up for the mystery tour.<br />
-Roll up, to make a reservation,<br />
-Roll up for the mystery tour.</p>
-<p>The Magical Mystery Tour is coming to take you away,<br />
-Coming to take you away.</p>
-<p>The Magical Mystery Tour is dying to take you away,<br />
-dying to take you away, take you today.</p>
-
-<figure class="wp-block-table table-expander table table-imported"><table><tr><th>"Magical Mystery Tour"</th>
-</tr><tr><th>Song by the Beatles from the album Magical Mystery Tour</th>
-</tr><tr><th scope="row">Released</th>
-<td>27 November 1967 (US) (LP)<br />
-8 December 1967 (UK) (EP)<br />
-19 November 1976 (UK) (LP)</td>
-</tr><tr><th scope="row">Recorded</th>
-<td>25-27 April. 3 May 1967</td>
-</tr><tr><th scope="row">Genre</th>
-<td>Psychedelic rock</td>
-</tr><tr><th scope="row">Length</th>
-<td>2:51</td>
-</tr><tr><th scope="row">Label</th>
-<td>Parlophone, Capitol, EMI</td>
-</tr><tr><th scope="row">Writer</th>
-<td>Lennon-McCartney</td>
-</tr><tr><th scope="row">Producer</th>
-<td>George Martin</td>
-</tr><tr><th>Magical Mystery Tour track listing</th>
-</tr><tr><td></td>
-</tr><tr><td>
-<figure class="wp-block-table table-expander table table-imported"><table><tr><th>11 tracks</th>
-</tr><tr><td>
-<dl><dt>Side one</dt>
-</dl><ol><li>"Magical Mystery Tour"</li>
-<li>"The Fool on the Hill"</li>
-<li>"Flying"</li>
-<li>"Blue Jay Way"</li>
-<li>"Your Mother Should Know"</li>
-<li>"I Am the Walrus"</li>
-</ol><dl><dt>Side two</dt>
-</dl><ol><li>"Hello, Goodbye"</li>
-<li>"Strawberry Fields Forever"</li>
-<li>"Penny Lane"</li>
-<li>"Baby, You're a Rich Man"</li>
-<li>"All You Need Is Love"</li>
-</ol></td>
-</tr></table></figure></td>
-</tr><tr><td>
-<figure class="wp-block-table table-expander table table-imported"><table><tr><th></th>
-</tr><tr><td></td>
-</tr></table></figure></td>
-</tr></table></figure><p>"Magical Mystery Tour" is a song by the Beatles, the opening track and theme song for the album, double EP and TV film of the same name. Unlike the theme songs for their other film projects, it was not released as a single.
-</p>
-
-
-©1967 Sony/ATV Music Publishing LLC.  All rights reserved.  Used by permission.</div>
-
-
-
-<div class="col-md-3 right-content"><div class="views-element-container block block-views block-views-blockrelated-content-block-1">
+<div class="col-md-6 middle-content border-left border-right">                                <figure class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-image media--view-mode-default">
   
-      <h2>Related Articles</h2>
-    
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-ce0f0694b8392aca5cb86582a4daa0214c5ef805a2a3dee9e7fa24a674363caf">
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/Magical-Mystery-Tour.jpg?itok=uZLmaENL" width="1300" height="1300" alt="Magical Mystery Tour album cover" typeof="foaf:Image" class="image-style-max-1300x1300" />
+
+
+</div>
+          </div>
+
+  </article>
+<figcaption><br></figcaption>
+            </figure>
+                    
+
+
+<figure class="wp-block-embed-spotify wp-block-embed is-type-rich spotify-embed wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe width="100%" height="380" title="Spotify Embed: Magical Mystery Tour (Remastered)" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/album/2BtE7qm1qzM80p9vLSiXkj?si=CUrwT7aYS7Sud-Lj3Bd3kw"></iframe>
+</div></figure>
+
+
+
+<div class="wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link has-green-background-color has-background" href="https://thebeatles.lnk.to/Magical-Mystery-Tour-Stream" target="_blank" rel="noreferrer noopener">STREAM</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-green-background-color has-background" href="https://thebeatles.lnk.to/Magical-Mystery-Tour-Buy" target="_blank" rel="noreferrer noopener">BUY THE ALBUM</a></div>
+</div>
+
+
+
+<p></p>
+
+
+
+<p>The Beatles devised, wrote and directed a television film called Magical Mystery Tour which was broadcast on BBC Television at Christmas, 1967</p>
+
+
+
+<p>Even before Sgt. Pepper's Lonely Hearts Club Band, had hit the shops, the idea of the programme had been born and work had commenced on the title track.</p>
+
+
+                                <div class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-image media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/A-MMT-02.jpg?itok=x_8pBhON" width="1000" height="686" alt="The Beatles in Magical Mystery Tour" typeof="foaf:Image" class="image-style-max-1300x1300" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+                    
+
+
+<p>It was decided that the soundtrack for the programme would be released on two seven inch discs which would be packaged with a booklet in a gatefold sleeve. The booklet contained stills from the show along with a comic strip telling the story. A lyric sheet was also stapled into the centrespread of the booklet. The EP was a runaway success and reached no. 2 in the UK singles chart, held off the top spot by their own single... "Hello, Goodbye".</p>
+
+
+
+<p>In the US, the double-EP format was not considered viable so instead, Capitol Records created an album by placing the six songs from the EP on side one of an album and drawing side two from the titles that had appeared on singles in 1967. These titles were "Strawberry Fields Forever", "Penny Lane", "All You Need Is Love" - their anthem that had been broadcast around the world via Satellite in June. "Baby, You're A Rich Man" and their current single, "Hello, Goodbye". The US release made # 1 in early January 1968 and stayed there for eight weeks. Its initial chart run lasted 59 weeks.</p>
+
+
+                                <div class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-image media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/B-018.jpg?itok=0jxomS8V" width="1000" height="663" alt="The Beatles in Magical Mystery Tour" typeof="foaf:Image" class="image-style-max-1300x1300" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+                    
+
+
+<p>1967 had certainly been a year of great achievement but it was also tinged with sadness. Brian Epstein, The Beatles' manager since 1961 passed away on 27th August, 1967 at the age of 32.</p>
+
+
+                                <div class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-remote-video media--view-mode-default">
+  
+      
+            <div class="embed-responsive embed-responsive-16by9 field field--name-field-media-oembed-video field--type-string field--label-hidden field__item"><iframe src="/media/oembed?url=https%3A//www.youtube.com/watch%3Fv%3Dd2_wuNkRE40&amp;max_width=0&amp;max_height=0&amp;hash=i11AvfmxPz5RodEf85eD8lZfR7Umm_GeWqOS29Il3RA" frameborder="0" allowtransparency width="200" height="150" class="media-oembed-content embed-responsive-item" title="The Making of Magical Mystery Tour" rel="0"></iframe>
+</div>
+      
+  </article>
+</div>
+                    
+
+
+<p>The US configuration for Magical Mystery Tour was later adopted by many other countries (including the UK in 1976). When the Beatles catalogue was first issued on Compact Disc in 1987, Magical Mystery Tour joined the core list of titles.</p>
+</div>
+
+
+
+<div class="col-md-3 right-content"><div class="block block-views block-views-blockrelated-content-block-1">
   
     
       
-      <div class="view-content">
-          <div class="views-row"><div class="views-field views-field-nothing grid-inner-wrapper first-grid-item"><span class="field-content"><div class="related-content">
-<div class="text">
-<div class="pre-title">Song</div> 
-<div class="title"><a href="/i-got-find-my-baby" hreflang="en">I Got To Find My Baby</a></div> 
-</div>
-<div class="image"><a href="https://www.thebeatles.com/i-got-find-my-baby"></a></div>
-</div></span></div></div>
-    <div class="views-row"><div class="views-field views-field-nothing grid-inner-wrapper col-6-last"><span class="field-content"><div class="related-content">
-<div class="text">
-<div class="pre-title">Song</div> 
-<div class="title"><a href="/ill-be-my-way" hreflang="en">I&#039;ll Be On My Way</a></div> 
-</div>
-<div class="image"><a href="https://www.thebeatles.com/ill-be-my-way"></a></div>
-</div></span></div></div>
-
-    </div>
-  
-          </div>
-</div>
-
   </div>
 </div>
 </div>
 
+
+
+<div class="row no-gutters single-column-row">
+<div class="col-sm-12 full-width-content">    
+
+
+<div class="beatles-slideshow-container">
+  <div class="beatles-slideshow-wrapper">
+    <div class="beatles-slideshow row">
+<div class="col slide">
+  <figure>
+    <div class="styled-text-block">
+      <figcaption>
+        <p class="pre-title"></p>
+        <h2></h2>
+      </figcaption>
+    </div><article class="media media--type-image media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/A_MMT_pg18_top.jpg?itok=rePP0Eea" width="1000" height="705" alt="John Paul and Ringo in Magical Mystery Tour" typeof="foaf:Image" class="image-style-max-1300x1300" />
+
+
+</div>
+          </div>
+
+  </article>
+</figure>
+</div>
+
+
+<div class="col slide">
+  <figure>
+    <div class="styled-text-block">
+      <figcaption>
+        <p class="pre-title"></p>
+        <h2></h2>
+      </figcaption>
+    </div><article class="media media--type-image media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/MMT3.jpg?itok=QAVWSjeH" width="1000" height="1043" alt="The Beatles in Magical Mystery Tour" typeof="foaf:Image" class="image-style-max-1300x1300" />
+
+
+</div>
+          </div>
+
+  </article>
+</figure>
+</div>
+
+
+<div class="col slide">
+  <figure>
+    <div class="styled-text-block">
+      <figcaption>
+        <p class="pre-title"></p>
+        <h2></h2>
+      </figcaption>
+    </div><article class="media media--type-image media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/MTM-10.jpg?itok=ApngCw4U" width="1000" height="992" alt="I Am The Walrus from Magical Mystery Tour" typeof="foaf:Image" class="image-style-max-1300x1300" />
+
+
+</div>
+          </div>
+
+  </article>
+</figure>
+</div>
+
+
+<div class="col slide">
+  <figure>
+    <div class="styled-text-block">
+      <figcaption>
+        <p class="pre-title"></p>
+        <h2></h2>
+      </figcaption>
+    </div><article class="media media--type-image media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/A-MMT-05.jpg?itok=dfFLIOvY" width="1300" height="1142" alt="The Magical Mystery Tour bus" typeof="foaf:Image" class="image-style-max-1300x1300" />
+
+
+</div>
+          </div>
+
+  </article>
+</figure>
+</div>
+
+
+<div class="col slide">
+  <figure>
+    <div class="styled-text-block">
+      <figcaption>
+        <p class="pre-title"></p>
+        <h2></h2>
+      </figcaption>
+    </div><article class="media media--type-image media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/1998gray.jpg?itok=xEOLF-7L" width="1300" height="1300" alt="In the Magical Mystery Tour bus" typeof="foaf:Image" class="image-style-max-1300x1300" />
+
+
+</div>
+          </div>
+
+  </article>
+</figure>
+</div>
+
+
+<div class="col slide">
+  <figure>
+    <div class="styled-text-block">
+      <figcaption>
+        <p class="pre-title"></p>
+        <h2></h2>
+      </figcaption>
+    </div><article class="media media--type-image media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/A-MMT-10.jpg?itok=I_Fk0mkW" width="1300" height="864" alt="George filmed for the sequence of Blue Jay Way" typeof="foaf:Image" class="image-style-max-1300x1300" />
+
+
+</div>
+          </div>
+
+  </article>
+</figure>
+</div>
+
+
+<div class="col slide">
+  <figure>
+    <div class="styled-text-block">
+      <figcaption>
+        <p class="pre-title"></p>
+        <h2></h2>
+      </figcaption>
+    </div><article class="media media--type-image media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/max_1300x1300/public/2021-06/MMT1.jpg?itok=4bHvfSN3" width="1300" height="1244" alt="Your Mother Should Know sequence" typeof="foaf:Image" class="image-style-max-1300x1300" />
+
+
+</div>
+          </div>
+
+  </article>
+</figure>
+</div>
+
+</div>
+    <a class="carousel-control-prev" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+
+</div>
+</div>
+
+
+
+<div class="row">
+<div class="col-md-3 left-content"></div>
+
+
+
+<div class="col-md-6 middle-content border-left border-right">
+<p></p>
+
+
+    
+
+
+<p></p>
+</div>
+
+
+
+<div class="col-md-3 right-content"></div>
+</div>
+
+
+
+<div class="row no-gutters single-column-row">
+<div class="col-sm-12 full-width-content">    </div>
+</div>
+
+
+
+<div class="row">
+<div class="col-md-3 left-content"></div>
+
+
+
+<div class="col-md-6 middle-content border-left border-right">
+<blockquote class="wp-block-quote"><p>If they aren't already planning so, the Beatles should start planning their next full-length film immediately. After watching a rough cut of their 'Magical Mystery Tour', which BBC viewers can see on Boxing Day. I am convinced they are extremely capable of writing and directing a major movie for release on one of the major cinema circuits.</p><p>The film sequences for the musical numbers are extremely clever. For 'Blue Jay Way' George is seen sitting cross-legged in a sweating mist which materialises into a variety of shapes and patterns. It's a pity that most TV viewers will be able to see it only in black and white. 'I Am The Walrus' has four of them togged up in animal costumes switching at times to them bobbing across the screen as egg-men.</p><p>A special word of praise for Ringo, who more than the others comes over very, very funnily. But praise to all of them for making a most entertaining film. I only wish they would now put out a sequel made up from the parts they left on the cutting-room floor.</p><cite>NME July 20, 1967</cite></blockquote>
+
+
+                                <div class="wp-block-drupalmedia-drupal-media-entity"><article class="media media--type-remote-video media--view-mode-default">
+  
+      
+  </article>
+</div>
+                    </div>
+
+
+
+<div class="col-md-3 right-content"></div>
+</div>
+</div>
+      
   </div>
 
 </article>
@@ -658,21 +930,21 @@ dying to take you away, take you today.</p>
 
 <div class="social-sharing-buttons">
     <!-- Facebook share button -->
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/magical-mystery-tour-0&title=Magical Mystery Tour" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.thebeatles.com/magical-mystery-tour&title=Magical Mystery Tour" target="_blank" title="Share to Facebook" aria-label="Share to Facebook" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#facebook" />
             </svg>
         </a>
     
     <!-- Twitter share button -->
-            <a href="http://twitter.com/intent/tweet?text=Magical Mystery Tour+https://www.thebeatles.com/magical-mystery-tour-0" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
+            <a href="http://twitter.com/intent/tweet?text=Magical Mystery Tour+https://www.thebeatles.com/magical-mystery-tour" target="_blank" title="Share to Twitter" aria-label="Share to Twitter" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#twitter" />
             </svg>
         </a>
     
     <!-- WhatsApp share button -->
-            <a href="https://wa.me/?text=https://www.thebeatles.com/magical-mystery-tour-0" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
+            <a href="https://wa.me/?text=https://www.thebeatles.com/magical-mystery-tour" target="_blank" title="Share to WhatsApp" aria-label="Share to WhatsApp" class="social-sharing-buttons__button" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#whatsapp" />
             </svg>
@@ -697,7 +969,7 @@ dying to take you away, take you today.</p>
     <!-- Evernote share button -->
     
     <!-- Email share button -->
-            <a href="mailto:?subject=Magical Mystery Tour&body=https://www.thebeatles.com/magical-mystery-tour-0" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
+            <a href="mailto:?subject=Magical Mystery Tour&body=https://www.thebeatles.com/magical-mystery-tour" title="Share to E-mail" aria-label="Share to E-mail" class="social-sharing-buttons__button" target="_blank" rel="noopener">
             <svg width=60px height=60px style=border-radius:3px;>
                 <use href="/modules/contrib/better_social_sharing_buttons/assets/dist/sprites/social-icons--square.svg#email" />
             </svg>
@@ -721,7 +993,7 @@ dying to take you away, take you today.</p>
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2826","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,beatles_blockquote\/block-view,beatles_body_colour\/block-view,beatles_bootstrap\/block-view,beatles_drupalblock\/block-view,beatles_headerblock\/block-view,beatles_heading\/block-view,beatles_media\/block-view,beatles_pagetitle\/block-view,beatles_relatedcontent\/block-view,beatles_slideshow\/block-view,beatles_spotify\/block-view,beatles_table\/block-view,beatles_timeline\/block-view,better_social_sharing_buttons\/styling,bootstrap4\/bootstrap4-js-latest,bootstrap4\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_default,fontawesome\/fontawesome.webfonts.shim,google_analytics\/google_analytics,gutenberg\/blocks-view,gutenberg_bs_blocks\/block-view,gutenberg_bs_blocks\/container-block-view,system\/base,thebeatles_bs4\/global-styling,thebeatles_bs4\/typekit,views\/views.module","theme":"thebeatles_bs4","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-three-bounce\u0022\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce1\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce2\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce3\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":false,"throbberPosition":"body"},"google_analytics":{"account":"UA-3819040-9","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"user":{"uid":0,"permissionsHash":"451f327decd8128bb7802badc5befce7a9cb9e542f81cc5734fbaab6999c1aec"}}</script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2378","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,beatles_blockquote\/block-view,beatles_body_colour\/block-view,beatles_bootstrap\/block-view,beatles_drupalblock\/block-view,beatles_headerblock\/block-view,beatles_heading\/block-view,beatles_media\/block-view,beatles_pagetitle\/block-view,beatles_relatedcontent\/block-view,beatles_slideshow\/block-view,beatles_spotify\/block-view,beatles_table\/block-view,beatles_timeline\/block-view,better_social_sharing_buttons\/styling,bootstrap4\/bootstrap4-js-latest,bootstrap4\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_default,fontawesome\/fontawesome.webfonts.shim,google_analytics\/google_analytics,gutenberg\/blocks-view,gutenberg_bs_blocks\/block-view,gutenberg_bs_blocks\/container-block-view,media\/oembed.formatter,system\/base,thebeatles_bs4\/global-styling,thebeatles_bs4\/typekit","theme":"thebeatles_bs4","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-three-bounce\u0022\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce1\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce2\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-child sk-bounce3\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":false,"throbberPosition":"body"},"google_analytics":{"account":"UA-3819040-9","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"user":{"uid":0,"permissionsHash":"451f327decd8128bb7802badc5befce7a9cb9e542f81cc5734fbaab6999c1aec"}}</script>
 <script src="/sites/default/files/js/js_Lf9cmWxDeZGJgFUIhxDo-nabU7t--oVsBpHWBfIDEb4.js"></script>
 <script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?v=1.9" defer></script>
 

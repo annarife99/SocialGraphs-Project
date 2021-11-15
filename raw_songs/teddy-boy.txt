@@ -422,7 +422,7 @@ If his mother said, "Ted, be good", he would</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b5b999d938417a834266b32af813aa50a9948ba48d1aa1a542d6943fb5fcdd81">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-10c9ff70a5e3f11fd886f21b0dd152f95cac8578a4319caefdb49b513d5d8268">
   
     
       
