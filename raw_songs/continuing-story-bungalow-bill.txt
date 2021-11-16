@@ -442,7 +442,7 @@ What did you kill, Bungalow Bill?</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-69903d33d2e8986375bc4396dd625e9dabe0f0a55db4a0ee6dfef174f090e2e5">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-3c8e5b477e379604c000a9947fb9eff27786ab2a7bb2f53bc814899f00b9e9df">
   
     
       

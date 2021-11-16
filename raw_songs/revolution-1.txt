@@ -387,7 +387,7 @@ Alright, alright...</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-f1d094c954fb5cd23b3f677e8d6ab36964f9d7d10fd69b9d3b540cf14c74c5f7">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0432e16b1d9b15e3f835a2d280f70b8ad536aee47c0fb7a8c6c614e40fcb9d04">
   
     
       

@@ -442,7 +442,7 @@ and 30 April 1969,<br />EMI Studios, London</td>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2f50b121b9f4965725f443bd29ca97832b2e90f85423db84ef52c407ecf8fcef">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-6fcacd413802345a0937bf87a2545b2ef3d99b5b2fba2510adedeaee009a7b0f">
   
     
       
