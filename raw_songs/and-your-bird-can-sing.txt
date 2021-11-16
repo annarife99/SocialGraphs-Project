@@ -417,11 +417,7 @@ You can't hear me.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-fb9d8d337317eacbb610b7294a41dc782b13d4b3c662b4a5015641c2bcc2c272">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-f76ef8e355a11e298eceb991f6f734743ea139e84c8606da185f3533b2be507c">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-32de1a17efba78310c6784ad4f33d189903d1215d4d531afcdf8a51a110fe634">
   
     
       

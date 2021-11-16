@@ -434,11 +434,7 @@ Ooh, la la la, ooh, la la la</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d71dec3f0a2b6adef92f18108e53aa8e5323bb3f124fe7f4786c507ac43b898a">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-50f6d82a031eae623f365aae6167730fc4b5bb192f55d6b7a2103d6499c33d65">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

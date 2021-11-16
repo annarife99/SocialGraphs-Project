@@ -432,11 +432,7 @@ Step Inside Love: ©1968 Sony/ATV Music Publishing LLC.  All rights reserved.  U
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-33af4ceed049c07f56df6be6c4ebdfcb97048482211246c62d54f18bb54c40cf">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-fe9a33a302dabc8e08410afbb84f1284ed96d4e20eebd10a81d363b2562b5386">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

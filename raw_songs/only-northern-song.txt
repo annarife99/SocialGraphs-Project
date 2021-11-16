@@ -414,11 +414,7 @@ And I told you there's no one there.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-9109674c754eb795b5457a7799c84a555c819ef6a973b077b9962a2644168857">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b4ff37c4b688ae5f729e9ba00b57948323271341cbb00d13ca4d77655d6ce9ab">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

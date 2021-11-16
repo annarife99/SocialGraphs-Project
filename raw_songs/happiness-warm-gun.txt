@@ -441,11 +441,7 @@ Well, don't you know that happiness is a warm gun, mama.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-85ed3cb8048034ff263b130df21066884eca0871382349c6aab24e107c072cf8">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-9bd69181266934993ef94f3561fab2bf48b5940a4a3ee07c42c1abf55441b3a1">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

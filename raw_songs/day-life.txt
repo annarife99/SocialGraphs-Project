@@ -435,11 +435,7 @@ Now they know how many holes it takes to fill the Albert Hall.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-16315ac2dc23f7d4cb55bfc376a29e0be2d91ca3292fd665480541a31931b359">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8461bb9a8d7669782421dbe2054a999b0b166dd759a7e724021fb824bb9d03bf">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-5e095bc34827258de6440d8293a481e524f060a553310f5a1947f6b407af7ddc">
   
     
       

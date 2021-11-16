@@ -439,11 +439,7 @@ Looking through a glass onion.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-1b9c311ecbbd2e72b26e6f0dd375219e566eb1a2a137438e26f3cf39b9087630">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-f41fb81de267dcc2f50fdbffcf38dfd8ce0433f7124de49c8820bd001fcf969f">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

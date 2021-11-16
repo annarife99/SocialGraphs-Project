@@ -456,11 +456,7 @@ When she learns we are two.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2cd9c076ad4451839f918417ba5475b5d1eeec10a8883680687f70190a228526">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-fad477524b1524f188d8c4d7286fb5dfb044efabd3c48a6c5aa71d761bfd7765">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

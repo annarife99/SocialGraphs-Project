@@ -413,11 +413,7 @@ I'd like to be under the sea in an octopus's garden with you.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8c70d87b74b0e385d61b29df550705cb5d8de7e969f141af2179dbeb33679e6f">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-bafd9d32c121b7e6dd26fc846c55ee46c11d9e2f5b651bd88405a31f706ebce6">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-a2e9437b4130010077dfae459da0f4560fce6619e1b9d7b7bf4d798bb1fec818">
   
     
       

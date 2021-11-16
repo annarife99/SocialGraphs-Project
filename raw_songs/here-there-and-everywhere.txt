@@ -419,11 +419,7 @@ Here, there and everywhere.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-6292c53e0efa6fbbb6ede8546c2b6851849a16061e7d0e33179dd0a1642abd0b">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-026008dc158702815b6f4a3fc83c66c5c5d75a5a8cc17d3080ab2a58a883a530">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d86195c0cfb5b84aeec0784b2c8ba952217f32963defcc5646a97124bfb309d9">
   
     
       

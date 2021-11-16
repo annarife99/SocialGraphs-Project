@@ -427,11 +427,7 @@ Nothing's gonna change my world. </p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-98ff9f1b4142c5440deaf68a29b7dbc248ca92392666861a7cd122e9ded3dabf">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-3bd39fa6365cd6a57d2bb97fe9122f86b3060e880ed7baf9c1eea7159ab563d9">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-96152db1248a7183c3f7aa0d95cb0886d0d52431a3db969c665b37b0a05e4e05">
   
     
       

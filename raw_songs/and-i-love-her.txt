@@ -442,11 +442,7 @@ And I love her.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d53109a507a1b3697e2d5de51352a504d961ea191e3fa3656b3b5c43fa6a9375">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-ba0a0c4999704fa936b9a66cbe75be91197ec61a52ca00ab49290876e75766c2">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

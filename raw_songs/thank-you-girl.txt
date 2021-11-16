@@ -403,11 +403,7 @@ Oh, oh</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-dfff175b6309a273b3abe8fc61255760c0d69bcd08ca69eb5053d232afe6317d">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-171692ae2eb82ac86977985fd62d18309df1a1fcc31539cd4836586e6a9ac02d">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

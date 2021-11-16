@@ -410,11 +410,7 @@ Oh yes, you'll be</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-1776cbf2733d034e9720098595c80be06044dafaff9ecee1d58bc8de73a5ac09">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-39e5958622db9732a5eeeae41899aa8a52056fb334a85a5ed090949d218ad6a0">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

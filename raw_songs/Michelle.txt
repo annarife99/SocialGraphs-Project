@@ -440,11 +440,7 @@ The Beatles's "Michelle" from Rubber Soul
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-dd564e1ce71a374a414b6315dbc840598cbc15a0ed887cf2cb9ad271fd5dbd45">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-737d8981aa60c0fedfa3c828d48cae674ab09981db45ddb3ba1b8172bcec8e2d">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-957320b98fef2d9167dbb4270dbf5c3fbc7a328fb288e9344b7866370f5815c4">
   
     
       

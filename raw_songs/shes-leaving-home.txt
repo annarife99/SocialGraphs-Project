@@ -423,11 +423,7 @@ She's leaving home. (Byebye.)</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d992390abc151a925cd81babc8e7fc326d33b618db15c3e8c7359fd29b29159a">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-5b65618c8dc06cfb0cccc10a18e960826344be81da1cb64681f8cbbb7f1119c1">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-981a89a4d2bb2a2827c1f1dc4cc7cfb0055c37eaa4834217f8e2c08bd6b9c142">
   
     
       

@@ -418,11 +418,7 @@ Give us a wink and make me think of you.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-830e7dcec83033c2394894f1e50f8bb31f2991663cf4cd7a12c67b671ab097f5">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-94259542af9bcb8190965a3baa78fafeb7f3b88ffcd196a82887e8247ccd1641">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b412c35313ba5f8436e9ece13605943a5dfa157528373c954465bc2ea370ef90">
   
     
       

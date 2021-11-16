@@ -393,11 +393,7 @@ Treat me like you did the night before.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-c2073c2a07bb35a964ac327533b88fa1360e853de5718352624d91216a656430">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-785835a084b19e5c61d327dfdf9935abab0982033c49a93a7ca2a1d67c2c4b6e">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

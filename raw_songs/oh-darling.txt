@@ -436,11 +436,7 @@ I'll never do you no harm.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-9d681036a23089394bca7c98b50578f79199740b33da911d865eb61b05d29566">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-bd8a7f5ee0cb14c7e5addfaeb1efa49e37aed1fc6fe8864000670fdd16fad3df">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-63b4ea77e7e022c67ec8186f1f58f492b62ac4482a8274e88b237615ffa61ad5">
   
     
       

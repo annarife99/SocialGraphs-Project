@@ -433,11 +433,7 @@ I will send to you.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-bc6de449f9542860c0529e144d5cf3a4a9f6e8c47f26ca2cb621245c525e73f8">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-e63fe93d12bdc660a47082901168420794fcb5b2f8048f67d74a3c8ddce73b88">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-550bbd421bc44349eb006a3af953ed2379f2ff4ab5d1693238b3b3e10668bc8b">
   
     
       

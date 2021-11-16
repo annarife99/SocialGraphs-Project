@@ -405,11 +405,7 @@ Do all without doing</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-f74335b5d8da955d0d2ef8bf364e69018f859b1fd498900e8ee3857ff152bd57">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-3fc01026a2e870818f8c21e110cf9710b24bf4b9301872cb0966e68e33ddfe38">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-c4a275162c546c95c31bc0774965deae8622838b7aaff0936739a291fce120f0">
   
     
       

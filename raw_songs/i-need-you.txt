@@ -417,11 +417,7 @@ I need you. I need you, I need you.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0f5fb84a509f8bd4ae96cf0e2306e93f14a1d497e4bbc35091a43faeb5c2ae86">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-280c6a611d8351d61c8821be16187b005b4bd70c7f2ea8296fc9d38a38bd834f">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

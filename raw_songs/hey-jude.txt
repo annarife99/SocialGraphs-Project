@@ -426,11 +426,7 @@ Then you begin to make it better, better, better, better, better, better, oh!</p
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-db6e3727cd15edc812ca289d3dd69c54b245f4c88b5907ec501a62f92e3271aa">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0fb8fa19c5796b5c4b7c755c5827eeecccacb2735b5e06a70b048925bd4e4733">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-5bcb14231bff86965bd049f08e5c0f64014f7fc458701c894d35c5cf7a16916d">
   
     
       

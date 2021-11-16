@@ -420,11 +420,7 @@ But, tomorrow may rain, so I'll follow the sun.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d6bb6e50c40ec6b2ae461611096e90867bd7b49db21433be9f03237fa2686b85">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-bbb9a980892f8a4b5b97cafed5cb463741590d5739f1aba07dc1dea01ef3ddbb">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

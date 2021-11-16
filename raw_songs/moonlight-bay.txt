@@ -371,11 +371,7 @@ Cover, sheet music, 1912</td>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-edddac5b29f084f87d3149c16813ccd241dd511795b0b1ac4e1e32162c842a52">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-214a71e2b423e2a47e5bb0295fc0fa3586ebf4cfee330e5dc7c77f094dadb620">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

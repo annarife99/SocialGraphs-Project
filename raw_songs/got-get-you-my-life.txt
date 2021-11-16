@@ -448,11 +448,7 @@ Ev'ry single day of my life?</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d08cdfbc1cdf2ad160b5a4236ffa1f776b50a1852f02286219823635e3c5a19e">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-33e07692a93cdd9f46a4cc5aeebc0923fc9fe053bb1f81e16b190aa7f27c970a">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-792c41d577bd828c1b5fbe9437746d6b889855cb850dda5e62c9f85773e80c39">
   
     
       

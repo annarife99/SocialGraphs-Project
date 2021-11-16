@@ -466,11 +466,7 @@ Making all his Nowhere plans for nobody.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-1547e6f43c1455e5c81b4911db932fa096ca3a4210625e098cbc466402e3653d">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-a78bf1d0fe6f94a4754d78f9e8090b9903273061ff99c75680b0c8c22ae95b91">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2530b1de92f163f418cdb575faca60ab7b95dc1f0aa5f22ef23ece9bafd489de">
   
     
       

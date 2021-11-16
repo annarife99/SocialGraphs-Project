@@ -437,11 +437,7 @@ It's alright</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-cc4bb093f326b7506d52bfd544bca261bc6d17bd75fb8a32b1b7ad30ba532bf9">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-23007ad4083eeba88d77d52010d11fb0dc253e1fa803ff5224a1fa695e8d031f">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8abfd9d3bad75a58fb710ff70d46c249fc4af7f3d0ed5b37e5e1f961587b1eb0">
   
     
       

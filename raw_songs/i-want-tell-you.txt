@@ -417,11 +417,7 @@ I've got time. I've got time.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2f37532b6a5c40e31ab804ccaddb13b039a79fc9d49308a196d74a1839ff7c00">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-6be611de28b01521dfaad5a61b689fc72f6f399893efa213a7d14e124df71e17">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

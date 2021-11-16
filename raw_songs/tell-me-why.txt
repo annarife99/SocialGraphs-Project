@@ -422,11 +422,7 @@ And why you lied to me.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-6a1946f6f39bf2ff35e3bc8b4192e2b24c0abd3ae229edaf38fb882fb634545a">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-6fa8daac8923e69c07c2bec323a6159cc839f8e63f143dc25212157688f1cbbb">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

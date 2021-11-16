@@ -417,11 +417,7 @@ Don't let me down</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b9eb1bb645134e72a78a25582867362d7f4d2a90b4056b9e2bcc8d573a5b11eb">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d1f27e9d5b6c7e8e1888948b79c3d564f8135bcc28e500270a6fd268d3d7440b">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2c1e9f96530a178398ec8c689abe3bcf0c699ae9761eabafc4fcdec49eb754a1">
   
     
       

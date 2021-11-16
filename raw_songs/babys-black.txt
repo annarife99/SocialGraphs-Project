@@ -425,11 +425,7 @@ Tell me oh, what can I do?</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-ba9faf7653c4fc9aab7e48b3e7b3077211193b3354fda0258df2afb433cfabc6">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-501e33869679380c9ffe106e070c336836a9eda4c9b91f92c87e020c913476e7">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

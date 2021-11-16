@@ -410,11 +410,7 @@ Carry that weight a long time.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-747e08cef91843073bf95a2cb45d1ced7655e05d8ca1104b1b802843f8a0352d">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2e6ea2db9f629ad8c4e73daa92959e79317635304fb291d903b03e30ac955eb6">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-9772388d6172b6c9d3ef2bc8bfce1e685af8c2f7103ba105161077062991afe2">
   
     
       

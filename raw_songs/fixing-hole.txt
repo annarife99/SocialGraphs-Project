@@ -430,11 +430,7 @@ Where it will go.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-6091377b28952a66c09258b5d2fdca37c9abdc0585524143e52fa46263d76abf">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-edeb945c2de9179605699cba5746feaeade27fb4ddc4e54de01350ada4f43cbe">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

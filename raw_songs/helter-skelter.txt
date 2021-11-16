@@ -461,11 +461,7 @@ Yes, she is.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-84d8da271e9ee57133310cfc701047b7f0334c46c11a27ec693f862bae9c23d6">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-e986c020f3b7753bc3360c5b901db6f889f656f15fe59cfa50985a99b3ca22e6">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-cc956a3b19214bb5363dc8bfa6445c8c1b2c70ce96fa7285d377d799eece6431">
   
     
       

@@ -432,11 +432,7 @@ I'll say I love you and I'm always thinking of you.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-780ea1472ce48b650419e0b52acdf48f98136bcd4a316f2b54501239c0449d95">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-af127cf8d2291bf078bc86768fef8ff93f4472a6e4f3518c77718d79f069e47e">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

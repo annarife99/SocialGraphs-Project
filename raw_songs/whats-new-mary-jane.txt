@@ -426,11 +426,7 @@ Before we get taken away}</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-5c7a4c5b82e666bf844d41e0d343b7b02c9e713cd27f154e42f8fc2a1c168a05">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-3e1923f7bb7f663f4e02fe452003b3dd563700fab7b79ea007122b3a466e4080">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

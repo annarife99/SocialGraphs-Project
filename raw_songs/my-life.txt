@@ -421,11 +421,7 @@ In my life I love you more.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-92d23c82ae349d2367efe3e532a08513ec7c8284cb0adf3b3765e506ad68137c">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0908c2796e66c65d082d1f2d84b8c1a4c93e7b94d4586c6f6303b3523be6a8b6">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8b98739b175fee2572477b9ca5594239168564e907ea3a0d3e2b31f07f3a759f">
   
     
       

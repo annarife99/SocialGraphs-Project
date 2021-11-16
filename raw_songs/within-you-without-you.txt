@@ -416,11 +416,7 @@ And life flows on within you and without you.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-f8d92d6f9cafde09282442f1a6e6354c6992da1dd6f9037128a438d309ae3cc6">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0387cf96aab390ef86a62284d1fc41dbc51fdd3a96d288fea37893dfd6adab76">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

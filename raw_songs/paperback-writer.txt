@@ -422,11 +422,7 @@ Paperback writer.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-eb135fd12f1ff587f02a30e8dcdf01ee2e0ce1506525a1fc3018ef433615a09d">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-218cd2bb2ea9b5d785f57e988a9139c54b81007a406547b65b768a0c3334eaa3">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

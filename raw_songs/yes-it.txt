@@ -419,11 +419,7 @@ Yes, it is, it's true.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-f54e1ba43dd98ea855dd34a7e0f95a0e993310a85459d5f5aedfd013674295c7">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-42cfd90672cbfffb86e8a00e749a1a0ca1dacb760c1871c36bfb857a7325b3d9">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

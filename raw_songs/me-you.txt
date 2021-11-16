@@ -414,11 +414,7 @@ To you, to you, to you</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-43c63735ed217b58911518bcee935269617095c9d61dd98f45e0056530a27c5b">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-5a43a94a78105ac9d21c16c9f22de3e9c5f01a744f0bb0f4a5b864cbbed642bd">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-84c78cff4bc334b167bd409738250c0cb5cc200b991e84ed1014ea3fc74030f2">
   
     
       

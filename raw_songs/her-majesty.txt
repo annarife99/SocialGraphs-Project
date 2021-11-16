@@ -407,11 +407,7 @@ Oh yeah, someday I'm gonna make her mine.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-5a270b2950ad1dea5ecf33ee65f218386981d2c94602ca7778bbf5271a55c2d6">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-ac42289bca9f03407208fe2242974ad601658f0f4db4ea422320e5aa661f785e">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b00fb3f96dedaf57ea7c3bb36cc7ad9bab56f1017df36fa3f3066cdbda3f3924">
   
     
       

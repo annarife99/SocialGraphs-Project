@@ -444,11 +444,7 @@ PCS 3062 (stereo)</td>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8d3f26420536361eed400704b8e49a262f6318eab80c017e66314545d34e2017">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-1caa524fd6170138761c972a53abc791881085848cb0686c5a8d40fc929fa2b0">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-68966d8eec6a9845b7556fb87b96b35cd63ed8ef83f4a02356cc8a53fb9d3bcb">
   
     
       

@@ -460,11 +460,7 @@ Cover to 1968 Swedish single
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-938a728b6a341977dfed9c1264fbce5515b9eea2cc661c65ea348d2ef8cd537a">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-5b3f0ab8be49809b581c1ce8a04089bc99aa721f4c5d994bbbf3d9544056d89d">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-23327a48fe78914793f76febb6c46d589128800f991f92b154817e1f809132e8">
   
     
       

@@ -387,11 +387,7 @@ All together now!</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-cf0282bf8b8acf5f8d8300d0dd24c0743b4be9685a539ecfb3616c18f59cd1be">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-01b7379d340915992484248451da765cc12d466a8cf2e8322d6031471d66c1ea">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

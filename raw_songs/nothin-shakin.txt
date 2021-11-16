@@ -398,11 +398,7 @@
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-0d97ebace779873ef53a9933f010d04c3857bd3f851bfc5148d481dee26f0308">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2a5df85544415d155527bc1eaf65034f17c0975cc4ef0345b386f5581df651f2">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

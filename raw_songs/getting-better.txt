@@ -431,11 +431,7 @@ Better, Better, Better</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-cfb69287e6d238b1272db5bd140886584c740f8c374138b64c23580d3569098b">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-ea1ff403bcf6ef915e72647437a3434ac2c2b21929ee98e4b5cb61601180e633">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

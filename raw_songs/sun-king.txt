@@ -405,11 +405,7 @@ Questo abrigado tantamucho que canite carousel.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-c496f5759b53385992a0d3ed1b1f40cb6ae3ed93f6c45aeeaf31397ceebb6190">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d193ce2e3c2227b701d106cdaafdab663e116ae7549b165dec0be0d0e7d34b0f">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

@@ -452,11 +452,7 @@ So I sing a song of love for Julia, Julia, Julia.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-3edf77e38f2d214cc33b28c82f4854a304d7283ae4c2b779b8d18a102be63109">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-a167f2aa62b2fc88b82d2cd1b0c81519a43fd9d308ff03a630fc2ae6dab147a5">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

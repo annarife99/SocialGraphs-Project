@@ -432,11 +432,7 @@ Happy birthday to you.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-fe68db01e466482d6765814b0a7001d0abba56a9cce923e1bc0155209373e931">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-730f1c65a97c0d15b79f5ca506488f763fbb20f358e70bc34308865ffe1ad230">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-85601888c04760a94bb1c4023f6ada3b6c35730ba412e3e8bf7a294dc1f960c9">
   
     
       

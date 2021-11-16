@@ -430,7 +430,6 @@
 <div class="block block-views block-views-blockrelated-content-block-1">
   
     
-<<<<<<< HEAD
       
   </div>
 </div>
@@ -451,9 +450,6 @@
         <h2></h2>
       </figcaption>
     </div><article class="media media--type-image media--view-mode-default">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-3263871377b95da73f33c0ed318e8cc028ca9b2bd7d533ccf070f10c8f9fd25d">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
       
   <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">

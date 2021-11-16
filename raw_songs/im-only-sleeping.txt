@@ -446,11 +446,7 @@ Leave me where I am, I'm only sleeping.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-4cf9a74c2281ef80b0b551b9b30652c1c1aadf65392d3486cd74095a94ed2c50">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-99a6adcd7f1018294e24f044ff6a05878f9fd76a980d494eee7844cfac427965">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

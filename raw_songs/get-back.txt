@@ -446,11 +446,7 @@ Get back to where you once belonged</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-eb1dc5870ad82fc5afbd5a2053bd57fd6a34a83cfa074df730089f1ef1870134">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-19052780b3ed850a1aa6341e6733b01b1018a9646d5027291762da328860e527">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-1747b284a5b16cc865d24cd7b9e61e4ce2925ac1d3b8ecd51c08d5bba09bbd07">
   
     
       

@@ -435,11 +435,7 @@ Doctor Robert.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-dd36271b96545b46b4b392ba5a2ea24bc7634a83857665b81454ced0bb97f02c">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2d676be08b40c8f608f820bf2f28952a5aea51689424f7cd84ab536754841ff7">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

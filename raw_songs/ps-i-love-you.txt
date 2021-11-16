@@ -452,11 +452,7 @@ Tollie 9008 (US)</td>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-3c439549e199d5fa6f086e2a542e699d51fe49388eefc64a4477281731dda3fa">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2514ecb0bd34be29656d472c922e7361f771269a4ac0c2557d5677b3e37efb0f">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

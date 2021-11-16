@@ -430,11 +430,7 @@ Say the word, "love."</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-40a93b7d0ea8aebe08e585c5b785faa7359239894ea2340a4411b90783e53c63">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-25eb47d47ef401b062d229671f216812347067a2024a5f54d021f0057995e52c">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

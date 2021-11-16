@@ -436,11 +436,7 @@ No reply, no reply</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-4b6676defdb7d7567be1e75d50ae25f6cdda19850470140a6f86b6b9c4ed30c7">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-c190f8ed06faaba5f71cb631c3ea91bd81710243275b88674e00790a886c6975">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

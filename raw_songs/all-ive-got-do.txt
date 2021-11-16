@@ -418,11 +418,7 @@ you just gotta call on me. Oh, you just gotta call on me.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
       <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-be6e934961d1d311bbca377c183aeb4d1b091b33143b4521e544751e0dd1ff33">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-81acfc5d4888721bb5bd1ebc73d3aee1005fdb98df4f7753555c2a7247d74a4e">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
   
     
       

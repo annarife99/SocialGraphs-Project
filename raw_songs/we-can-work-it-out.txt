@@ -429,11 +429,7 @@ We can work it out.</p>
   
       <h2>Related Articles</h2>
     
-<<<<<<< HEAD
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b45265a56ff93713177dc31def650888fd034b3505f6545563321c45a8b0b721">
-=======
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-f2021853dcf865307a0cafbac0a02de1a7807995372eb9ab86af2a330cc18f80">
->>>>>>> 7610539cea7430b416ab09923d39bb0f6a1bb96f
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-efc760c97f85eb1bceae8cc15f8925f2fcbc1d88090e5cebc58867cba3002265">
   
     
       
