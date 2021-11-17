@@ -432,7 +432,7 @@ Happy birthday to you.</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-85601888c04760a94bb1c4023f6ada3b6c35730ba412e3e8bf7a294dc1f960c9">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d4f377d20af546a933f0add904e86db7a97eecf7d9ad92a3cdedec9f031606b2">
   
     
       

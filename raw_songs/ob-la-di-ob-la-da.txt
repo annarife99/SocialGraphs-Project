@@ -504,7 +504,7 @@ Lala how their life goes</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8e712d6a20e5cfcf185e968f04e68c6738581eb8a00d38124e16dea9b5fc6b16">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-dc6ab138fec838fe6c08064e468ba7f170e724de5235be31873a556db9eda542">
   
     
       

@@ -445,7 +445,7 @@ Sgt. Pepper's Lonely Heart's Club Band</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-a2d0748bdc57997c9135c455c740056fe0fad229ddca0c4cd549ed19993b2bdb">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-561a17103e2ab43bb3d08e59f2e97a8103006e32eba61f5aeb08fe14e37762c4">
   
     
       

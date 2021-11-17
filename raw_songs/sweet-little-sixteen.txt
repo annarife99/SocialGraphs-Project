@@ -380,7 +380,7 @@
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d0e1d62228da54c3c9690bf305e35dfadc45ddeb8ce71ae1c19ffb6b70d6b8fc">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b3176b418af4bfda23c883331b7a64a016060036ad2d1bc5a7528b40ada4bbe5">
   
     
       

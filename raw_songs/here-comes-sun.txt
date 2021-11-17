@@ -437,7 +437,7 @@ It's alright</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-8abfd9d3bad75a58fb710ff70d46c249fc4af7f3d0ed5b37e5e1f961587b1eb0">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-1baf64e114b2c45226a354b83c88c4d84697241ed569d64c7fc5866ac3601814">
   
     
       

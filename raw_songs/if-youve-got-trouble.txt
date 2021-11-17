@@ -424,7 +424,7 @@ And don't bring your troubles to me</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-f4943db39c4ddd0c70dbf980f3cd79b8fa27f0519019a7de29be0ae46022f7e5">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-77e355d297babd318dd5654ee24169b5088a40fba1ec0533fb0ebb8a801699ce">
   
     
       

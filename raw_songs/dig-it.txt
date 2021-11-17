@@ -407,7 +407,7 @@ And now we'd like to do "Hour the Angels Come."</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-89361c20111764943f920c0cd4abc68fb667bbd476134f97ed44f4af17b56bc7">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-94727dea73b152ff26dd23aebbbe02cce29ac02a7e116e762ea98222de7a69a2">
   
     
       
