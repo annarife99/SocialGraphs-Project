@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Long_And_Winding_Road","to":"Long And Winding Road"}],"pages":{"-1":{"ns":0,"title":"Long And Winding Road","missing":""}}}}

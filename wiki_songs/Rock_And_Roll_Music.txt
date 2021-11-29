@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Rock_And_Roll_Music","to":"Rock And Roll Music"}],"pages":{"2711":{"pageid":2711,"ns":0,"title":"Rock And Roll Music","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Rock and Roll Music]]"}}}]}}}}

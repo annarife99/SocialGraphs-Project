@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Everybodys_Got_Something_Hide_Except_Me_And_My_Monkey","to":"Everybodys Got Something Hide Except Me And My Monkey"}],"pages":{"-1":{"ns":0,"title":"Everybodys Got Something Hide Except Me And My Monkey","missing":""}}}}

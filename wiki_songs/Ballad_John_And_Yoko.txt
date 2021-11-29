@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Ballad_John_And_Yoko","to":"Ballad John And Yoko"}],"pages":{"-1":{"ns":0,"title":"Ballad John And Yoko","missing":""}}}}

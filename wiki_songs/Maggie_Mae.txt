@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Maggie_Mae","to":"Maggie Mae"}],"pages":{"2892":{"pageid":2892,"ns":0,"title":"Maggie Mae","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#redirect [[Maggie May]]"}}}]}}}}

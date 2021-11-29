@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Day_Life","to":"Day Life"}],"pages":{"-1":{"ns":0,"title":"Day Life","missing":""}}}}

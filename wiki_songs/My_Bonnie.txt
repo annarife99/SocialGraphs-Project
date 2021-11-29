@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"My_Bonnie","to":"My Bonnie"}],"pages":{"3109":{"pageid":3109,"ns":0,"title":"My Bonnie","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[My Bonnie (Single)]]"}}}]}}}}

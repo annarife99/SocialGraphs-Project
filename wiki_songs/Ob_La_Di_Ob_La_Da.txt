@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Ob_La_Di_Ob_La_Da","to":"Ob La Di Ob La Da"}],"pages":{"-1":{"ns":0,"title":"Ob La Di Ob La Da","missing":""}}}}

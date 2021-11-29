@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"All_You_Need_Love","to":"All You Need Love"}],"pages":{"-1":{"ns":0,"title":"All You Need Love","missing":""}}}}

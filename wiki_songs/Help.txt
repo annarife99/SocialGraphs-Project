@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"6142":{"pageid":6142,"ns":0,"title":"Help","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Help!]]"}}}]}}}}

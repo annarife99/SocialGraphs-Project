@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Please_Mister_Postman","to":"Please Mister Postman"}],"pages":{"2350":{"pageid":2350,"ns":0,"title":"Please Mister Postman","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Please Mr. Postman]]"}}}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"normalized":[{"from":"Back_Ussr","to":"Back Ussr"}],"pages":{"-1":{"ns":0,"title":"Back Ussr","missing":""}}}}
