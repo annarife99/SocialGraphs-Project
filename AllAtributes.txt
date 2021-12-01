@@ -1,0 +1,302 @@
+Song,Year,Month,Day,Lyrics,Writer,Album,Genre
+Love_Me_Do,1962,October,5,Yes,Lennon/McCartney,0.0,0.0
+Ps_I_Love_You,1962,October,5,Yes,Not found,0.0,0.0
+Ask_Me_Why,1963,January,11,Yes,Lennon/McCartney,0.0,0.0
+Please_Please_Me,1963,January,11,No,Not found,0.0,0.0
+Taste_Honey,1963,March,22,No,Not found,0.0,0.0
+Anna_Go_Him,1963,March,22,No,Not found,0.0,0.0
+Boys,1963,March,22,Yes,Not found,0.0,0.0
+Chains,1963,March,22,Yes,Not found,0.0,0.0
+Do_You_Want_Know_Secret,1963,March,22,Yes,Not found,0.0,0.0
+I_Saw_Her_Standing_There,1963,March,22,Yes,Lennon/McCartney,0.0,0.0
+Misery,1963,March,22,Yes,Lennon/McCartney,0.0,0.0
+Theres_Place,1963,March,22,Yes,Not found,0.0,0.0
+Twist_And_Shout,1963,March,22,No,Not found,0.0,0.0
+Me_You,1963,April,11,Yes,Not found,0.0,0.0
+Thank_You_Girl,1963,April,11,Yes,Lennon/McCartney,0.0,0.0
+Ill_Get_You,1963,August,23,Yes,Not found,0.0,0.0
+She_Loves_You,1963,August,23,Yes,Lennon/McCartney,0.0,0.0
+Hello_Little_Girl,1963,August,30,Yes,Not found,0.0,0.0
+All_Ive_Got_Do,1963,November,22,Yes,Not found,0.0,0.0
+All_My_Loving,1963,November,22,Yes,Lennon/McCartney,0.0,0.0
+Devil_Her_Heart,1963,November,22,Yes,Not found,0.0,0.0
+Dont_Bother_Me,1963,November,22,Yes,Not found,0.0,0.0
+Hold_Me_Tight,1963,November,22,Yes,Lennon/McCartney,0.0,0.0
+I_Wanna_Be_Your_Man,1963,November,22,Yes,Lennon/McCartney,0.0,0.0
+It_Wont_Be_Long,1963,November,22,Yes,Not found,0.0,0.0
+Little_Child,1963,November,22,Yes,Lennon/McCartney,0.0,0.0
+Money_Thats_What_I_Want,1963,November,22,No,Not found,0.0,0.0
+Not_Second_Time,1963,November,22,Yes,Not found,0.0,0.0
+Please_Mister_Postman,1963,November,22,No,Not found,0.0,0.0
+Roll_Over_Beethoven,1963,November,22,No,Not found,0.0,0.0
+Till_There_Was_You,1963,November,22,No,Not found,0.0,0.0
+You_Wont_See_Me,1963,November,22,Yes,Not found,0.0,0.0
+I_Want_Hold_Your_Hand,1963,November,29,Yes,Not found,0.0,0.0
+Boy,1963,November,29,Yes,Not found,0.0,0.0
+Cry_Shadow,1964,March,27,No,Not found,0.0,0.0
+Any_Time_All,1964,June,10,Yes,Not found,0.0,0.0
+Ill_Be_Back,1964,June,10,Yes,Not found,0.0,0.0
+When_I_Get_Home,1964,June,10,Yes,Lennon/McCartney,0.0,0.0
+I_Call_Your_Name,1964,June,19,Yes,Not found,0.0,0.0
+Hard_Days_Night,1964,July,10,No,Not found,0.0,0.0
+And_I_Love_Her,1964,July,10,Yes,Lennon/McCartney,0.0,0.0
+Cant_Buy_Me_Love,1964,July,10,Yes,Not found,0.0,0.0
+I_Should_Have_Known_Better,1964,July,10,Yes,Lennon/McCartney,0.0,0.0
+Ill_Cry_Instead,1964,July,10,Yes,Not found,0.0,0.0
+If_I_Fell,1964,July,10,Yes,Lennon/McCartney,0.0,0.0
+Tell_Me_Why,1964,July,10,Yes,Lennon/McCartney,0.0,0.0
+Things_We_Said_Today,1964,July,10,Yes,Lennon/McCartney,0.0,0.0
+You_Know_My_Name,1964,July,10,Yes,Not found,0.0,0.0
+Im_Happy_Just_Dance_You,1964,August,20,Yes,Not found,0.0,0.0
+I_Feel_Fine,1964,November,23,Yes,Not found,0.0,0.0
+Shes_Woman,1964,November,23,Yes,Not found,0.0,0.0
+Babys_Black,1964,December,4,Yes,Not found,0.0,0.0
+Eight_Days_Week,1964,December,4,Yes,Not found,0.0,0.0
+Every_Little_Thing,1964,December,4,Yes,Lennon/McCartney,0.0,0.0
+Everybodys_Trying_Be_My_Baby,1964,December,4,Yes,Not found,0.0,0.0
+Honey_Dont,1964,December,4,Yes,Not found,0.0,0.0
+I_Dont_Want_Spoil_Party,1964,December,4,Yes,Not found,0.0,0.0
+Ill_Follow_Sun,1964,December,4,Yes,Not found,0.0,0.0
+Im_Loser,1964,December,4,Yes,Not found,0.0,0.0
+Kansas_City_Hey_Hey_Hey_Hey,1964,December,4,No,Not found,0.0,0.0
+Mr_Moonlight,1964,December,4,No,Not found,0.0,0.0
+No_Reply,1964,December,4,Yes,Lennon/McCartney,0.0,0.0
+Rock_And_Roll_Music,1964,December,4,No,Not found,0.0,0.0
+What_Youre_Doing,1964,December,4,Yes,Not found,0.0,0.0
+Yellow_Submarine,1964,December,4,No,Not found,0.0,0.0
+Ticket_Ride,1965,April,9,Yes,Not found,0.0,0.0
+Yesterday,1965,April,9,Yes,Lennon/McCartney,0.0,0.0
+Bad_Boy,1965,June,14,No,Lennon/McCartney,0.0,0.0
+Help,1965,July,19,No,Not found,0.0,0.0
+Im_Down,1965,July,19,Yes,Not found,0.0,0.0
+Act_Naturally,1965,August,6,No,Not found,0.0,0.0
+Another_Girl,1965,August,6,Yes,Lennon/McCartney,0.0,0.0
+Dizzy_Miss_Lizzy,1965,August,6,No,Not found,0.0,0.0
+I_Need_You,1965,August,6,Yes,George Harrison,0.0,0.0
+Ive_Just_Seen_Face,1965,August,6,Yes,Not found,0.0,0.0
+Its_Only_Love,1965,August,6,Yes,Not found,0.0,0.0
+Tell_Me_What_You_See,1965,August,6,Yes,Lennon/McCartney,0.0,0.0
+Night,1965,August,6,Yes,Not found,0.0,0.0
+You_Cant_Do,1965,August,6,Yes,Not found,0.0,0.0
+Youve_Got_Hide_Your_Love_Away,1965,August,6,Yes,Not found,0.0,0.0
+Young_Blood,1965,August,6,No,Not found,0.0,0.0
+Day_Tripper,1965,December,3,Yes,Not found,0.0,0.0
+Girl,1965,December,3,Yes,Lennon/McCartney,0.0,0.0
+Im_Looking_Through_You,1965,December,3,Yes,Not found,0.0,0.0
+If_I_Needed_Someone,1965,December,3,Yes,George Harrison,0.0,0.0
+My_Life,1965,December,3,Yes,Not found,0.0,0.0
+Michelle,1965,December,3,Yes,Lennon/McCartney,0.0,0.0
+Norwegian_Wood_Bird_Has_Flown,1965,December,3,Yes,Not found,0.0,0.0
+Nowhere_Man,1965,December,3,Yes,Lennon/McCartney,0.0,0.0
+Run_Your_Life,1965,December,3,Yes,Not found,0.0,0.0
+Word,1965,December,3,Yes,Not found,0.0,0.0
+Think_Yourself,1965,December,3,Yes,Not found,0.0,0.0
+Wait,1965,December,3,Yes,Lennon/McCartney,0.0,0.0
+We_Can_Work_It_Out,1965,December,3,Yes,Not found,0.0,0.0
+What_Goes,1965,December,3,Yes,Not found,0.0,0.0
+Youll_Be_Mine,1965,December,3,Yes,Not found,0.0,0.0
+Paperback_Writer,1966,May,30,Yes,Lennon/McCartney,0.0,0.0
+Rain,1966,May,30,Yes,Lennon/McCartney,0.0,0.0
+And_Your_Bird_Can_Sing,1966,August,5,Yes,Lennon/McCartney,0.0,0.0
+Doctor_Robert,1966,August,5,Yes,Lennon/McCartney,0.0,0.0
+Eleanor_Rigby,1966,August,5,Yes,Lennon/McCartney,0.0,0.0
+No_One,1966,August,5,Yes,Not found,0.0,0.0
+Good_Day_Sunshine,1966,August,5,Yes,Lennon/McCartney,0.0,0.0
+Got_Get_You_My_Life,1966,August,5,Yes,Not found,0.0,0.0
+Here_There_And_Everywhere,1966,August,5,Yes,Not found,0.0,0.0
+I_Want_Tell_You,1966,August,5,Yes,Not found,0.0,0.0
+Im_Only_Sleeping,1966,August,5,Yes,Not found,0.0,0.0
+Love_You,1966,August,5,Yes,Not found,0.0,0.0
+She_Said_She_Said,1966,August,5,Yes,Lennon/McCartney,0.0,0.0
+Taxman,1966,August,5,Yes,George Harrison,0.0,0.0
+Tomorrow_Never_Knows,1966,August,5,Yes,Lennon/McCartney,0.0,0.0
+Yellow_Submarine_Pepperland,1966,August,5,No,Not found,0.0,Psychedelic pop
+Penny_Lane,1967,February,13,No,Lennon/McCartney,0.0,Psychedelic rock
+Strawberry_Fields_Forever,1967,February,13,Yes,Lennon/McCartney,0.0,0.0
+Day_Life,1967,June,1,No,Not found,0.0,0.0
+Being_Benefit_Mr_Kite,1967,June,1,Yes,Not found,0.0,0.0
+Fixing_Hole,1967,June,1,Yes,Not found,0.0,0.0
+Getting_Better,1967,June,1,Yes,Lennon/McCartney,0.0,0.0
+Good_Morning_Good_Morning,1967,June,1,Yes,Lennon/McCartney,0.0,0.0
+Lovely_Rita,1967,June,1,Yes,Lennon/McCartney,0.0,0.0
+Lucy_Sky_Diamonds,1967,June,1,Yes,Not found,0.0,0.0
+Sgt_Peppers_Lonely_Hearts_Club_Band,1967,June,1,Yes,Not found,0.0,0.0
+Sgt_Peppers_Lonely_Hearts_Club_Band_Reprise,1967,June,1,Yes,Not found,0.0,0.0
+Shes_Leaving_Home,1967,June,1,Yes,Not found,0.0,0.0
+When_Im_Sixty_Four,1967,June,1,Yes,Not found,0.0,0.0
+Little_Help_My_Friends,1967,June,1,Yes,Not found,0.0,0.0
+Within_You_Without_You,1967,June,1,Yes,George Harrison,0.0,0.0
+All_You_Need_Love,1967,July,7,No,Not found,0.0,0.0
+Baby_Youre_Rich_Man,1967,July,7,Yes,Not found,0.0,0.0
+Hello_Goodbye,1967,November,24,Yes,Not found,0.0,0.0
+I_Am_Walrus,1967,November,24,Yes,Not found,0.0,0.0
+Blue_Jay_Way,1967,November,27,Yes,George Harrison,0.0,0.0
+Flying,1967,November,27,Yes,George Harrison,0.0,0.0
+Magical_Mystery_Tour,1967,November,27,No,Not found,0.0,0.0
+Fool_Hill,1967,November,27,Yes,Not found,0.0,0.0
+Your_Mother_Should_Know,1967,November,27,Yes,Lennon/McCartney,0.0,0.0
+Lady_Madonna,1968,March,15,Yes,Not found,0.0,0.0
+Inner_Light,1968,March,15,Yes,Not found,0.0,0.0
+Hey_Jude,1968,August,26,Yes,Not found,0.0,0.0
+Revolution,1968,August,26,Yes,Lennon/McCartney,0.0,0.0
+Back_Ussr,1968,November,22,Yes,Not found,0.0,0.0
+Birthday,1968,November,22,Yes,Lennon/McCartney,0.0,Folk|length=2:19|row6=[[Apple Records]]|songwriter=[[Lennon/McCartney]]|producer=[[George Martin]]}}
+Blackbird,1968,November,22,Yes,Lennon/McCartney,0.0,Pop rock
+Cry_Baby_Cry,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+Dear_Prudence,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+Dont_Pass_Me,1968,November,22,Yes,Not found,0.0,0.0
+Drive_My_Car,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+Everybodys_Got_Something_Hide_Except_Me_And_My_Monkey,1968,November,22,Yes,Not found,0.0,0.0
+Glass_Onion,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+Good_Night,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+Happiness_Warm_Gun,1968,November,22,Yes,Not found,0.0,"Hard rock, heavy metal, proto-punk|length=4:29|writer=Lennon-McCartney|producer=George Martin}}"
+Helter_Skelter,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+Honey_Pie,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+I_Will,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+Im_So_Tired,1968,November,22,Yes,Not found,0.0,0.0
+Julia,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+Long_Long_Long,1968,November,22,Yes,Not found,0.0,0.0
+Martha_My_Dear,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+Mother_Natures_Son,1968,November,22,Yes,Not found,0.0,0.0
+Ob_La_Di_Ob_La_Da,1968,November,22,Yes,Not found,0.0,0.0
+Piggies,1968,November,22,Yes,George Harrison,0.0,0.0
+Revolution_1,1968,November,22,No,Lennon/McCartney,0.0,Sound collage
+Revolution_9,1968,November,22,No,Lennon/McCartney,0.0,0.0
+Rocky_Raccoon,1968,November,22,Yes,Not found,0.0,0.0
+Savoy_Truffle,1968,November,22,Yes,George Harrison,0.0,Rock|length=3:15|row6=Apple Records|songwriter=Lennon-McCartney|producer=George Martin}}
+Sexy_Sadie,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+Continuing_Story_Bungalow_Bill,1968,November,22,Yes,Not found,0.0,Hard rock
+While_My_Guitar_Gently_Weeps,1968,November,22,Yes,George Harrison,0.0,0.0
+Why_Dont_We_Do_It_Road,1968,November,22,Yes,Not found,0.0,0.0
+Wild_Honey_Pie,1968,November,22,Yes,Lennon/McCartney,0.0,0.0
+Yes_It,1968,November,22,Yes,Not found,0.0,0.0
+All_Together_Now,1969,January,13,No,Not found,0.0,0.0
+Hey_Bulldog,1969,January,13,Yes,Not found,0.0,0.0
+Its_All_Too_Much,1969,January,13,Yes,Not found,0.0,0.0
+Only_Northern_Song,1969,January,13,Yes,Not found,0.0,0.0
+March_Meanies,1969,January,17,No,Not found,0.0,0.0
+Pepperland,1969,January,17,No,Not found,0.0,0.0
+Pepperland_Laid_Waste,1969,January,17,No,Not found,0.0,0.0
+Sea_Holes,1969,January,17,No,Not found,0.0,0.0
+Sea_Monsters,1969,January,17,No,Not found,0.0,0.0
+Sea_Time,1969,January,17,No,Not found,0.0,0.0
+Yer_Blues,1969,January,17,Yes,Lennon/McCartney,0.0,0.0
+Dont_Let_Me_Down,1969,April,11,Yes,Not found,0.0,Blues rock|title1=Get Back|released=11 April 1969|recorded=27\u201328 January 1969|length=3:14 (single version)
+Get_Back,1969,April,11,Yes,Lennon/McCartney,0.0,0.0
+Old_Brown_Shoe,1969,May,30,Yes,George Harrison,0.0,0.0
+Ballad_John_And_Yoko,1969,May,30,Yes,Not found,0.0,0.0
+Because,1969,September,26,Yes,Lennon/McCartney,0.0,0.0
+Carry_Weight,1969,September,26,Yes,Not found,0.0,0.0
+Golden_Slumbers,1969,September,26,Yes,Lennon/McCartney,0.0,0.0
+Her_Majesty,1969,September,26,Yes,Lennon/McCartney,0.0,0.0
+Here_Comes_Sun,1969,September,26,Yes,Not found,0.0,0.0
+I_Want_You,1969,September,26,Yes,Not found,0.0,0.0
+Maxwells_Silver_Hammer,1969,September,26,Yes,Not found,0.0,0.0
+Mean_Mr_Mustard,1969,September,26,Yes,Not found,0.0,0.0
+Oh_Darling,1969,September,26,Yes,Not found,0.0,0.0
+Polythene_Pam,1969,September,26,Yes,Lennon/McCartney,0.0,0.0
+She_Came_Through_Bathroom_Window,1969,September,26,Yes,Not found,0.0,0.0
+Sun_King,1969,September,26,Yes,Lennon/McCartney,0.0,0.0
+End,1969,September,26,Yes,Not found,0.0,0.0
+You_Really_Got_Hold_Me,1969,September,26,No,Not found,0.0,0.0
+Come_Together,1969,October,6,Yes,Lennon/McCartney,0.0,"Rock, pop|length=3:00|row6=Apple Records|songwriter=George Harrison|producer=George Martin}}"
+Something,1969,October,6,Yes,George Harrison,0.0,0.0
+Across_Universe,1969,December,12,Yes,Not found,0.0,0.0
+Octopuss_Garden,1969,December,26,Yes,Not found,0.0,0.0
+Let_It_Be,1970,March,6,No,Not found,0.0,0.0
+Long_And_Winding_Road,1970,May,11,Yes,Not found,0.0,0.0
+Dig_Pony,1970,May,8,Yes,Not found,0.0,0.0
+Dig_It,1970,May,8,Yes,Not found,0.0,0.0
+You_Blue,1970,May,8,Yes,Not found,0.0,0.0
+I_Me_Mine,1970,May,8,Yes,George Harrison,0.0,0.0
+Ive_Got_Feeling,1970,May,8,Yes,Not found,0.0,0.0
+Maggie_Mae,1970,May,8,Yes,Not found,0.0,0.0
+One_After_909,1970,May,8,Yes,Lennon/McCartney,0.0,0.0
+Two_Us,1970,May,8,Yes,Not found,0.0,0.0
+Long_Tall_Sally,1988,March,7,No,Not found,0.0,0.0
+Matchbox,1988,March,7,Yes,Not found,0.0,0.0
+Real_Love,1988,October,10,Yes,Not found,0.0,0.0
+1822,1994,November,30,No,Not found,0.0,0.0
+Little_Rhyme,1994,November,30,No,Not found,0.0,0.0
+Shot_Rhythm_And_Blues,1994,November,30,No,Not found,0.0,0.0
+Beatle_Greetings,1994,November,30,No,Not found,0.0,0.0
+Carol,1994,November,30,Yes,Not found,0.0,0.0
+Clarabella,1994,November,30,Yes,Not found,0.0,0.0
+Crinsk_Dee_Night,1994,November,30,No,Not found,0.0,0.0
+Crying_Waiting_Hoping,1994,November,30,No,Not found,0.0,0.0
+Dear_Wack,1994,November,30,No,Not found,0.0,0.0
+Dont_Ever_Change,1994,November,30,No,Not found,0.0,0.0
+Fluff_You,1994,November,30,No,Not found,0.0,0.0
+Us_You,1994,November,30,Yes,Not found,0.0,0.0
+Glad_All_Over,1994,November,30,No,Not found,0.0,0.0
+Have_Banana,1994,November,30,No,Not found,0.0,0.0
+I_Forgot_Remember_Forget,1994,November,30,No,Not found,0.0,0.0
+I_Got_Woman,1994,November,30,No,Not found,0.0,0.0
+I_Got_Find_My_Baby,1994,November,30,No,Not found,0.0,0.0
+I_Just_Dont_Understand,1994,November,30,No,Not found,0.0,0.0
+Ill_Be_My_Way,1994,November,30,No,Not found,0.0,0.0
+Im_Gonna_Sit_Right_Down_And_Cry,1994,November,30,No,Not found,0.0,0.0
+Johnny_B_Goode,1994,November,30,No,Not found,0.0,0.0
+Just_Rumour,1994,November,30,No,Not found,0.0,0.0
+Keep_Your_Hands_My_Baby,1994,November,30,No,Not found,0.0,0.0
+Lonesome_Tears_My_Eyes,1994,November,30,No,Not found,0.0,0.0
+Love_These_Goon_Shows,1994,November,30,No,Not found,0.0,0.0
+Lucille,1994,November,30,Yes,Not found,0.0,0.0
+Memphis_Tennessee,1994,November,30,No,Not found,0.0,0.0
+Nothin_Shakin,1994,November,30,No,Not found,0.0,0.0
+Ooh_My_Arms,1994,November,30,No,Not found,0.0,0.0
+Ooh_My_Soul,1994,November,30,No,Not found,0.0,0.0
+Riding_Bus,1994,November,30,No,Not found,0.0,0.0
+Set_Fire_Lot,1994,November,30,No,Not found,0.0,0.0
+Sha_La_La_La_La,1994,November,30,No,Not found,0.0,0.0
+So_How_Come_No_One_Loves_Me,1994,November,30,No,Not found,0.0,0.0
+Soldier_Love,1994,November,30,No,Not found,0.0,0.0
+Some_Other_Guy,1994,November,30,No,Not found,0.0,0.0
+Sure_Fall_Love_You,1994,November,30,No,Not found,0.0,0.0
+Sweet_Little_Sixteen,1994,November,30,No,Not found,0.0,0.0
+Thats_All_Right_Mama,1994,November,30,No,Not found,0.0,0.0
+Hippy_Hippy_Shake,1994,November,30,No,Not found,0.0,0.0
+Honeymoon_Song,1994,November,30,No,Not found,0.0,0.0
+Know_Her_Love_Her,1994,November,30,No,Not found,0.0,0.0
+Too_Much_Monkey_Business,1994,November,30,No,Not found,0.0,0.0
+Your_Mother_Should_Know,1994,November,30,Yes,Lennon/McCartney,0.0,0.0
+Baby_Its_You,1995,March,20,No,Not found,0.0,0.0
+Aint_She_Sweet,1995,November,20,No,Not found,0.0,0.0
+Besame_Mucho,1995,November,20,No,Not found,0.0,0.0
+Cayenne,1995,November,20,Yes,Not found,0.0,0.0
+Hallelujah_I_Love_Her_So,1995,November,20,No,Not found,0.0,0.0
+How_Do_You_Do_It,1995,November,20,No,Not found,0.0,0.0
+Spite_All_Danger,1995,November,20,Yes,Not found,0.0,0.0
+Leave_My_Kitten_Alone,1995,November,20,No,Not found,0.0,0.0
+Lend_Me_Your_Comb,1995,November,20,No,Not found,0.0,0.0
+Dreamers_Do,1995,November,20,Yes,Not found,0.0,0.0
+Moonlight_Bay,1995,November,20,No,Not found,0.0,0.0
+My_Bonnie,1995,November,20,No,Not found,0.0,0.0
+Searchin,1995,November,20,No,Not found,0.0,0.0
+Shout,1995,November,20,Yes,Not found,0.0,0.0
+Speech_Brian_Epstein,1995,November,20,No,Not found,0.0,0.0
+Thatll_Be_Day,1995,November,20,No,Not found,0.0,0.0
+Sheik_Araby,1995,November,20,No,Not found,0.0,0.0
+Three_Cool_Cats,1995,November,20,No,Not found,0.0,0.0
+Youre_Going_Lose_Girl,1995,November,20,Yes,Not found,0.0,0.0
+Free_Bird,1995,December,4,Yes,Not found,0.0,0.0
+12_Bar_Original,1996,March,18,No,Not found,0.0,0.0
+If_Youve_Got_Trouble,1996,March,18,Yes,Not found,0.0,0.0
+Means_Lot,1996,March,18,Yes,Not found,0.0,0.0
+Beginning,1996,October,28,No,Not found,0.0,0.0
+All_Things_Must_Pass,1996,October,28,Yes,Not found,0.0,0.0
+Come_And_Get_It,1996,October,28,Yes,Not found,0.0,{{Genre|Folk}}
+Junk,1996,October,28,Yes,Paul McCartney,0.0,0.0
+Mailman_Bring_Me_No_More_Blues,1996,October,28,No,Not found,0.0,0.0
+Not_Guilty,1996,October,28,Yes,George Harrison,0.0,0.0
+Rip_It_Shake_Rattle_And_Roll_Blue_Suede_Shoes,1996,October,28,No,Not found,0.0,0.0
+Step_Inside_Love_Los_Paranoias,1996,October,28,Yes,Not found,0.0,0.0
+Teddy_Boy,1996,October,28,Yes,Not found,0.0,0.0
+Whats_New_Mary_Jane,1996,October,28,Yes,Not found,0.0,0.0
+Komm_Gib_Mir_Deine_Hand,1963,November,29,Yes,Not found,0.0,0.0
+Gnik_Nus,1969,September,26,No,Not found,0.0,0.0
+You_Know_What_Do,1995,November,20,Yes,Not found,0.0,0.0
+You_Never_Give_Me_Your_Money,1969,September,26,Yes,Lennon/McCartney,0.0,0.0
+Sie_Liebt_Dich,1964,March,5,Yes,Not found,0.0,0.0
+Slow_Down,1958,March,7,No,Not found,0.0,0.0
+You_Me_Too_Much,1965,August,6,Yes,Not found,0.0,0.0
