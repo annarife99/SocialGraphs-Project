@@ -1,0 +1,140 @@
+Songs,Album,Release Year
+Sgt. Pepper's Lonely Hearts Club Band ,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+With a Little Help from My Friends,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+Lucy in the Sky with Diamonds,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+Getting Better,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+Fixing a Hole,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+She's Leaving Home,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+Being for the Benefit of Mr. Kite!,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+Within You Without You,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+When I'm Sixty-Four,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+Lovely Rita,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+Good Morning Good Morning,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+Sgt. Pepper's Lonely Hearts Club Band (Reprise),Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+A Day in the Life,Sgt_Peppers_Lonely_Hearts_Club_Band,1967
+Two of Us,Let_It_Be,1970
+Dig a Pony,Let_It_Be,1970
+Across the Universe ,Let_It_Be,1970
+I Me Mine,Let_It_Be,1970
+Dig It,Let_It_Be,1970
+Let It Be ,Let_It_Be,1970
+Maggie Mae,Let_It_Be,1970
+I've Got a Feeling,Let_It_Be,1970
+One After 909,Let_It_Be,1970
+The Long and Winding Road,Let_It_Be,1970
+For You Blue,Let_It_Be,1970
+Get Back,Let_It_Be,1970
+Can't Buy Me Love,Hey_Jude,1970
+I Should Have Known Better,Hey_Jude,1970
+Paperback Writer,Hey_Jude,1970
+Rain,Hey_Jude,1970
+Lady Madonna,Hey_Jude,1970
+Revolution,Hey_Jude,1970
+Hey Jude,Hey_Jude,1970
+Old Brown Shoe,Hey_Jude,1970
+Don't Let Me Down,Hey_Jude,1970
+The Ballad of John and Yoko,Hey_Jude,1970
+Help! ,Help!,1965
+The Night Before,Help!,1965
+From Me to You,Help!,1965
+You've Got to Hide Your Love Away,Help!,1965
+I Need You,Help!,1965
+Another Girl,Help!,1965
+Another Hard Day's Night,Help!,1965
+Ticket to Ride,Help!,1965
+You Can't Do That,Help!,1965
+You're Going to Lose That Girl,Help!,1965
+A Hard Day's Night ,A_Hard_Days_Night,1964
+I Should Have Known Better,A_Hard_Days_Night,1964
+If I Fell,A_Hard_Days_Night,1964
+I'm Happy Just to Dance with You,A_Hard_Days_Night,1964
+And I Love Her,A_Hard_Days_Night,1964
+Tell Me Why,A_Hard_Days_Night,1964
+Can't Buy Me Love,A_Hard_Days_Night,1964
+Any Time at All,A_Hard_Days_Night,1964
+I'll Cry Instead,A_Hard_Days_Night,1964
+Things We Said Today,A_Hard_Days_Night,1964
+When I Get Home,A_Hard_Days_Night,1964
+You Can't Do That,A_Hard_Days_Night,1964
+I'll Be Back,A_Hard_Days_Night,1964
+It Won't Be Long,With_the_Beatles,1963
+All I've Got to Do,With_the_Beatles,1963
+All My Loving,With_the_Beatles,1963
+Don't Bother Me,With_the_Beatles,1963
+Little Child,With_the_Beatles,1963
+Till There Was You,With_the_Beatles,1963
+Please Mr. Postman,With_the_Beatles,1963
+Roll Over Beethoven,With_the_Beatles,1963
+Hold Me Tight,With_the_Beatles,1963
+You Really Got a Hold on Me,With_the_Beatles,1963
+I Wanna Be Your Man,With_the_Beatles,1963
+Devil in Her Heart,With_the_Beatles,1963
+Not a Second Time,With_the_Beatles,1963
+Money (That's What I Want),With_the_Beatles,1963
+I Saw Her Standing There,Please_Please_Me,1963
+Misery,Please_Please_Me,1963
+Anna (Go to Him),Please_Please_Me,1963
+Chains,Please_Please_Me,1963
+Boys,Please_Please_Me,1963
+Ask Me Why,Please_Please_Me,1963
+Please Please Me ,Please_Please_Me,1963
+Love Me Do,Please_Please_Me,1963
+P.S. I Love You,Please_Please_Me,1963
+Baby It's You,Please_Please_Me,1963
+Do You Want to Know a Secret,Please_Please_Me,1963
+A Taste of Honey,Please_Please_Me,1963
+There's a Place,Please_Please_Me,1963
+Twist and Shout,Please_Please_Me,1963
+No Reply,Beatles_for_Sale,1964
+I'm a Loser,Beatles_for_Sale,1964
+Baby's in Black,Beatles_for_Sale,1964
+Rock and Roll Music,Beatles_for_Sale,1964
+I'll Follow the Sun,Beatles_for_Sale,1964
+Mr. Moonlight,Beatles_for_Sale,1964
+Kansas City/Hey-Hey-Hey-Hey!,Beatles_for_Sale,1964
+Eight Days a Week,Beatles_for_Sale,1964
+Words of Love,Beatles_for_Sale,1964
+Honey Don't,Beatles_for_Sale,1964
+Every Little Thing,Beatles_for_Sale,1964
+I Don't Want to Spoil the Party,Beatles_for_Sale,1964
+What You're Doing,Beatles_for_Sale,1964
+Everybody's Trying to Be My Baby,Beatles_for_Sale,1964
+Yellow Submarine ,Yellow_Submarine_Songtrack,1999
+Hey Bulldog,Yellow_Submarine_Songtrack,1999
+Eleanor Rigby,Yellow_Submarine_Songtrack,1999
+Love You To,Yellow_Submarine_Songtrack,1999
+All Together Now ,Yellow_Submarine_Songtrack,1999
+Lucy in the Sky with Diamonds,Yellow_Submarine_Songtrack,1999
+Think for Yourself,Yellow_Submarine_Songtrack,1999
+Sgt. Pepper's Lonely Hearts Club Band ,Yellow_Submarine_Songtrack,1999
+With a Little Help from My Friends,Yellow_Submarine_Songtrack,1999
+Baby You're a Rich Man,Yellow_Submarine_Songtrack,1999
+Only a Northern Song,Yellow_Submarine_Songtrack,1999
+All You Need Is Love,Yellow_Submarine_Songtrack,1999
+When I'm Sixty-Four,Yellow_Submarine_Songtrack,1999
+Nowhere Man,Yellow_Submarine_Songtrack,1999
+It's All Too Much,Yellow_Submarine_Songtrack,1999
+I Saw Her Standing There,Introducing...The_Beatles,1964
+Misery,Introducing...The_Beatles,1964
+Anna (Go to Him),Introducing...The_Beatles,1964
+Chains,Introducing...The_Beatles,1964
+Boys,Introducing...The_Beatles,1964
+Love Me Do,Introducing...The_Beatles,1964
+P.S. I Love You,Introducing...The_Beatles,1964
+Please Please Me ,Introducing...The_Beatles,1964
+Baby It's You,Introducing...The_Beatles,1964
+Do You Want to Know a Secret,Introducing...The_Beatles,1964
+A Taste of Honey,Introducing...The_Beatles,1964
+There's a Place,Introducing...The_Beatles,1964
+Twist and Shout,Introducing...The_Beatles,1964
+Drive My Car,Yesterday_and_Today,1966
+I'm Only Sleeping,Yesterday_and_Today,1966
+Nowhere Man,Yesterday_and_Today,1966
+Doctor Robert,Yesterday_and_Today,1966
+Yesterday,Yesterday_and_Today,1966
+Act Naturally,Yesterday_and_Today,1966
+And Your Bird Can Sing,Yesterday_and_Today,1966
+If I Needed Someone,Yesterday_and_Today,1966
+We Can Work It Out,Yesterday_and_Today,1966
+What Goes On,Yesterday_and_Today,1966
+Day Tripper,Yesterday_and_Today,1966
