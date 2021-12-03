@@ -1,0 +1,302 @@
+Song,Year,Month,Day,Lyrics,Writer,Album
+Love_Me_Do,1962,October,5,Yes,Lennon/McCartney,Please_Please_Me
+Ps_I_Love_You,1962,October,5,Yes,Lennon/McCartney,Please_Please_Me
+Ask_Me_Why,1963,January,11,Yes,Lennon/McCartney,Please_Please_Me
+Please_Please_Me,1963,January,11,No,Lennon,Please_Please_Me
+Taste_Honey,1963,March,22,No,Not found,Please_Please_Me
+Anna_Go_Him,1963,March,22,No,Not found,Please_Please_Me
+Boys,1963,March,22,Yes,"Dixon, Farrell",Please_Please_Me
+Chains,1963,March,22,Yes,"Goffin, King",Please_Please_Me
+Do_You_Want_Know_Secret,1963,March,22,Yes,Lennon,Please_Please_Me
+I_Saw_Her_Standing_There,1963,March,22,Yes,Lennon/McCartney,Please_Please_Me
+Misery,1963,March,22,Yes,Lennon/McCartney,Please_Please_Me
+Theres_Place,1963,March,22,Yes,Lennon/McCartney,Please_Please_Me
+Twist_And_Shout,1963,March,22,No,Not found,Please_Please_Me
+Me_You,1963,April,11,Yes,Lennon/McCartney,Single
+Thank_You_Girl,1963,April,11,Yes,Lennon/McCartney,UK: Rarities US: The Beatles Second Album
+Ill_Get_You,1963,August,23,Yes,Lennon/McCartney,Single
+She_Loves_You,1963,August,23,Yes,Lennon/McCartney,UK: A Collection of Beatles Oldies US: The Beatles Second Album
+Hello_Little_Girl,1963,August,30,Yes,Lennon,Anthology 1
+All_Ive_Got_Do,1963,November,22,Yes,Lennon,With_the_Beatles
+All_My_Loving,1963,November,22,Yes,Lennon/McCartney,With_the_Beatles
+Devil_Her_Heart,1963,November,22,Yes,Not found,With_the_Beatles
+Dont_Bother_Me,1963,November,22,Yes,Harrison,With_the_Beatles
+Hold_Me_Tight,1963,November,22,Yes,Lennon/McCartney,With_the_Beatles
+I_Wanna_Be_Your_Man,1963,November,22,Yes,Lennon/McCartney,With_the_Beatles
+It_Wont_Be_Long,1963,November,22,Yes,Lennon/McCartney,With_the_Beatles
+Little_Child,1963,November,22,Yes,Lennon/McCartney,With_the_Beatles
+Money_Thats_What_I_Want,1963,November,22,No,Not found,With_the_Beatles
+Not_Second_Time,1963,November,22,Yes,Lennon,With_the_Beatles
+Please_Mister_Postman,1963,November,22,No,Not found,With_the_Beatles
+Roll_Over_Beethoven,1963,November,22,No,Berry,With_the_Beatles
+Till_There_Was_You,1963,November,22,No,Willson,With_the_Beatles
+You_Wont_See_Me,1963,November,22,Yes,McCartney,Single
+I_Want_Hold_Your_Hand,1963,November,29,Yes,Lennon/McCartney,Single
+Boy,1963,November,29,Yes,Not found,Please_Please_Me
+Cry_Shadow,1964,March,27,No,Lennon/Harrison,Anthology 1
+Any_Time_All,1964,June,10,Yes,Lennon/McCartney,A_Hard_Days_Night
+Ill_Be_Back,1964,June,10,Yes,Lennon,A_Hard_Days_Night
+When_I_Get_Home,1964,June,10,Yes,Lennon/McCartney,A_Hard_Days_Night
+I_Call_Your_Name,1964,June,19,Yes,Lennon,UK: Past Masters Volume 1 US: The Beatles Second Album
+Hard_Days_Night,1964,July,10,No,Lennon,A_Hard_Days_Night
+And_I_Love_Her,1964,July,10,Yes,Lennon/McCartney,A_Hard_Days_Night
+Cant_Buy_Me_Love,1964,July,10,Yes,McCartney,A_Hard_Days_Night
+I_Should_Have_Known_Better,1964,July,10,Yes,Lennon/McCartney,Hey_Jude
+Ill_Cry_Instead,1964,July,10,Yes,Lennon,A_Hard_Days_Night
+If_I_Fell,1964,July,10,Yes,Lennon/McCartney,A_Hard_Days_Night
+Tell_Me_Why,1964,July,10,Yes,Lennon/McCartney,A_Hard_Days_Night
+Things_We_Said_Today,1964,July,10,Yes,Lennon/McCartney,A_Hard_Days_Night
+You_Know_My_Name,1964,July,10,Yes,Lennon/McCartney,Single
+Im_Happy_Just_Dance_You,1964,August,20,Yes,Lennon/McCartney,A_Hard_Days_Night
+I_Feel_Fine,1964,November,23,Yes,Lennon,UK: A Collection of Beatles Oldies US: Beatles '65
+Shes_Woman,1964,November,23,Yes,McCartney,Single
+Babys_Black,1964,December,4,Yes,Lennon/McCartney,Single
+Eight_Days_Week,1964,December,4,Yes,Lennon/McCartney,Single
+Every_Little_Thing,1964,December,4,Yes,Lennon/McCartney,Beatles_for_Sale
+Everybodys_Trying_Be_My_Baby,1964,December,4,Yes,Not found,UK: A Collection of Beatles Oldies US: Beatles '65
+Honey_Dont,1964,December,4,Yes,Not found,Single
+I_Dont_Want_Spoil_Party,1964,December,4,Yes,Not found,Single
+Ill_Follow_Sun,1964,December,4,Yes,Not found,Single
+Im_Loser,1964,December,4,Yes,Not found,Single
+Kansas_City_Hey_Hey_Hey_Hey,1964,December,4,No,Not found,Single
+Mr_Moonlight,1964,December,4,No,Not found,Single
+No_Reply,1964,December,4,Yes,Lennon/McCartney,Beatles_for_Sale
+Rock_And_Roll_Music,1964,December,4,No,Not found,Single
+What_Youre_Doing,1964,December,4,Yes,Not found,Single
+Yellow_Submarine,1964,December,4,No,McCartney,Revolver
+Ticket_Ride,1965,April,9,Yes,Not found,Single
+Yesterday,1965,April,9,Yes,Lennon/McCartney,Yesterday_and_Today
+Bad_Boy,1965,June,14,No,Lennon/McCartney,UK: A Collection of Beatles Oldies US: Beatles VI
+Help,1965,July,19,No,Lennon/McCartney,Help!
+Im_Down,1965,July,19,Yes,McCartney,Single
+Act_Naturally,1965,August,6,No,"Russell, Morrison",Yesterday_and_Today
+Another_Girl,1965,August,6,Yes,Lennon/McCartney,Help!
+Dizzy_Miss_Lizzy,1965,August,6,No,Not found,Help!
+I_Need_You,1965,August,6,Yes,Harrison,Help!
+Ive_Just_Seen_Face,1965,August,6,Yes,McCartney,Help!
+Its_Only_Love,1965,August,6,Yes,Lennon,Help!
+Tell_Me_What_You_See,1965,August,6,Yes,Lennon/McCartney,Help!
+Night,1965,August,6,Yes,Lennon,The Beatles
+You_Cant_Do,1965,August,6,Yes,Lennon,A_Hard_Days_Night
+Youve_Got_Hide_Your_Love_Away,1965,August,6,Yes,Lennon,Help!
+Young_Blood,1965,August,6,No,"Leiber, Stoller",Live at the BBC
+Day_Tripper,1965,December,3,Yes,"Lennon, with McCartney",Yesterday_and_Today
+Girl,1965,December,3,Yes,Lennon/McCartney,Rubber Soul
+Im_Looking_Through_You,1965,December,3,Yes,McCartney,Rubber Soul
+If_I_Needed_Someone,1965,December,3,Yes,Harrison,Yesterday_and_Today
+My_Life,1965,December,3,Yes,Lennon/McCartney,Rubber Soul
+Michelle,1965,December,3,Yes,Lennon/McCartney,Rubber Soul
+Norwegian_Wood_Bird_Has_Flown,1965,December,3,Yes,Lennon/McCartney,Rubber Soul
+Nowhere_Man,1965,December,3,Yes,Lennon/McCartney,Yellow Submarine
+Run_Your_Life,1965,December,3,Yes,Lennon/McCartney,Rubber Soul
+Word,1965,December,3,Yes,Lennon/McCartney,Rubber Soul
+Think_Yourself,1965,December,3,Yes,Harrison,Rubber Soul
+Wait,1965,December,3,Yes,Lennon/McCartney,Rubber Soul
+We_Can_Work_It_Out,1965,December,3,Yes,"McCartney, with Lennon",Yesterday_and_Today
+What_Goes,1965,December,3,Yes,Lennon/McCartney,Rubber Soul
+Youll_Be_Mine,1965,December,3,Yes,Lennon/McCartney,Anthology 1
+Paperback_Writer,1966,May,30,Yes,Lennon/McCartney,Hey_Jude
+Rain,1966,May,30,Yes,Lennon/McCartney,Hey_Jude
+And_Your_Bird_Can_Sing,1966,August,5,Yes,Lennon/McCartney,Yesterday_and_Today
+Doctor_Robert,1966,August,5,Yes,Lennon/McCartney,Yesterday_and_Today
+Eleanor_Rigby,1966,August,5,Yes,Lennon/McCartney,Yellow Submarine
+No_One,1966,August,5,Yes,McCartney,Revolver
+Good_Day_Sunshine,1966,August,5,Yes,Lennon/McCartney,Revolver
+Got_Get_You_My_Life,1966,August,5,Yes,McCartney,Revolver
+Here_There_And_Everywhere,1966,August,5,Yes,McCartney,Revolver
+I_Want_Tell_You,1966,August,5,Yes,Harrison,Revolver
+Im_Only_Sleeping,1966,August,5,Yes,Lennon,Revolver
+Love_You,1966,August,5,Yes,Harrison,Revolver
+She_Said_She_Said,1966,August,5,Yes,Lennon/McCartney,Revolver
+Taxman,1966,August,5,Yes,George Harrison,Revolver
+Tomorrow_Never_Knows,1966,August,5,Yes,Lennon/McCartney,Revolver
+Yellow_Submarine_Pepperland,1966,August,5,No,McCartney,Revolver
+Penny_Lane,1967,February,13,No,Lennon/McCartney,Magical Mystery Tour
+Strawberry_Fields_Forever,1967,February,13,Yes,Lennon/McCartney,Magical Mystery Tour
+Day_Life,1967,June,1,No,Lennon/McCartney,Single
+Being_Benefit_Mr_Kite,1967,June,1,Yes,Lennon/McCartney,Sgt_Peppers_Lonely_Hearts_Club_Band
+Fixing_Hole,1967,June,1,Yes,McCartney,Sgt_Peppers_Lonely_Hearts_Club_Band
+Getting_Better,1967,June,1,Yes,Lennon/McCartney,Sgt_Peppers_Lonely_Hearts_Club_Band
+Good_Morning_Good_Morning,1967,June,1,Yes,Lennon/McCartney,Sgt_Peppers_Lonely_Hearts_Club_Band
+Lovely_Rita,1967,June,1,Yes,Lennon/McCartney,Sgt_Peppers_Lonely_Hearts_Club_Band
+Lucy_Sky_Diamonds,1967,June,1,Yes,Lennon/McCartney,Sgt_Peppers_Lonely_Hearts_Club_Band
+Sgt_Peppers_Lonely_Hearts_Club_Band,1967,June,1,Yes,McCartney,Sgt_Peppers_Lonely_Hearts_Club_Band
+Sgt_Peppers_Lonely_Hearts_Club_Band_Reprise,1967,June,1,Yes,McCartney,Sgt_Peppers_Lonely_Hearts_Club_Band
+Shes_Leaving_Home,1967,June,1,Yes,Lennon/McCartney,Sgt_Peppers_Lonely_Hearts_Club_Band
+When_Im_Sixty_Four,1967,June,1,Yes,McCartney,Sgt_Peppers_Lonely_Hearts_Club_Band
+Little_Help_My_Friends,1967,June,1,Yes,Lennon/McCartney,Sgt_Peppers_Lonely_Hearts_Club_Band
+Within_You_Without_You,1967,June,1,Yes,Harrison,Sgt_Peppers_Lonely_Hearts_Club_Band
+All_You_Need_Love,1967,July,7,No,Lennon,Magical Mystery Tour
+Baby_Youre_Rich_Man,1967,July,7,Yes,Lennon/McCartney,Magical Mystery Tour
+Hello_Goodbye,1967,November,24,Yes,McCartney,Magical Mystery Tour
+I_Am_Walrus,1967,November,24,Yes,Lennon,Magical Mystery Tour
+Blue_Jay_Way,1967,November,27,Yes,Harrison,Magical Mystery Tour
+Flying,1967,November,27,Yes,Harrison,Magical Mystery Tour
+Magical_Mystery_Tour,1967,November,27,No,Lennon/McCartney,Magical Mystery Tour
+Fool_Hill,1967,November,27,Yes,McCartney,Magical Mystery Tour
+Your_Mother_Should_Know,1967,November,27,Yes,Lennon/McCartney,Magical Mystery Tour
+Lady_Madonna,1968,March,15,Yes,"McCartney, with Lennon",Hey_Jude
+Inner_Light,1968,March,15,Yes,Harrison,Single
+Hey_Jude,1968,August,26,Yes,McCartney,Hey_Jude
+Revolution,1968,August,26,Yes,Lennon/McCartney,Hey_Jude
+Back_Ussr,1968,November,22,Yes,McCartney,The Beatles
+Birthday,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Blackbird,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Cry_Baby_Cry,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Dear_Prudence,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Dont_Pass_Me,1968,November,22,Yes,Not found,The Beatles
+Drive_My_Car,1968,November,22,Yes,Lennon/McCartney,Yesterday_and_Today
+Everybodys_Got_Something_Hide_Except_Me_And_My_Monkey,1968,November,22,Yes,Lennon,The Beatles
+Glass_Onion,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Good_Night,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Happiness_Warm_Gun,1968,November,22,Yes,Lennon,The Beatles
+Helter_Skelter,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Honey_Pie,1968,November,22,Yes,Lennon/McCartney,The Beatles
+I_Will,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Im_So_Tired,1968,November,22,Yes,Lennon,The Beatles
+Julia,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Long_Long_Long,1968,November,22,Yes,Harrison,The Beatles
+Martha_My_Dear,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Mother_Natures_Son,1968,November,22,Yes,McCartney,The Beatles
+Ob_La_Di_Ob_La_Da,1968,November,22,Yes,McCartney,The Beatles
+Piggies,1968,November,22,Yes,Harrison,The Beatles
+Revolution_1,1968,November,22,No,Lennon/McCartney,The Beatles
+Revolution_9,1968,November,22,No,Lennon/McCartney,The Beatles
+Rocky_Raccoon,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Savoy_Truffle,1968,November,22,Yes,Harrison,The Beatles
+Sexy_Sadie,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Continuing_Story_Bungalow_Bill,1968,November,22,Yes,Lennon,The Beatles
+While_My_Guitar_Gently_Weeps,1968,November,22,Yes,Harrison,The Beatles
+Why_Dont_We_Do_It_Road,1968,November,22,Yes,McCartney,The Beatles
+Wild_Honey_Pie,1968,November,22,Yes,Lennon/McCartney,The Beatles
+Yes_It,1968,November,22,Yes,Lennon,Single
+All_Together_Now,1969,January,13,No,Lennon/McCartney,Yellow Submarine
+Hey_Bulldog,1969,January,13,Yes,Lennon,Yellow Submarine
+Its_All_Too_Much,1969,January,13,Yes,Harrison,Yellow Submarine
+Only_Northern_Song,1969,January,13,Yes,Harrison,Yellow Submarine
+March_Meanies,1969,January,17,No,Not found,Single
+Pepperland,1969,January,17,No,Not found,Single
+Pepperland_Laid_Waste,1969,January,17,No,Not found,Single
+Sea_Holes,1969,January,17,No,Not found,Single
+Sea_Monsters,1969,January,17,No,Not found,Single
+Sea_Time,1969,January,17,No,Not found,Single
+Yer_Blues,1969,January,17,Yes,Lennon/McCartney,The Beatles
+Dont_Let_Me_Down,1969,April,11,Yes,Lennon, Hey_Jude
+Get_Back,1969,April,11,Yes,Lennon/McCartney,Let_It_Be
+Old_Brown_Shoe,1969,May,30,Yes,Harrison,Hey_Jude
+Ballad_John_And_Yoko,1969,May,30,Yes,Lennon, Hey_Jude
+Because,1969,September,26,Yes,Lennon/McCartney,Abbey Road
+Carry_Weight,1969,September,26,Yes,McCartney,Abbey Road
+Golden_Slumbers,1969,September,26,Yes,Lennon/McCartney,Abbey Road
+Her_Majesty,1969,September,26,Yes,Lennon/McCartney,Abbey Road
+Here_Comes_Sun,1969,September,26,Yes,Harrison,Abbey Road
+I_Want_You,1969,September,26,Yes,Lennon,Abbey Road
+Maxwells_Silver_Hammer,1969,September,26,Yes,McCartney,Abbey Road
+Mean_Mr_Mustard,1969,September,26,Yes,Lennon,Abbey Road
+Oh_Darling,1969,September,26,Yes,McCartney,Abbey Road
+Polythene_Pam,1969,September,26,Yes,Lennon/McCartney,Abbey Road
+She_Came_Through_Bathroom_Window,1969,September,26,Yes,McCartney,Abbey Road
+Sun_King,1969,September,26,Yes,Lennon/McCartney,Abbey Road
+End,1969,September,26,Yes,McCartney,Abbey Road
+You_Really_Got_Hold_Me,1969,September,26,No,Not found,With_the_Beatles
+Come_Together,1969,October,6,Yes,Lennon/McCartney,Abbey Road
+Something,1969,October,6,Yes,George Harrison,Abbey Road
+Across_Universe,1969,December,12,Yes,Lennon,Let_It_Be
+Octopuss_Garden,1969,December,26,Yes,Not found,Abbey Road
+Let_It_Be,1970,March,6,No,McCartney,Let It Be
+Long_And_Winding_Road,1970,May,11,Yes,McCartney,Let_It_Be
+Dig_Pony,1970,May,8,Yes,Lennon,Let_It_Be
+Dig_It,1970,May,8,Yes, Lennon/McCartney/Harrison/Starkey,Let_It_Be
+You_Blue,1970,May,8,Yes,Harrison,Let_It_Be
+I_Me_Mine,1970,May,8,Yes,Harrison,Let_It_Be
+Ive_Got_Feeling,1970,May,8,Yes,Lennon/McCartney,Let_It_Be
+Maggie_Mae,1970,May,8,Yes,Lennon/McCartney/Harrison/Starkey,Let_It_Be
+One_After_909,1970,May,8,Yes,Lennon/McCartney,Let_It_Be
+Two_Us,1970,May,8,Yes,McCartney,Let_It_Be
+Long_Tall_Sally,1988,March,7,No,Not found,The Beatles
+Matchbox,1988,March,7,Yes,Perkins/Jefferson,Single
+Real_Love,1988,October,10,Yes,Lennon/McCartney/Harrison/Starkey,Anthology 2
+1822,1994,November,30,No,Not found,Single
+Little_Rhyme,1994,November,30,No,Not found,Single
+Shot_Rhythm_And_Blues,1994,November,30,No,Not found,Single
+Beatle_Greetings,1994,November,30,No,Not found,Single
+Carol,1994,November,30,Yes,Berry,Live at the BBC
+Clarabella,1994,November,30,Yes,Pingatore,Live at the BBC
+Crinsk_Dee_Night,1994,November,30,No,Not found,Single
+Crying_Waiting_Hoping,1994,November,30,No,Not found,Live at the BBC
+Dear_Wack,1994,November,30,No,Not found,Single
+Dont_Ever_Change,1994,November,30,No,Not found,Live at the BBC
+Fluff_You,1994,November,30,No,Not found,Single
+Us_You,1994,November,30,Yes,Not found,Single
+Glad_All_Over,1994,November,30,No,Bennett/Tepper/Schroeder,Live at the BBC
+Have_Banana,1994,November,30,No,Not found,Single
+I_Forgot_Remember_Forget,1994,November,30,No,Not found,Live at the BBC
+I_Got_Woman,1994,November,30,No,Not found,Live at the BBC
+I_Got_Find_My_Baby,1994,November,30,No,Berry,Live at the BBC
+I_Just_Dont_Understand,1994,November,30,No,Not found,Live at the BBC
+Ill_Be_My_Way,1994,November,30,No,McCartney,Live at the BBC
+Im_Gonna_Sit_Right_Down_And_Cry,1994,November,30,No,Not found,Live at the BBC
+Johnny_B_Goode,1994,November,30,No,Not found,Live at the BBC
+Just_Rumour,1994,November,30,No,Not found,Single
+Keep_Your_Hands_My_Baby,1994,November,30,No,Not found,Single
+Lonesome_Tears_My_Eyes,1994,November,30,No,Not found,Live at the BBC
+Love_These_Goon_Shows,1994,November,30,No,Not found,Single
+Lucille,1994,November,30,Yes,"Penniman, Collins",Live at the BBC
+Memphis_Tennessee,1994,November,30,No,Berry,Live at the BBC
+Nothin_Shakin,1994,November,30,No,Not found,Live at the BBC
+Ooh_My_Arms,1994,November,30,No,Not found,Single
+Ooh_My_Soul,1994,November,30,No,Not found,Single
+Riding_Bus,1994,November,30,No,Not found,Single
+Set_Fire_Lot,1994,November,30,No,Not found,Single
+Sha_La_La_La_La,1994,November,30,No,Not found,Single
+So_How_Come_No_One_Loves_Me,1994,November,30,No,Not found,Live at the BBC
+Soldier_Love,1994,November,30,No,Not found,Single
+Some_Other_Guy,1994,November,30,No,"Leiber, Stoller, Barrett",Live at the BBC
+Sure_Fall_Love_You,1994,November,30,No,Not found,Live at the BBC
+Sweet_Little_Sixteen,1994,November,30,No,Berry,Live at the BBC
+Thats_All_Right_Mama,1994,November,30,No,Not found,Live at the BBC
+Hippy_Hippy_Shake,1994,November,30,No,Romero,Live at the BBC
+Honeymoon_Song,1994,November,30,No,Not found,Live at the BBC
+Know_Her_Love_Her,1994,November,30,No,Not found,Live at the BBC
+Too_Much_Monkey_Business,1994,November,30,No,Berry,Live at the BBC
+Your_Mother_Should_Know,1994,November,30,Yes,Lennon/McCartney,Magical Mystery Tour
+Baby_Its_You,1995,March,20,No,Not found,Please_Please_Me
+Aint_She_Sweet,1995,November,20,No,Berry,Live at the BBC
+Besame_Mucho,1995,November,20,No,Not found,Single
+Cayenne,1995,November,20,Yes,McCartney,Anthology 1
+Hallelujah_I_Love_Her_So,1995,November,20,No,Not found,Anthology 1
+How_Do_You_Do_It,1995,November,20,No,Not found,Anthology 1
+Spite_All_Danger,1995,November,20,Yes,McCartney/Harrison,Anthology 1
+Leave_My_Kitten_Alone,1995,November,20,No,"Turner, McDougall",Anthology 1
+Lend_Me_Your_Comb,1995,November,20,No,"Twomey, Wise, Weisman",Anthology 1
+Dreamers_Do,1995,November,20,Yes,McCartney,Anthology 1
+Moonlight_Bay,1995,November,20,No,"Percy Wenrich, Edward Madden",Anthology 1
+My_Bonnie,1995,November,20,No,"Traditional, arr. Sheridan",Anthology 1
+Searchin,1995,November,20,No,Not found,Anthology 1
+Shout,1995,November,20,Yes,"Isley, Isley, Isley",Anthology 1
+Speech_Brian_Epstein,1995,November,20,No,Not found,Single
+Thatll_Be_Day,1995,November,20,No,Not found,Anthology 1
+Sheik_Araby,1995,November,20,No,Not found,Anthology 1
+Three_Cool_Cats,1995,November,20,No,"Leiber, Stoller",Anthology 1
+Youre_Going_Lose_Girl,1995,November,20,Yes,Lennon,Help!
+Free_Bird,1995,December,4,Yes,Lennon/McCartney/Harrison/Starkey,Anthology 1
+12_Bar_Original,1996,March,18,No,Lennon/McCartney/Harrison/Starkey,Anthology 2
+If_Youve_Got_Trouble,1996,March,18,Yes,Lennon/McCartney,Anthology 2
+Means_Lot,1996,March,18,Yes,McCartney,Anthology 2
+Beginning,1996,October,28,No,Not found,Single
+All_Things_Must_Pass,1996,October,28,Yes,Harrison,Anthology 3
+Come_And_Get_It,1996,October,28,Yes,McCartney,Anthology 3
+Junk,1996,October,28,Yes,McCartney,Anthology 3
+Mailman_Bring_Me_No_More_Blues,1996,October,28,No,Not found,Anthology 3
+Not_Guilty,1996,October,28,Yes,Harrison,Anthology 3
+Rip_It_Shake_Rattle_And_Roll_Blue_Suede_Shoes,1996,October,28,No,Not found,Anthology 3
+Step_Inside_Love_Los_Paranoias,1996,October,28,Yes,McCartney,Anthology 3
+Teddy_Boy,1996,October,28,Yes,McCartney,Anthology 3
+Whats_New_Mary_Jane,1996,October,28,Yes,Lennon,Anthology 3
+Komm_Gib_Mir_Deine_Hand,1963,November,29,Yes,Lennon/McCartney/Nicolas/Hellmer,UK: Rarities US: Something New
+Gnik_Nus,1969,September,26,No,Not found,Single
+You_Know_What_Do,1995,November,20,Yes,Harrison,Anthology 1
+You_Never_Give_Me_Your_Money,1969,September,26,Yes,Lennon/McCartney,Abbey Road
+Sie_Liebt_Dich,1964,March,5,Yes,Lennon and McCartney/Nicolas/Montague,UK: Rarities US: Rarities
+Slow_Down,1958,March,7,No,Williams,UK: Rock 'n' Roll Music US: Something New
+You_Me_Too_Much,1965,August,6,Yes,McCartney/Lennon,Help! 
